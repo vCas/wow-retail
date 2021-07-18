@@ -20,7 +20,7 @@ $ignore = @"
 !CurseBreaker.exe
 
 #Interface Stuff
-!/Screenshots/
+!/Screenshots/**
 !/Interface/AddOns/SharedMedia/**
 !/Interface/AddOns/SharedMedia_MyMedia/**
 !/Interface/AddOns/AKureqUI/**
