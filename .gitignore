@@ -15,21 +15,13 @@
 !CurseBreaker.exe
 
 #ACCOUNTS
-
-CASTHEWARLORD
+!/WTF/Account/CASTHEWARLORD/**
 
 #EXTRA FOLDERS
-
-!/WTF/Account/CASTHEWARLORD/**
-
-!/WTF/Account/CASTHEWARLORD/**
-
-!/WTF/Account/CASTHEWARLORD/**
-
-!/WTF/Account/CASTHEWARLORD/**
-
-!/WTF/Account/CASTHEWARLORD/**
-
-!/WTF/Account/CASTHEWARLORD/**
-
-!/WTF/Account/CASTHEWARLORD/**
+!/Screenshots/**
+!/Interface/AddOns/SharedMedia/**
+!/Interface/AddOns/SharedMedia_MyMedia/**
+!/Interface/AddOns/AKureqUI/**
+!/Interface/ole/**
+!/Interface/Textures/**
+!/Interface/wizard/**

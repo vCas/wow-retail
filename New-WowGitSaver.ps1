@@ -41,12 +41,12 @@ $date = Get-Date -Format "yyyy-MM-dd"
 New-Item -Path . -Name ".gitignore" -ItemType "File" -Value $ignore -Force | Out-Null
 Add-Content -Path ".gitignore" -Value "`n#ACCOUNTS"
 foreach ($a in $accounts) {
-    Add-Content -Path ".gitignore" -Value "`n$a"
+    Add-Content -Path ".gitignore" -Value "!/WTF/Account/$a/**"
 }
 
 Add-Content -Path ".gitignore" -Value "`n#EXTRA FOLDERS"
 foreach ($f in $includeFolders) {
-    Add-Content -Path ".gitignore" -Value "`n!/WTF/Account/$a/**"
+    Add-Content -Path ".gitignore" -Value "$f"
 }
 
 if (-Not (Test-Path -Path "README.md")) {
