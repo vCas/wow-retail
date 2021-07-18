@@ -1,8 +1,8 @@
 #Ignore All Folders?
 *
 !*/
-!/.gitignore
-
+!.gitignore
+!New-WowGitSaver.ps1
 #CurseBreaker
 !/WTF/Config.wtf
 !/WTF/CurseBreaker.cache
