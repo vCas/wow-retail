@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: AKureqUI
+## Notes: Something Awesome
+## Author: Viktor Bergqvist
+## Version: 0.0.1
+## SavedVariables: AKureqUIDB
+## OptionalDeps: Ace3, Masque
+
+Embeds.xml
+
+AKureqUI.lua
+
+Modules.xml

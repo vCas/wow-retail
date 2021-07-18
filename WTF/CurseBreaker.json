@@ -1,0 +1,547 @@
+{
+    "Addons": [
+        {
+            "Checksums": {
+                "Plater": "a73ea4c0f01a24736bc4c4c1815f9dcc"
+            },
+            "Directories": [
+                "Plater"
+            ],
+            "Name": "Plater Nameplates",
+            "URL": "https://www.curseforge.com/wow/addons/plater-nameplates",
+            "Version": "Plater-v336"
+        },
+        {
+            "Checksums": {
+                "WeakAuras": "3001b8962351334135399229f4a76cac",
+                "WeakAurasArchive": "90d6647b645d48910749246b96b8c8e0",
+                "WeakAurasModelPaths": "8f83b188b00ec1a15214b33b33e9b708",
+                "WeakAurasOptions": "d47cedd29007a0c2ddef3dafec4ac102",
+                "WeakAurasTemplates": "a0253d880367fec063422d527b05ca2e"
+            },
+            "Directories": [
+                "WeakAurasModelPaths",
+                "WeakAuras",
+                "WeakAurasArchive",
+                "WeakAurasOptions",
+                "WeakAurasTemplates"
+            ],
+            "Name": "WeakAuras",
+            "URL": "https://www.curseforge.com/wow/addons/weakauras-2",
+            "Version": "3.5.0"
+        },
+        {
+            "Checksums": {
+                "Details": "c0ed82810d92b6bcc321bdf0accf6d94",
+                "Details_DataStorage": "7a848d53c142c48db7ec56e194e5ee17",
+                "Details_EncounterDetails": "fe5e8f384370ad1f4f309e5108ec731d",
+                "Details_RaidCheck": "ce7077e9d2fe712464a5a0df2eeb20e0",
+                "Details_Streamer": "159d8f8e348bab65be9b896ad7778d25",
+                "Details_TinyThreat": "aac2ec552130dd63a1f191e8154c2fbd",
+                "Details_Vanguard": "a7cace113174be558097c1ce80c9908e"
+            },
+            "Directories": [
+                "Details_EncounterDetails",
+                "Details_Vanguard",
+                "Details_Streamer",
+                "Details_TinyThreat",
+                "Details_RaidCheck",
+                "Details_DataStorage",
+                "Details"
+            ],
+            "Name": "Details! Damage Meter",
+            "URL": "https://www.curseforge.com/wow/addons/details",
+            "Version": "DetailsRetail.9.1.0.8722.145"
+        },
+        {
+            "Checksums": {
+                "BigWigs": "d937932792b13ceec70ef401ea7a0860",
+                "BigWigs_CastleNathria": "f0166d28e464eb4520a6d445818f981e",
+                "BigWigs_Core": "66b49efa5f1cbd0806770ab95fcfc0d9",
+                "BigWigs_Options": "9f2e576e4fd69a81dfc9a422af2ed456",
+                "BigWigs_Plugins": "dd16f2fcec657257528550005b1b6393",
+                "BigWigs_SanctumOfDomination": "c397f25d5a407ce52d3b5a7b2df6c237",
+                "BigWigs_Shadowlands": "c24a386c56e96ed88fe82c12bee8f84f"
+            },
+            "Directories": [
+                "BigWigs",
+                "BigWigs_Options",
+                "BigWigs_Plugins",
+                "BigWigs_Shadowlands",
+                "BigWigs_CastleNathria",
+                "BigWigs_Core",
+                "BigWigs_SanctumOfDomination"
+            ],
+            "Name": "BigWigs Bossmods",
+            "URL": "https://www.curseforge.com/wow/addons/big-wigs",
+            "Version": "v230.2"
+        },
+        {
+            "Checksums": {
+                "LittleWigs": "743ccd84abe6b143777d796e196a3ff1",
+                "LittleWigs_BattleForAzeroth": "13453e5f22578cc91833448663d2ddd3",
+                "LittleWigs_BurningCrusade": "f04ca9834c7a9700ab5d371e81b4c2d6",
+                "LittleWigs_Cataclysm": "f8f3ba79da9f7cb52c2023f91c14fea8",
+                "LittleWigs_Classic": "406baaf32d4a20f7b171dfd51e3e196e",
+                "LittleWigs_Legion": "8e4969186a374e1f62083e405c527c9f",
+                "LittleWigs_MistsOfPandaria": "5dd8fe9aaa8dc215c22ab41405577771",
+                "LittleWigs_WarlordsOfDraenor": "2facdf0b1f65c3cb546c85f27d05b3f1",
+                "LittleWigs_WrathOfTheLichKing": "d1fdadc9a950d0dec35bdd8f8c727b7e"
+            },
+            "Directories": [
+                "LittleWigs_Classic",
+                "LittleWigs",
+                "LittleWigs_WarlordsOfDraenor",
+                "LittleWigs_MistsOfPandaria",
+                "LittleWigs_BurningCrusade",
+                "LittleWigs_Cataclysm",
+                "LittleWigs_WrathOfTheLichKing",
+                "LittleWigs_Legion",
+                "LittleWigs_BattleForAzeroth"
+            ],
+            "Name": "LittleWigs",
+            "URL": "https://www.curseforge.com/wow/addons/little-wigs",
+            "Version": "v9.1.3"
+        },
+        {
+            "Checksums": {
+                "AdvancedInterfaceOptions": "e8bfd8d4c29203d0a42cfdcdb9a3bfb4"
+            },
+            "Directories": [
+                "AdvancedInterfaceOptions"
+            ],
+            "Name": "AdvancedInterfaceOptions",
+            "URL": "https://www.curseforge.com/wow/addons/advancedinterfaceoptions",
+            "Version": "1.6.0"
+        },
+        {
+            "Checksums": {
+                "ArkInventory": "e7216f52b6f6ee334808d71dab2fe57c",
+                "ArkInventoryConfig": "ebffb3842a4cfd4be7f44bc5484140a8",
+                "ArkInventoryRules": "fc81872855c20eefd41ea304a8d652e9",
+                "ArkInventoryRules_Example": "b9a41511039645c0cececc2626dbbb87",
+                "ArkInventorySearch": "143f882c6af7321bcaf9d82e7ebe6e68"
+            },
+            "Directories": [
+                "ArkInventoryConfig",
+                "ArkInventoryRules_Example",
+                "ArkInventory",
+                "ArkInventorySearch",
+                "ArkInventoryRules"
+            ],
+            "Name": "ArkInventory",
+            "URL": "https://www.curseforge.com/wow/addons/ark-inventory",
+            "Version": "3.09.52"
+        },
+        {
+            "Checksums": {
+                "ArkInventoryRules_MoreRules": "0677c4c99957f25f2bb52fe6615017fc"
+            },
+            "Directories": [
+                "ArkInventoryRules_MoreRules"
+            ],
+            "Name": "ArkInventoryRules_MoreRules",
+            "URL": "https://www.curseforge.com/wow/addons/arkinventoryrules_morerules",
+            "Version": "901.1"
+        },
+        {
+            "Checksums": {
+                "OmniCC": "23600757ea6bf2cf9cfa954e68d79281",
+                "OmniCC_Config": "72d5e666f2010af0183fd45a41c9e1af"
+            },
+            "Directories": [
+                "OmniCC",
+                "OmniCC_Config"
+            ],
+            "Name": "OmniCC",
+            "URL": "https://www.curseforge.com/wow/addons/omni-cc",
+            "Version": "9.1.0"
+        },
+        {
+            "Checksums": {
+                "LibGroupInSpecT-1.1": "7af27a4382daf0eac1d5e4d5cbc6da05"
+            },
+            "Directories": [
+                "LibGroupInSpecT-1.1"
+            ],
+            "Name": "LibGroupInSpecT",
+            "URL": "https://www.curseforge.com/wow/addons/libgroupinspect",
+            "Version": "1.4.0"
+        },
+        {
+            "Checksums": {
+                "SharedMedia": "3821b265c87d40d0a5a9a389b5420350"
+            },
+            "Directories": [
+                "SharedMedia"
+            ],
+            "Name": "SharedMedia",
+            "URL": "https://www.curseforge.com/wow/addons/sharedmedia",
+            "Version": "3.1.0 - r192"
+        },
+        {
+            "Checksums": {
+                "WorldQuestsList": "2aaaa64ca63dc6728dc62908d23b643e"
+            },
+            "Directories": [
+                "WorldQuestsList"
+            ],
+            "Name": "World Quests List",
+            "URL": "https://www.curseforge.com/wow/addons/world-quests-list",
+            "Version": "World Quests List v.10.1"
+        },
+        {
+            "Checksums": {
+                "MythicDungeonTools": "b043f61e9f6df680e464e45af1bed7f0"
+            },
+            "Directories": [
+                "MythicDungeonTools"
+            ],
+            "Name": "Mythic Dungeon Tools",
+            "URL": "https://www.curseforge.com/wow/addons/mythic-dungeon-tools",
+            "Version": "v3.6.1"
+        },
+        {
+            "Checksums": {
+                "BlizzMove": "64bae3ce79ffc2d3602cc8458bcfbb95",
+                "BlizzMove_Debug": "785665eac45b02e75c9b4b8b903901a1"
+            },
+            "Directories": [
+                "BlizzMove",
+                "BlizzMove_Debug"
+            ],
+            "Name": "BlizzMove",
+            "URL": "https://www.curseforge.com/wow/addons/blizzmove",
+            "Version": "v3.1.2"
+        },
+        {
+            "Checksums": {
+                "PremadeGroupsFilter": "aa0ee8955ed9b06e23d1c4fda5d782c5"
+            },
+            "Directories": [
+                "PremadeGroupsFilter"
+            ],
+            "Name": "Premade Groups Filter",
+            "URL": "https://www.curseforge.com/wow/addons/premade-groups-filter",
+            "Version": "2.2.0"
+        },
+        {
+            "Checksums": {
+                "ExRT": "1bb072aa2eeb04795514be238b1eb167",
+                "MRT": "6d89776938ab3dd0d16d629d308c5339"
+            },
+            "Directories": [
+                "MRT",
+                "ExRT"
+            ],
+            "Name": "Method Raid Tools",
+            "URL": "https://www.curseforge.com/wow/addons/exorsus-raid-tools",
+            "Version": "Method Raid Tools v.4560"
+        },
+        {
+            "Checksums": {
+                "GladiusEx": "97ac816700d57958376e5e1d905161fc"
+            },
+            "Directories": [
+                "GladiusEx"
+            ],
+            "Name": "GladiusEx",
+            "URL": "https://www.curseforge.com/wow/addons/gladiusex",
+            "Version": "2.0"
+        },
+        {
+            "Checksums": {
+                "NameplateCooldowns": "cdad679d811d6f5f53db497ba425ada1"
+            },
+            "Directories": [
+                "NameplateCooldowns"
+            ],
+            "Name": "NameplateCooldowns",
+            "URL": "https://www.curseforge.com/wow/addons/nameplatecooldowns",
+            "Version": "90100.1-release"
+        },
+        {
+            "Checksums": {
+                "OmniBar": "612b2947222e25dafc5375086cb080fa"
+            },
+            "Directories": [
+                "OmniBar"
+            ],
+            "Name": "OmniBar",
+            "URL": "https://www.curseforge.com/wow/addons/omnibar",
+            "Version": "v12.8"
+        },
+        {
+            "Checksums": {
+                "BattleGroundEnemies": "f94c333d4102c1775dbc0bfbb8835db3"
+            },
+            "Directories": [
+                "BattleGroundEnemies"
+            ],
+            "Name": "BattleGroundEnemies",
+            "URL": "https://www.curseforge.com/wow/addons/battlegroundenemies",
+            "Version": "9.0.5.6"
+        },
+        {
+            "Checksums": {
+                "REFlex": "0ca8179a58213a1c44bce898e8c37f3b"
+            },
+            "Directories": [
+                "REFlex"
+            ],
+            "Name": "REFlex - Arena/Battleground Historian",
+            "URL": "https://www.curseforge.com/wow/addons/reflex-battleground-historian",
+            "Version": "v3.1.4"
+        },
+        {
+            "Checksums": {
+                "Grid2": "3523e05de760f48b111eefd0be45e268",
+                "Grid2LDB": "289831589eecef21a6b817e3797e2fd7",
+                "Grid2Options": "422b80110549b9dc17c195b5103fabda",
+                "Grid2RaidDebuffs": "8837b7b2f6620eef9487c51779238a32",
+                "Grid2RaidDebuffsOptions": "47d6c65e72362f8fe2ba1abbc0bbdeb4"
+            },
+            "Directories": [
+                "Grid2",
+                "Grid2LDB",
+                "Grid2RaidDebuffs",
+                "Grid2RaidDebuffsOptions",
+                "Grid2Options"
+            ],
+            "Name": "Grid2",
+            "URL": "https://www.curseforge.com/wow/addons/grid2",
+            "Version": "2.0.15"
+        },
+        {
+            "Checksums": {
+                "ElvUI": "06c6d40ece2b47c49d4ab2a677e66d8a",
+                "ElvUI_OptionsUI": "6be4982799f830c09e89169d5654fc3f"
+            },
+            "Directories": [
+                "ElvUI_OptionsUI",
+                "ElvUI"
+            ],
+            "Name": "ElvUI",
+            "URL": "ElvUI",
+            "Version": "12.35"
+        },
+        {
+            "Checksums": {
+                "Details_ExplosiveOrbs": "2deaab55b2783b154cdca08aa80c2a6b"
+            },
+            "Directories": [
+                "Details_ExplosiveOrbs"
+            ],
+            "Name": "Details!: Explosive Orbs (plugin)",
+            "URL": "https://www.curseforge.com/wow/addons/details-explosive-orbs-plugin",
+            "Version": "v9.1.0"
+        },
+        {
+            "Checksums": {
+                "REPorter": "86ea87eb249a4547ef2dd08d5554cdd5"
+            },
+            "Directories": [
+                "REPorter"
+            ],
+            "Name": "REPorter - Battleground Map",
+            "URL": "https://www.curseforge.com/wow/addons/reporter-battleground-map",
+            "Version": "v2.8.5"
+        },
+        {
+            "Checksums": {
+                "Simulationcraft": "c6dc215669c0d8befb0468001a1319ef"
+            },
+            "Directories": [
+                "Simulationcraft"
+            ],
+            "Name": "Simulationcraft",
+            "URL": "https://www.curseforge.com/wow/addons/simulationcraft",
+            "Version": "v9.1.0-01"
+        },
+        {
+            "Checksums": {
+                "DejaCharacterStats": "6d29a6c19c0c5c72b984fa97e1adf4df"
+            },
+            "Directories": [
+                "DejaCharacterStats"
+            ],
+            "Name": "DejaCharacterStats",
+            "URL": "https://www.tukui.org/addons.php?id=70",
+            "Version": "900r1"
+        },
+        {
+            "Checksums": {
+                "LiteMount": "bc583ba1349ceb0257a2a18a697be7ee"
+            },
+            "Directories": [
+                "LiteMount"
+            ],
+            "Name": "LiteMount",
+            "URL": "https://www.curseforge.com/wow/addons/litemount",
+            "Version": "9.1.10"
+        },
+        {
+            "Checksums": {
+                "VenturePlan": "954b99bfd4a3cef4b9c5fd6df75372c1"
+            },
+            "Directories": [
+                "VenturePlan"
+            ],
+            "Name": "Venture Plan",
+            "URL": "https://www.townlong-yak.com/addons/venture-plan",
+            "Version": "4.16a"
+        },
+        {
+            "Checksums": {
+                "Ace3": "dee53ddbb4e599d177194277a60e7396"
+            },
+            "Directories": [
+                "Ace3"
+            ],
+            "Name": "Ace3",
+            "URL": "https://www.curseforge.com/wow/addons/ace3",
+            "Version": "Release-r1252"
+        },
+        {
+            "Checksums": {
+                "RCLootCouncil": "a132e5dce804cc761742f527e52290c9"
+            },
+            "Directories": [
+                "RCLootCouncil"
+            ],
+            "Name": "RCLootCouncil",
+            "URL": "https://www.curseforge.com/wow/addons/rclootcouncil",
+            "Version": "3.2.0"
+        },
+        {
+            "Checksums": {
+                "!KalielsTracker": "edcdf3807a40ef98d67235b69b553260"
+            },
+            "Directories": [
+                "!KalielsTracker"
+            ],
+            "Name": "Kaliel's Tracker (Shadowlands) ... Quests / World Quests / Achievements",
+            "URL": "https://www.curseforge.com/wow/addons/kaliels-tracker",
+            "Version": "4.3.0"
+        },
+        {
+            "Checksums": {
+                "TrueStatValues": "314f3017660ab042e682fd157fdcc1db"
+            },
+            "Directories": [
+                "TrueStatValues"
+            ],
+            "Name": "True Stat Values",
+            "URL": "https://www.curseforge.com/wow/addons/true-stat-values",
+            "Version": "TSV 1.0"
+        },
+        {
+            "Checksums": {
+                "ACU": "8de9a70b014e6215ec1e7476a78f59cc"
+            },
+            "Directories": [
+                "ACU"
+            ],
+            "Name": "AddOns CPU Usage",
+            "URL": "https://www.curseforge.com/wow/addons/addons-cpu-usage",
+            "Version": "v9.0.5.002"
+        },
+        {
+            "Checksums": {
+                "AddonUsage": "06ac349b9318740a50287b749c873c9d"
+            },
+            "Directories": [
+                "AddonUsage"
+            ],
+            "Name": "Addon Usage",
+            "URL": "https://www.curseforge.com/wow/addons/addon-usage",
+            "Version": "AddonUsage_3_0_7.zip"
+        },
+        {
+            "Checksums": {
+                "Details_Elitism": "32758f4ec634d24c6dc0ea9ff297b49d"
+            },
+            "Directories": [
+                "Details_Elitism"
+            ],
+            "Name": "Details!: Elitism (plugin)",
+            "URL": "https://www.curseforge.com/wow/addons/details-elitism-plugin",
+            "Version": "v2.3.1"
+        },
+        {
+            "Checksums": {
+                "SavedInstances": "6cc4c986711b5759e4e9cf59d1ed3f7f"
+            },
+            "Directories": [
+                "SavedInstances"
+            ],
+            "Name": "SavedInstances",
+            "URL": "https://www.curseforge.com/wow/addons/saved_instances",
+            "Version": "9.1.2"
+        },
+        {
+            "Checksums": {
+                "Details_DeathGraphs": "31886c7d615ff77355b6c046431083d5"
+            },
+            "Directories": [
+                "Details_DeathGraphs"
+            ],
+            "Name": "Details! Damage Meter: Advanced Death Logs (plugin)",
+            "URL": "https://www.curseforge.com/wow/addons/details-advanced-death-logs-plug",
+            "Version": "9.0.5.103"
+        },
+        {
+            "Checksums": {
+                "Details_ChartViewer": "cb57b0e7534f7eb8222cc580934461eb"
+            },
+            "Directories": [
+                "Details_ChartViewer"
+            ],
+            "Name": "Details! Damage Meter: Chart Viewer (plugin)",
+            "URL": "https://www.curseforge.com/wow/addons/details-chart-viewer-plugin",
+            "Version": "v9.0.5.071"
+        },
+        {
+            "Checksums": {
+                "Hekili": "1f31eb4ec2d5af59494ef68cd759eaf8"
+            },
+            "Directories": [
+                "Hekili"
+            ],
+            "Name": "Hekili",
+            "URL": "https://www.curseforge.com/wow/addons/hekili",
+            "Version": "v9.1.0-1.0.12a"
+        },
+        {
+            "Checksums": {
+                "ElvUI_WindTools": "da45fb3bf3c72ee65b8bab5bfd8b6e0f"
+            },
+            "Directories": [
+                "ElvUI_WindTools"
+            ],
+            "Name": "ElvUI WindTools",
+            "URL": "https://www.curseforge.com/wow/addons/elvui-windtools",
+            "Version": "2.21"
+        }
+    ],
+    "AutoUpdate": true,
+    "Backup": {
+        "Enabled": true,
+        "Number": 7
+    },
+    "CFCacheCloudFlare": {
+        "immersion": "257550",
+        "masque-retina": "415741"
+    },
+    "CFCacheTimestamp": 1626635004,
+    "CompactMode": false,
+    "IgnoreClientVersion": {},
+    "IgnoreDependencies": {},
+    "ShowAuthors": true,
+    "Version": "3.18.1",
+    "WAAPIKey": "",
+    "WAAccountName": "CASTHEWARLORD",
+    "WACompanionVersion": 1116,
+    "WAStash": [],
+    "WAUsername": ""
+}
