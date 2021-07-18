@@ -1,0 +1,18 @@
+
+MSBTProfiles_SavedVars = {
+	["profiles"] = {
+		["Default"] = {
+			["critFontName"] = "Big Noodle Titling",
+			["enableBlizzardDamage"] = false,
+			["enableBlizzardHealing"] = false,
+			["normalFontName"] = "Big Noodle Titling",
+			["creationVersion"] = "5.7.152",
+		},
+	},
+}
+MSBT_SavedMedia = {
+	["fonts"] = {
+	},
+	["sounds"] = {
+	},
+}

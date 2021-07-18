@@ -4,12 +4,12 @@
 !/.gitignore
 
 #CurseBreaker
-!/WTF/
 !/WTF/Config.wtf
 !/WTF/CurseBreaker.cache
 !/WTF/CurseBreaker.json
 !/WTF/SavedVariables/**
-!/WTF/CASTHEWARLORD/**
+!/WTF/Account/CASTHEWARLORD/**
+!/WTF/Account/SavedVariables/**
 
 #Lol storing binary in git
 !CurseBreaker.exe

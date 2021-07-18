@@ -1,0 +1,270 @@
+
+ElvUI_BetterTalentFrameDB = {
+	["talents"] = {
+		["pve"] = {
+			{
+				{
+					{
+						["talentID"] = 22356,
+						["name"] = "Earthen Rage",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 170374,
+						["texture"] = 1016245,
+					}, -- [1]
+					{
+						["talentID"] = 22357,
+						["name"] = "Echo of the Elements",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 333919,
+						["texture"] = 538566,
+					}, -- [2]
+					{
+						["talentID"] = 22358,
+						["name"] = "Static Discharge",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 342243,
+						["texture"] = 135990,
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+						["talentID"] = 23108,
+						["name"] = "Aftershock",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 273221,
+						["texture"] = 136099,
+					}, -- [1]
+					{
+						["talentID"] = 23460,
+						["name"] = "Echoing Shock",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 320125,
+						["texture"] = 1603013,
+					}, -- [2]
+					{
+						["talentID"] = 23190,
+						["name"] = "Elemental Blast",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 117014,
+						["texture"] = 651244,
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+						["talentID"] = 23162,
+						["name"] = "Spirit Wolf",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 260878,
+						["texture"] = 1033494,
+					}, -- [1]
+					{
+						["talentID"] = 23163,
+						["name"] = "Earth Shield",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 974,
+						["texture"] = 136089,
+					}, -- [2]
+					{
+						["talentID"] = 23164,
+						["name"] = "Static Charge",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 265046,
+						["texture"] = 136013,
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+						["talentID"] = 19271,
+						["name"] = "Master of the Elements",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 16166,
+						["texture"] = 136027,
+					}, -- [1]
+					{
+						["talentID"] = 19272,
+						["name"] = "Storm Elemental",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 192249,
+						["texture"] = 2065626,
+					}, -- [2]
+					{
+						["talentID"] = 19273,
+						["name"] = "Liquid Magma Totem",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 192222,
+						["texture"] = 971079,
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+						["talentID"] = 22144,
+						["name"] = "Nature's Guardian",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 30884,
+						["texture"] = 136060,
+					}, -- [1]
+					{
+						["talentID"] = 22172,
+						["name"] = "Ancestral Guidance",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 108281,
+						["texture"] = 538564,
+					}, -- [2]
+					{
+						["talentID"] = 21966,
+						["name"] = "Wind Rush Totem",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 192077,
+						["texture"] = 538576,
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+						["talentID"] = 22145,
+						["name"] = "Surge of Power",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 262303,
+						["texture"] = 136088,
+					}, -- [1]
+					{
+						["talentID"] = 19266,
+						["name"] = "Primal Elementalist",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 117013,
+						["texture"] = 651081,
+					}, -- [2]
+					{
+						["talentID"] = 23111,
+						["name"] = "Icefury",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 210714,
+						["texture"] = 135855,
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+						["talentID"] = 21198,
+						["name"] = "Unlimited Power",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 260895,
+						["texture"] = 643246,
+					}, -- [1]
+					{
+						["talentID"] = 22153,
+						["name"] = "Stormkeeper",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 191634,
+						["texture"] = 839977,
+					}, -- [2]
+					{
+						["talentID"] = 21675,
+						["name"] = "Ascendance",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 114050,
+						["texture"] = 135791,
+					}, -- [3]
+				}, -- [7]
+			}, -- [1]
+			[3] = {
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [7]
+			},
+		},
+	},
+}

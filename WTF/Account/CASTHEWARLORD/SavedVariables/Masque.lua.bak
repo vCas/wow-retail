@@ -1,0 +1,8218 @@
+
+MasqueDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Kureq - Runetotem"] = "Default",
+		["Lice - Runetotem"] = "Default",
+		["Tidalmoist - Draenor"] = "Default",
+		["Moldi - Draenor"] = "Default",
+		["Kureq - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Groups"] = {
+				["WeakAuras_OljysCqrONb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rRUB)YL(GdL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_khRkQihgZxF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_tUIy3ndJijj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_kEV9yoDGDQW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_nu3njJqWxeO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_j9z8FQrO19J"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_9Hx3aEY2H2G"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_BvHkR0nUZhe"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_KnJanomqmRr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_fKEIweYf2Mx"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_wMm8)c(uSNv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_FrMItm3laS3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vWHikeTNl5Y"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_K8m4QDLwJQL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_PetBar"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_ltC)LnpQrJs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_nC5D)Up6cZ0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_6"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_LlVnE2xDn(S"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4j)Ein9pFhI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_c8Jsn6jHoA2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6s8vYj2kGYG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_gFSMqN7TGvY"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_c(BS98x1Y2s"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vd(jSXvlfsj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Klj26xyg2Ct"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pb(QkLrFybf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_Iu7OFjBJvJg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_AfoDQiHTP6X"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4ggU6)h(L13"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_DZQ3Juay7HF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_nW5tHJFIePP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_UTfj9q3nS87"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4tjZ6LJIAEC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_43ar2PBFR6j"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_17dQz(fFwGa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wxFwvsJtTuX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Pcvowh393N5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7nHiGAzt3LX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_eDZkQieNkM1"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_eG09sTCxiHF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_UYZVhKMluL3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_b0NFtIxCV6Q"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_34D2hP1IziF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_tfjblBFV(Mb"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_36I5ch75Ewl"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yYh1tuhyQbz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_62sKmsg24vb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_V1)WVxXT46H"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_JjyYDz9Ro4Z"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_BTc(k4WqSwy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_qYddEafKccR"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_nsm3lh(FLZ("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["ElvUI_Stance Bar"] = {
+					["Disabled"] = true,
+					["Inherit"] = false,
+				},
+				["WeakAuras_0E4pDFJCNTH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_cug)FSCqC51"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fg2HTz7oNrE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ARVp(UEfmqA"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_yVwBKicvuVA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_p7xxjewwNPc"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_WPv9JU5m9uN"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_pHskCbXrVzz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fe6tb0X)wIy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XWO1uf9f6xb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6g(axq22wsv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_RFH4XypzmIC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_na94x29j3st"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_UytNTPGG05W"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_hde4ixAb84T"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_lT4O)nELo43"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_MtomGZBrhx("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vITlKb6GZ7A"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ISiT6Kx1jfp"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["ElvUI_Buffs"] = {
+					["Disabled"] = true,
+					["Inherit"] = false,
+				},
+				["WeakAuras_2ZzE124RuRi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_zfOOt4GdwWQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_0HfTOcsKVeO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_eDF4vpJx7q5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_FpVQhYMA1Q9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_0s3lEGbYAMK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_TtTr)aKWibJ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_h44RprqEcSo"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_Ffl2srLhVkq"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_EbLVhB3iUYJ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_8yyGhZtIklV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_kVVucmiG823"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_SPEd5CmYvyP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_7)C6MfZzDfF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Ere6N)bV(1q"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_ZI6of)mQ6Pt"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_9(kR8Ywr3UA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_REZ6XAY6HLG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8GoX8O8p6I3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_3"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_m1bflgaOZZh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_B65sqLQ6osW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Hekili"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_MEAJy0Xn9RU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_)xnTJEd6jes"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6BkVEYUFCcS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jLqKkYsqPP6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yNKjelKJEUT"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_pCAYpH5CAie"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_9(mfZcN6o8a"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_PeEz9Q99Y5X"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fyzT)MgrNbe"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_WXh3uyi22y8"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gfPSkTmtXno"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Om)GslWZeM9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7sbS23RfcD)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_Y0XNwHe4LQj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_BagBar"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_JXQcUt00tfs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_sNIJHeXunqi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Ms0rnJu2JBm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_7f4iAnhXTtd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bDHZwii6Mj6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_xoXpnvGfDcM"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XBfSfYLcKEE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5v43bnEmCOr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_X03apNTvSJD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1eqbWjpsYoy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Fx5sD(LOdLN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4qtSW8bSZzk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_NB)N)y2p3p5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6vEtITOCvgr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QZiXAFBmYgZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_grzjFT134Mb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_UsZ0kwlQcmp"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_mm0UDC2ijhX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_UgX5X5h2BKf"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_YrV5VMUMjFH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_cnakgveWixX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_yW4ylWfljTg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fkxAv9X(Qfs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_INAl4oyl46p"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_f6dY5UNlc)x"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XFwM7m6PUy0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_E1(m1V7xss8"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_L0V8v9fOnJ2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yFPo6SKxksG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QSPI6vzG72q"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_hsLvt0cg3lc"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_GU67AklMBG0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wChrOtjXFYi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_o(O3I3vC77e"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_lBN68q9rxCi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_u7CxmbgY1F("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_e(6r3xQXSds"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_EkYdFSrLo3S"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8(LKLLdDiUe"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_er2oekIMtBd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_EJz(ullGu9d"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_CLXp6RFQhqU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_NsUZUGH2Zdq"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_klyOyDmKD5E"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_h(GJW1W2Zkp"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_hrrPaHNMWcR"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ci3ee8wcsVI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bEPPjTuoKUt"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_uc97co7p8fX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_u2EXMnocTtu"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_PoQ)FnhZHaB"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vEj1Pcu0msU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XD0PFpG6ybG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_p5ADitOAFT8"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_VlU8HjcidQ0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_3iS7)JF(egD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_MWS)sCutpYA"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_CWbrj1vzIIP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XC2xPd3zTuI"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_Z)n57)4aRQy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_mMArv6g)iFk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_upk)Bz(QyWL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_imdZQSvMshE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_YItGOsfxW2I"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_26tLIfzYFu8"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yTs95DNIdBa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_68sIkud(5jk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_EkYPAmujzQ)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1I4MlSnWUit"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_H6PTnfdp)HD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_IzEIRb6EnkE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_GeoPJjqfRzy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_R4VSkA5ojnB"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6JXBqNDY6Wi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7skkOgawCxy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_thkS2y8d9Z5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_tqlH3nVx4qt"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_F5FTzaBnogH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_((2KHF90)ft"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XccEJkDEtpx"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6YMXGijvpCg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_oiuwBkIrc4("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bKsxcgChpfT"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_f4)iAphgzke"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_W2DqOnCF9lc"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_R1UDDXjbxNU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_OnxJFEgCKSD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qL9Ox1pE1AC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_zSpurwWsr0V"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_9POHWxv9h)5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_h(pLkYTMHPI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_e6J91A7bJx5"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_Ts)Bzq8HmwR"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_(WoI)PvJKMx"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_4xJTUh24Dyr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_nAV4cpfH0X2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_2Cs9O(5bm5h"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_CgGjA3mkSKG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1YSo89No1Oj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ZXqG3JyyTIv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)k7i65PV)J)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_15XgdD4wK61"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_br8QmEr6l9H"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_TwCn5rllTb3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_C2DPgQpdtIz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_(Rs5sULm4VP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_45jXDCU4p)h"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_nQd)qzzYpzE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_N4fJEuipmI("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_HYAjrJps7)M"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_1"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_OQ5I8IZK)rR"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_So0ZCJm3)(W"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6BUGWC)1ZRb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_4"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_Yy)lnqgZXTB"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["ElvUI_ActionBars"] = {
+					["Disabled"] = true,
+					["Inherit"] = false,
+				},
+				["WeakAuras_XjzaHaAQU23"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QmpZI9ID)ao"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_riCnihCkNY9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_211sGt4oCy9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_lU8AHVK)kAi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XMr7y4GZ)I1"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wEKl15w93GX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vmrA759fP)J"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7O7tN)D(rgf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_0GkzoTUARDB"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_abkVh9qpHLW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yVtiUwOciMw"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_uMC(R54)ZzX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Gpe4sTaKFMI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_crubQW(S0nV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_R)RtBpCtFLU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_f40QVOFJkHZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_mFbzBuuDQQv"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_kHp4FiwP2a6"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_Jr4YWk4m5ea"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_JobecCBb6Pz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_HNBJfu8ujvD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_guuJ6yYJgOz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_a9EnArVX0Fm"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_RHITwYiN)fq"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_f6CH7mlcvTQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qofNM7suGZc"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_XfnQiUvgE6x"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_FUkS34JK1vd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4IDYa8nUN6U"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Un5f0wkE23("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_PMahggIFNm1"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_x)AFR5mPAfm"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gl0bZOJU(G6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vBFzCwAAYUh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Hzjz1oKzYs5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vLd9IdhfMtE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_hpDEXM2csE5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_BthnvvT24kv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Rji3TWn)Vmu"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_LPjzq4NT9Au"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_QNzvTcmyiSa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_iI)xPvg3ssW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Pcrr9XXUVml"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_BAILGYDg2kN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_41AaYEyL7QP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_J5GE9K9nSCK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1980(kMEtGe"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_cVILFqYXfgd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_EM8uvWQQbSF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_Nwjrnmi)jzR"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_RSUM93sLjDj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QBBFXKt0)e0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jmCLTh)7kn("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_y01lNXqQzZJ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5sPwRoVP1IK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8oKPjwfF5ha"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_U5afqIKLQYh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yb83jXfs8wF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_OZdil8(XgQA"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_ofD45JINmKy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Aa(6Ek3vHAk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1S5v9wwjdni"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zVc79xgqjrq"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_B3vHZXHehMn"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_epYImKKhwqC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rQ8aOnHdxl0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_hMrrQbPXxoG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_xIsHgm(0uNA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_iIVBXe9wKng"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XdBVZ5ZyJ(4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_0oIjhG118iL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_VUc6SFzmU7b"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_9kOltC1KKQg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8WXkWdgGPfO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_ysQQ0AEFhsH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_PJ8ain(xOLt"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_LppoaH39gWk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qqXDOAsVe(H"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Yy0QIaWwcR6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_nlVWglvdq)u"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XW2J0NJmZpa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_JsnyTGjAUFD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(o3OEe38PCL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5uV0AbqYU5s"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)EN9CzHFedx"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_i9zHmF(3S5E"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_uaqYq2Z0XJD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_VTqMPUR3m3w"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_cq)xvTz9KlG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_0sS1jhqCQSF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)Q5CVE8Rl0M"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_k2W477qpHs4"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_HzGrQ5XcTIg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_W6zTf9c9SjB"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(2ykKhsxWD1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_6)NbUHSfpPa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XaBAZl6ZXVB"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XeY9RE1bZOC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vVl5L0Gm7N0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bwaJ8HAKquV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_JQbp0GA5lr4"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8oxYV0k6U13"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(VnsNPtPKKb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rHe)bLayCJ2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zFWfTJqdsTU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_KdwlucPafXg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jqmhhyfsBd2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8qptW9BBwXh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)wVppfUQ2xA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Jm6K3NnMQ1d"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_tbqojYZEQ31"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4tbnygV3MtR"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bghnfJ46re1"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_t(Muy4oxWDO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Y7(XzW3dulX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ugXpkNYAzTN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_RtE6mwxw2V6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_5Ffd6OsCczE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_lQo2(xH3(FV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qIbIQVTev5N"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_VZ6UXXxO9hv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_xLF1SEAhwQU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Raven"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_(XFoD2(sDgP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_xqPfEMzx5aH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ugvFj0nJsO1"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_17GFFSomu4V"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_go2pwhpjdPY"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ixJ8zPFgo(O"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_oT8Fl6rqHqd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zwkxhlNtppO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XN3MTsmXSZC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_LtziSJla3zs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Xe5STLF3WEk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QpzD32k4VHK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_9bnjRNDXTBo"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XwiVzqkASG5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_4jAvdrNosxH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ueNeOhHkJ9E"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qR0w3Vu5Jg3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_StanceBar"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_pNfd(gvbJyk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QJxj7GxVgXR"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_BJROhoJBraQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_5"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_RGgPMezsy3y"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_N55QokkbHbM"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8btK0DXXCG4"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_9Ylp0h9m8UJ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_zKikXgbii2("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)vWW81zbwSl"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1Pkb39qzSCa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_WkUVk4CQD6)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rTUutTWUTjm"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7GfdaHf5fJ3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_s)SJEKHxWHO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_IQqBdp(Puw7"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_iWSdMFOyjDg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Raven_Target"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_ybbyFwssIU("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_LuuRnyFRW6s"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_TBeaVD9((Ub"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_DoNpXvFTltU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_zp)xXMWe3gm"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yaU8tmLZh5f"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7LJC1gjVCNP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_G2VctQK7jm("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_zHoYX6MkZ1r"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bFddSHh8om)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ZdvWMary6Nz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_Gbno)VNfMVj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QC61VlUkFtA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4eP4qoQDuNG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bsRf9WGDQqy"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_r3kw9ckZ90l"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Gqpno0s7dTG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Znx9wA4aMVC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_DIDqJJlVmg("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_HJeckT3Y8Aa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_58XgGA82alI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Gt9GB2FnNFY"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4_2"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_FFnjW04Eve5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_XJzXvRyI5wU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qADD0kZB8Zh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_AanrC7YZXBB"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_W2Joa)iUBto"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_MCkDyWJqLJr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["ElvUI_Pet Bar"] = {
+					["Disabled"] = true,
+					["Inherit"] = false,
+				},
+				["WeakAuras_UZarTuF)KAa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_9vx5JGEg4Fz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_s2UpD5TkQTh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_DXcSAnz9czu"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_GRg9yu(uDj)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_QksSKMbNbwT"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_x7fN(Y17Qv7"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(iC1tQRBhyO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gbdLuorT(Fs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ZL7TE0vdMKQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ZpSF3lO6v3("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_xSmyrmaCosc"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_MY5OaYiqC0h"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jCjXAVFk20l"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6gfYgdBOg6I"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_xVypakcfmPm"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bP41g6jyCea"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zGJAVJI3kI)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gUk85eBA88J"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yxSZwWX2WlK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_2AhCc4wRbMS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_irUuNncYx5j"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rCNHlq6LOkX"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_u80Boj7GlgT"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rd(wv)gR1J3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pIbcgyXfszD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_swugYOjRR5v"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zX2N)G10BZT"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_7rEdaggpU9f"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_x89X5I6p9Mc"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qzJ3vHftx0p"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_3ClgLZz3(B5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_H3avjQbL2AA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_xU4aV80uXav"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_32u1kVWZrg("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_2jbsDzTbpGe"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_KPk545pNCHx"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XeH9H6njjtG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7Rc6iW9363D"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_WBfF)BLEJlF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4B0NTJq5KVJ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_mTHcPQ0qyk4"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1MDpbfvBw7g"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_hwN4ZkNgOQc"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_PDi23jv01W9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yQ51A8ad8Z9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_j2d9OYdrgsF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Fjun2ua97xx"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_yzk73ivgxPJ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_klMPrUJvDx3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_xS3rYcJsQ8q"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_i1bGAi4(a1)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fXtIyByEYzH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Mh6wBzWGS0z"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(ZKIXPkctnv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_TYAZN)BAw(e"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Ix3rpO6nc0A"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_IvWYE)AAbF("] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Lc69NlPPOI3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_XCHIHQmZGv1"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_LNENyJJR7PU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6t5EFI4I1Sc"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_LcAaB96mbwN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_E8E)8CNnyAG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_dafqQr5bZtn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_cU2w)Zd3ipM"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_xOxqt7Jzdz7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_cyxD8AMIuBz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ryRtKkAdbmh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_RQYr7lJjPVh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_)KY9Q)SzJIK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_TrUZ1wN8Aeb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gcUjKtO4(1L"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_iPB1hQE1pHZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_SiMJcuMTQ03"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_x(lyEyj8OTP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Ytz8FhYDM9e"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_C8la9KcjuT2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jSoO8VxYfO0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_apLtVoKTvWd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_c5qsl4k0MGV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_EEluNkRGDxF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_bz7kUu9XVsg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zBlrKraCt1e"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jcYd71kWJs6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fwrAvzpP)6i"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1YHxqbxY2u4"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_vBE(CzzEFWl"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_yC)V0RGdIII"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_7TNyCtviOYH"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_JC)UTOEvU07"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_POYNjXf9L0i"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_s6KJh6q8dna"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_2zeG7oC(pvn"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_rUcpvwE0U1y"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Ut8pnVOejI4"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(nY2e3j3v5x"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_8odYRNhKgDq"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pL85BSo()f9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_C(18pMjXyqt"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rgoEapsPXg)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Raven_target_debuffs"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_KUvM5n8lTGo"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_S0JPNoMg2bU"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_f5TUW3syXsi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_u0PSlPmg9(I"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jdu7gew(Frh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_2t3gFPIM0ty"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_FLINS8sJ)rW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_1rfAzY5xQ6k"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_uawFqtwhGRK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Bhfrl3Xupb("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_7pYroYPGndt"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_Sotm1xoljkZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_JJ8MXzHYcG8"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(yNL1eTmM95"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_au2lpUu9JU6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_vq1Cn)G8Jno"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_L4ZFBskom10"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_leN0S0OjFmV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_lWF(85yXfui"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_RYX45gXSqXZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_uKNtZy1x0fv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_0VFjmPYdQhP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_paPFV8iSTi5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_I2cI9Aq)bCb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fNJyPlCtcdT"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_qOKDQytbdAj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_cIwYHKRuRqF"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_NpVlKkADt8R"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_9rGz0k3cAoa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_9XMqNGU6Hm6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jzlbyZJiiD9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_SgxMckk3qzh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Wf8PgMWQd2i"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_fiQPHwXVMMD"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_fIZKYLXGEFE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_6kS5N(LNv5L"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zJhw3BCg30J"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_eVT)(L38FQQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Vx42UQtBiTy"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ArsgTm5Gax0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_hZmNG2(GuZZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_z9th79lMJIh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_4xvQREyeBjj"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_y4MH1x0dkEd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_(g4X2m4ibco"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_kU(Y1nZd2Rr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_MB8u46hf3mg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras"] = {
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gw1VurJib4R"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["Bartender4"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_WY4JfNfcCiW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_DEGX1nOOWUi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_90WAD)vQcQP"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_eCGH9xCDo)n"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wrAtz3aV3zW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_v2KuqThp42t"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_O75TbBV0Y5L"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_D740)o1041W"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_D9cZ)rf8f8l"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ayK8(vsVzGM"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_k8uHuF1OdwE"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_g4dG0mJlNUh"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Tfwc7RYR81n"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pWfZPrRiJzV"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6vTLoGm87f3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_MH9GSGibtPm"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_kkhG4rR5srd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_8PPGwcFxlCu"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_feBE4k9n96t"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_rZ2yrMDkYUA"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_KAgXLqK8U4t"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5Gd6nG)T5kf"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_yO5mBLg9CQH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Rt)(gnKfiO0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5Jafn0T65dK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pfaxTTBlcjS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_VESRisHSKpI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_42vL(ausTzD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["ElvUI"] = {
+					["Disabled"] = true,
+					["Inherit"] = false,
+				},
+				["WeakAuras_vYpv6SfnE0T"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zwbbGTsQdVr"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_JNzEnefXlg)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_nQJ8qoiRkGG"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_qYURkdrMJz)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_k4fyntWA0vS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_QMnPI)WptCD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_tYNwnxYy2p5"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_mwRLcjzxUJ9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_dsZXA8usHXk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_kxPPrH8XCol"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_VB4l0O8(cBK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_UmMqBOGHlmN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["ElvUI_Debuffs"] = {
+					["Disabled"] = true,
+					["Inherit"] = false,
+				},
+				["WeakAuras_RGwb9TFJPyS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zzU(cFD73rY"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)1Psqr9FBzN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_BQ4IL90aEQk"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_WCCr7djWbl7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_BNUeuXJC1mO"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6N9YqK)Ruy2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_nD1JeNypAay"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pa2c8(sX3xa"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_1UCPAEiHG)J"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wcBX5jp()1R"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_KR(QN5WjYPf"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_tr9bFsHLCeW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_kNptCQ41amM"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_gOKeeVZaQss"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_u7JsVEb9KmH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6R72x2(umBz"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_m(qqtuDQrhb"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_AN01DhBugkY"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_sYjm94ljYmv"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_YlpBkZnXlKn"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_oim)NF(yD)V"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_ywe4XsFqIbS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zDVmzS8Y6ti"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_UrVa2sSpTtd"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_75myLVmvCdM"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_jckJ8hRlHke"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_xdwxrZPgxtI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_DL2XIAdGeMo"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_KLq4F9tYBGx"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_bdOpw)i9yce"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_N3qe7Qs0uHg"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zrtUN(dE7YQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pqwI8E24egH"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wwQKuY17p3t"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_gXPzCNrCx2O"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_LjNJywIGO5b"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_wv3ZO)0Y6pS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6qnW8b3LgRL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_yED1Dyj(hDI"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_)LirBJRg)ji"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_4Tdms(vxPIS"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_SSuj9K5h4H2"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_YihPX6hkdzP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_pFfmWAxAubs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_CqMIVNVx5qQ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6Cf6wuTS7wK"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5F2PxSEf)R6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_6zPQd9wHgGN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_Oj6jJmXWk8S"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_Q3thrTzU3UW"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5qaBApdxW(x"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_iNRFDQHR4Y0"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_zjOzJyHTBF8"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_L)(2MNPxM)8"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_OTXST5D74R)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_pdEz2Qo58C6"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_jv2hyUy(Hoq"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_PlSFl(tgKML"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_WhqHneAkDwN"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["SkinID"] = "Shadowlands",
+					["Inherit"] = false,
+				},
+				["WeakAuras_Ivejk1o4KsI"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_snubsitvBfu"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_29R68rStDsL"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_cy2ffGCNS1)"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_aXBzsefIG)K"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Inset",
+				},
+				["WeakAuras_TYwIoOv)DOp"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_kFRXMIu9YVs"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_5Ha5W5d4cgZ"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_UhEZhzyaRp3"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_aKV3P)d(Zoi"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_bR0A5LiHuD7"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Raeli - Square Edge",
+				},
+				["WeakAuras_ONX49s9J(PC"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+				["WeakAuras_33x2z(V)JJ9"] = {
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.75, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Shadowlands",
+				},
+			},
+		},
+	},
+}

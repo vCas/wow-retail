@@ -1,0 +1,42 @@
+VER 3 0100000000000001 "Death & Decay" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrlt, @player][@cursor][]Death and Decay
+END
+VER 3 0100000000000008 "dg" "SPELL_DEATHKNIGHT_STRANGULATE"
+/cast death grip
+/run SendChatMessage(GetRandomArgument("I can't wait to take your picture!","Look into my eyes when I stare at you!", "My mom looked at me that way, too!","I wanna play! Just play with me!"),"YELL")
+END
+VER 3 0100000000000009 "gore" "ABILITY_DEATHKNIGHT_AOEDEATHGRIP"
+/cast Gorefiends' Grasp
+/run SendChatMessage(GetRandomArgument("What does it all mean!?","Orgy Time!","I plucked a hair from the head of a dying baby! Let me give it to you!
+","I'm... gonna choke and stroke your lifeless body!"),"YELL")
+END
+VER 3 0100000000000003 "mind" "INV_MISC_QUESTIONMARK"
+#showtooltip Mind Freeze
+/cast [@focus,harm,nodead][] Mind Freeze
+END
+VER 3 010000000000000A "Played" "Ability_Marksmanship."
+/played
+/script print("--------------------------")
+END
+VER 3 0100000000000002 "ress" "INV_MISC_QUESTIONMARK"
+#showtooltip Raise Ally
+/cast [@mouseover,help][@target]Raise Ally
+END
+VER 3 0100000000000004 "taunt" "INV_MISC_QUESTIONMARK"
+/run SendChatMessage(GetRandomArgument("I'll eat your sandwich","I can't wait to take your picture!","I made you a salad, outta worms!","Look into my eyes when I stare at you!","Wear your face like a condom!","You're a feast of eyes and piss in all this b
+END
+VER 3 0100000000000007 "tauntme" "SPELL_NATURE_SHAMANRAGE"
+/cast dark command
+/run SendChatMessage(GetRandomArgument("I'll eat your sandwich","I made you a salad, outta worms!","Wear your face like a condom!", "My mom looked at me that way, too!","Slap the Pancakes!!", "I Drop-kick your babies!"),"YELL")
+END
+VER 3 010000000000000B "tier" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/1]Obliteration;[talent:7/2]Breath of Sindragosa;[talent:7/3] Glacial Advance
+END
+VER 3 010000000000000C "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000D "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Abu[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

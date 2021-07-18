@@ -1,0 +1,65 @@
+VER 3 0100000000000008 "chain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Chain Lightning
+END
+VER 3 0100000000000004 "chainheal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Chain Heal
+END
+VER 3 010000000000000E "Earth Shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Earth Shield
+END
+VER 3 0100000000000006 "EarthBaby" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Earthquake
+END
+VER 3 010000000000000B "es" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Earth Shock
+END
+VER 3 0100000000000009 "fs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Flame Shock
+END
+VER 3 0100000000000005 "healing wave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Healing Wave
+END
+VER 3 010000000000000A "Lb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Lava Burst
+END
+VER 3 0100000000000007 "lb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Lightning Bolt
+END
+VER 3 0100000000000003 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Purify Spirit
+END
+VER 3 010000000000000D "Rain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Healing Rain
+END
+VER 3 0100000000000002 "Riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Riptide
+END
+VER 3 0100000000000001 "surge" "SPELL_NATURE_HEALINGWAY"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Healing Surge
+END
+VER 3 010000000000000C "T7" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2] Stormkeeper; [talent:7/3] Ascendance
+END
+VER 3 010000000000000F "Unleash Life" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Unleash Life
+END

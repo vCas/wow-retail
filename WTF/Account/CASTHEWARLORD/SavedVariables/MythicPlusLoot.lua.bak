@@ -1,0 +1,18 @@
+
+MythicPlusLootDB = {
+	["profileKeys"] = {
+		["Crawgwa - Draenor"] = "Default",
+		["Kureq - Draenor"] = "Default",
+		["Moistmist - Draenor"] = "Moistmist - Draenor",
+		["Stiphy - Draenor"] = "Stiphy - Draenor",
+		["Reuseddurex - Draenor"] = "Reuseddurex - Draenor",
+		["Dryspell - Draenor"] = "Default",
+		["Emmortal - Draenor"] = "Default",
+		["Muhreq - Draenor"] = "Default",
+	},
+	["global"] = {
+		["minimap"] = {
+			["minimapPos"] = 186.7062617251591,
+		},
+	},
+}

@@ -1,0 +1,270 @@
+
+ElvUI_BetterTalentFrameDB = {
+	["talents"] = {
+		["pve"] = {
+			{
+				{
+					{
+						["name"] = "Crusader's Might",
+						["talentID"] = 17565,
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = true,
+						["spellid"] = 196926,
+						["texture"] = 236266,
+					}, -- [1]
+					{
+						["name"] = "Bestow Faith",
+						["talentID"] = 17567,
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 223306,
+						["texture"] = 236249,
+					}, -- [2]
+					{
+						["name"] = "Light's Hammer",
+						["talentID"] = 17569,
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 114158,
+						["texture"] = 613955,
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+						["name"] = "Saved by the Light",
+						["talentID"] = 22176,
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 157047,
+						["texture"] = 1030102,
+					}, -- [1]
+					{
+						["name"] = "Judgment of Light",
+						["talentID"] = 17575,
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 183778,
+						["texture"] = 237541,
+					}, -- [2]
+					{
+						["name"] = "Holy Prism",
+						["talentID"] = 17577,
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = true,
+						["spellid"] = 114165,
+						["texture"] = 613408,
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+						["name"] = "Fist of Justice",
+						["talentID"] = 22179,
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 234299,
+						["texture"] = 135906,
+					}, -- [1]
+					{
+						["name"] = "Repentance",
+						["talentID"] = 22180,
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = true,
+						["spellid"] = 20066,
+						["texture"] = 135942,
+					}, -- [2]
+					{
+						["name"] = "Blinding Light",
+						["talentID"] = 21811,
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 115750,
+						["texture"] = 571553,
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+						["name"] = "Unbreakable Spirit",
+						["talentID"] = 22433,
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 114154,
+						["texture"] = 135921,
+					}, -- [1]
+					{
+						["name"] = "Cavalier",
+						["talentID"] = 22434,
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 230332,
+						["texture"] = 1360759,
+					}, -- [2]
+					{
+						["name"] = "Rule of Law",
+						["talentID"] = 17593,
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = true,
+						["spellid"] = 214202,
+						["texture"] = 571556,
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+						["name"] = "Divine Purpose",
+						["talentID"] = 17597,
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 223817,
+						["texture"] = 135897,
+					}, -- [1]
+					{
+						["name"] = "Holy Avenger",
+						["talentID"] = 17599,
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = true,
+						["spellid"] = 105809,
+						["texture"] = 571555,
+					}, -- [2]
+					{
+						["name"] = "Seraphim",
+						["talentID"] = 17601,
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 152262,
+						["texture"] = 1030103,
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+						["name"] = "Sanctified Wrath",
+						["talentID"] = 23191,
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = true,
+						["spellid"] = 53376,
+						["texture"] = 236259,
+					}, -- [1]
+					{
+						["name"] = "Avenging Crusader",
+						["talentID"] = 22190,
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 216331,
+						["texture"] = 589117,
+					}, -- [2]
+					{
+						["name"] = "Awakening",
+						["talentID"] = 22484,
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 248033,
+						["texture"] = 898454,
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+						["name"] = "Glimmer of Light",
+						["talentID"] = 21201,
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 325966,
+						["texture"] = 1360764,
+					}, -- [1]
+					{
+						["name"] = "Beacon of Faith",
+						["talentID"] = 21671,
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = true,
+						["spellid"] = 156910,
+						["texture"] = 1030095,
+					}, -- [2]
+					{
+						["name"] = "Beacon of Virtue",
+						["talentID"] = 21203,
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 200025,
+						["texture"] = 1030094,
+					}, -- [3]
+				}, -- [7]
+			}, -- [1]
+			[3] = {
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [7]
+			},
+		},
+	},
+}

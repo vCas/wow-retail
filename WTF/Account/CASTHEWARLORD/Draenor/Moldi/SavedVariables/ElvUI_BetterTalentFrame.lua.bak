@@ -1,0 +1,270 @@
+
+ElvUI_BetterTalentFrameDB = {
+	["talents"] = {
+		["pve"] = {
+			{
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [7]
+			}, -- [1]
+			[4] = {
+				{
+					{
+						["talentID"] = 18569,
+						["name"] = "Abundance",
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 207383,
+						["texture"] = 132124,
+					}, -- [1]
+					{
+						["talentID"] = 18574,
+						["name"] = "Nourish",
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 50464,
+						["texture"] = 236162,
+					}, -- [2]
+					{
+						["talentID"] = 18572,
+						["name"] = "Cenarion Ward",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = true,
+						["spellid"] = 102351,
+						["texture"] = 132137,
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+						["talentID"] = 19283,
+						["name"] = "Tiger Dash",
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 252216,
+						["texture"] = 1817485,
+					}, -- [1]
+					{
+						["talentID"] = 18570,
+						["name"] = "Renewal",
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 108238,
+						["texture"] = 136059,
+					}, -- [2]
+					{
+						["talentID"] = 18571,
+						["name"] = "Wild Charge",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = true,
+						["spellid"] = 102401,
+						["texture"] = 538771,
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+						["talentID"] = 22366,
+						["name"] = "Balance Affinity",
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 197632,
+						["texture"] = 236156,
+					}, -- [1]
+					{
+						["talentID"] = 22367,
+						["name"] = "Feral Affinity",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = true,
+						["spellid"] = 197490,
+						["texture"] = 611425,
+					}, -- [2]
+					{
+						["talentID"] = 22160,
+						["name"] = "Guardian Affinity",
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 197491,
+						["texture"] = 611424,
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+						["talentID"] = 21778,
+						["name"] = "Mighty Bash",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = true,
+						["spellid"] = 5211,
+						["texture"] = 132114,
+					}, -- [1]
+					{
+						["talentID"] = 18576,
+						["name"] = "Mass Entanglement",
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 102359,
+						["texture"] = 538515,
+					}, -- [2]
+					{
+						["talentID"] = 18577,
+						["name"] = "Heart of the Wild",
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 319454,
+						["texture"] = 135879,
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+						["talentID"] = 21710,
+						["name"] = "Soul of the Forest",
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 158478,
+						["texture"] = 236160,
+					}, -- [1]
+					{
+						["talentID"] = 21705,
+						["name"] = "Cultivation",
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 200390,
+						["texture"] = 136041,
+					}, -- [2]
+					{
+						["talentID"] = 22421,
+						["name"] = "Incarnation: Tree of Life",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = true,
+						["spellid"] = 33891,
+						["texture"] = 236157,
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+						["talentID"] = 21716,
+						["name"] = "Inner Peace",
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 197073,
+						["texture"] = 132123,
+					}, -- [1]
+					{
+						["talentID"] = 18585,
+						["name"] = "Spring Blossoms",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = true,
+						["spellid"] = 207385,
+						["texture"] = 306845,
+					}, -- [2]
+					{
+						["talentID"] = 22422,
+						["name"] = "Overgrowth",
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 203651,
+						["texture"] = 1408836,
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+						["talentID"] = 22403,
+						["name"] = "Photosynthesis",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = true,
+						["spellid"] = 274902,
+						["texture"] = 464030,
+					}, -- [1]
+					{
+						["talentID"] = 21651,
+						["name"] = "Germination",
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 155675,
+						["texture"] = 1033478,
+					}, -- [2]
+					{
+						["talentID"] = 22404,
+						["name"] = "Flourish",
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 197721,
+						["texture"] = 538743,
+					}, -- [3]
+				}, -- [7]
+			},
+		},
+	},
+}

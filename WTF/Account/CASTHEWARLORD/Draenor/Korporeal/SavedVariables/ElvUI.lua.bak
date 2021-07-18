@@ -1,0 +1,54 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/details config", -- [1]
+		"/gex", -- [2]
+		"/elvui", -- [3]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"<NOVA>   <<<M+15=90k>>> WTS  <<2x=171k>>FREEArmorstack <<4x=333k>>FREEArmorstack <<6x=486k>>FREEArmorstack.[[Nyaloth <[HC]>fullclear]]<<140k!>> perVIP trader 60k  CHEAP  <<jaina mount >> <<350k>> LVL UP10to50<400k>  PVP// 5mask=70k Only Gold BEST DEAL", -- [1]
+			"Boostingnova-Draenor", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostingnova-Draenor", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-1403-098235A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Boostingnova|r",
+			[51] = 1604888549,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"[WТS] Horrific Visions +5 masks Boost, 1-50 express powerleveling, ilvl 130-140 gearing, Allied races, Reputations, Mounts & other 9.0 BOOSTS! We have over 12370 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Damaruce-Draenor", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Damaruce-Draenor", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-1403-09A0CBD0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDamaruce|r",
+			[51] = 1604888551,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+	},
+}

@@ -1,0 +1,24 @@
+VER 3 0100000000000003 "Chain Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player]Chain Heal
+END
+VER 3 0100000000000006 "ES" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Earth Shield
+END
+VER 3 0100000000000002 "Healing Surge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player]Healing Surge
+END
+VER 3 0100000000000005 "hw" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player]Healing Wave
+END
+VER 3 0100000000000004 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player]Purify Spirit
+END
+VER 3 0100000000000001 "Riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player]Riptide
+END

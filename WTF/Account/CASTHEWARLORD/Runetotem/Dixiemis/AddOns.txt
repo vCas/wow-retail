@@ -1,0 +1,4 @@
+TipTac: enabled
+TipTacItemRef: enabled
+TipTacTalents: enabled
+TipTacOptions: enabled

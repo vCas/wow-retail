@@ -1,0 +1,255 @@
+
+KHMRaidFramesDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Kureq - Draenor"] = "Default",
+		["Dryspell - Draenor"] = "Dryspell - Draenor",
+	},
+	["profiles"] = {
+		["Dryspell - Draenor"] = {
+			["current_profile"] = "Primary",
+			["saved_profiles"] = {
+				["Primary"] = {
+					["keepGroupsTogether"] = false,
+					["displayBorder"] = true,
+					["frameHeight"] = 36,
+					["displayPowerBar"] = false,
+					["useCompactPartyFrames"] = true,
+					["displayPets"] = false,
+					["horizontalGroups"] = false,
+					["displayMainTankAndAssist"] = true,
+					["frameWidth"] = 72,
+				},
+			},
+		},
+		["Default"] = {
+			["party"] = {
+				["dispelDebuffFrames"] = {
+					["num"] = 4,
+					["anchorPoint"] = "BOTTOMRIGHT",
+					["size"] = 16,
+					["numInRow"] = 4,
+				},
+				["debuffFrames"] = {
+					["showBigDebuffs"] = false,
+					["bigDebuffSize"] = 12,
+					["anchorPoint"] = "TOPLEFT",
+					["exclude"] = {
+						"challenger's burden", -- [1]
+					},
+					["excludeStr"] = "Challenger's Burden",
+					["num"] = 6,
+					["rowsGrowDirection"] = "BOTTOM",
+					["size"] = 13,
+				},
+				["nameAndIcons"] = {
+					["roleIcon"] = {
+						["enabled"] = true,
+						["yOffset"] = -1,
+					},
+					["name"] = {
+						["enabled"] = true,
+						["showServer"] = false,
+						["yOffset"] = -47,
+						["font"] = "FORCED SQUARE",
+						["hJustify"] = "CENTER",
+						["classColoredNames"] = true,
+						["size"] = 7,
+					},
+					["statusText"] = {
+						["enabled"] = true,
+						["yOffset"] = -6,
+						["font"] = "FORCED SQUARE",
+						["size"] = 10,
+					},
+				},
+				["buffFrames"] = {
+					["num"] = 6,
+					["anchorPoint"] = "TOPRIGHT",
+					["rowsGrowDirection"] = "BOTTOM",
+					["size"] = 9,
+				},
+				["frames"] = {
+					["showPartySolo"] = true,
+					["powerBarHeight"] = 9,
+					["hideGroupTitles"] = true,
+					["clickThrough"] = true,
+				},
+				["raidIcon"] = {
+					["enabled"] = true,
+				},
+			},
+			["glows"] = {
+				["auraGlow"] = {
+					["debuffFrames"] = {
+						["options"] = {
+							["pixel"] = {
+								["options"] = {
+									["N"] = 3,
+								},
+							},
+						},
+						["trackingStr"] = "magic\npoison\ndisease\ncurse",
+						["tracking"] = {
+							"magic", -- [1]
+							"poison", -- [2]
+							"disease", -- [3]
+							"curse", -- [4]
+						},
+					},
+				},
+				["frameGlow"] = {
+					["defaultColors"] = {
+						["physical"] = {
+							nil, -- [1]
+							0, -- [2]
+							0.0784313725490196, -- [3]
+						},
+					},
+					["debuffFrames"] = {
+						["options"] = {
+							["pixel"] = {
+								["options"] = {
+									["N"] = 4,
+								},
+							},
+						},
+						["trackingStr"] = "poison\ncurse\nmagic\ndisease",
+						["tracking"] = {
+							"poison", -- [1]
+							"curse", -- [2]
+							"magic", -- [3]
+							"disease", -- [4]
+						},
+					},
+				},
+			},
+			["raid"] = {
+				["nameAndIcons"] = {
+					["statusText"] = {
+						["enabled"] = true,
+					},
+				},
+				["frames"] = {
+					["showPartySolo"] = true,
+					["powerBarHeight"] = 9,
+					["hideGroupTitles"] = true,
+					["clickThrough"] = true,
+				},
+			},
+			["current_profile"] = "Primary",
+			["saved_profiles"] = {
+				["Primary"] = {
+					["keepGroupsTogether"] = true,
+					["displayBorder"] = false,
+					["frameHeight"] = 72,
+					["displayPowerBar"] = true,
+					["useCompactPartyFrames"] = true,
+					["horizontalGroups"] = false,
+					["displayPets"] = false,
+					["frameWidth"] = 139,
+					["displayMainTankAndAssist"] = false,
+				},
+				["Raid"] = {
+					["keepGroupsTogether"] = true,
+					["displayBorder"] = false,
+					["frameHeight"] = 55,
+					["displayPowerBar"] = true,
+					["useCompactPartyFrames"] = true,
+					["displayPets"] = true,
+					["horizontalGroups"] = true,
+					["displayMainTankAndAssist"] = false,
+					["frameWidth"] = 94,
+				},
+			},
+		},
+		["Kureq - Draenor"] = {
+			["raid"] = {
+				["frames"] = {
+					["showPartySolo"] = true,
+					["hideGroupTitles"] = true,
+					["powerBarHeight"] = 9,
+					["clickThrough"] = true,
+					["enhancedAbsorbs"] = true,
+					["texture"] = "Minimalist",
+				},
+				["nameAndIcons"] = {
+					["statusText"] = {
+						["enabled"] = true,
+					},
+				},
+			},
+			["party"] = {
+				["dispelDebuffFrames"] = {
+					["num"] = 4,
+				},
+				["debuffFrames"] = {
+					["num"] = 5,
+					["size"] = 9,
+					["numInRow"] = 4,
+				},
+				["nameAndIcons"] = {
+					["roleIcon"] = {
+						["enabled"] = true,
+						["yOffset"] = -1,
+					},
+					["statusText"] = {
+						["enabled"] = true,
+						["font"] = "FORCED SQUARE",
+						["size"] = 10,
+						["yOffset"] = -6,
+					},
+					["name"] = {
+						["enabled"] = true,
+						["font"] = "FORCED SQUARE",
+						["xOffset"] = 14,
+						["size"] = 7,
+					},
+				},
+				["buffFrames"] = {
+					["size"] = 10,
+					["num"] = 6,
+				},
+				["frames"] = {
+					["showPartySolo"] = true,
+					["hideGroupTitles"] = true,
+					["powerBarHeight"] = 9,
+					["clickThrough"] = true,
+					["enhancedAbsorbs"] = true,
+					["texture"] = "Minimalist",
+				},
+				["raidIcon"] = {
+					["enabled"] = true,
+				},
+			},
+			["current_profile"] = "Primary",
+			["saved_profiles"] = {
+				["Raid"] = {
+					["keepGroupsTogether"] = true,
+					["displayBorder"] = false,
+					["frameHeight"] = 55,
+					["displayPowerBar"] = true,
+					["frameWidth"] = 94,
+					["displayMainTankAndAssist"] = false,
+					["horizontalGroups"] = true,
+					["displayPets"] = true,
+					["useCompactPartyFrames"] = true,
+				},
+				["Primary"] = {
+					["keepGroupsTogether"] = true,
+					["displayBorder"] = false,
+					["frameHeight"] = 72,
+					["displayPowerBar"] = true,
+					["frameWidth"] = 139,
+					["displayMainTankAndAssist"] = false,
+					["horizontalGroups"] = false,
+					["displayPets"] = false,
+					["useCompactPartyFrames"] = true,
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,305 @@
+VER 3 00000000000000A5 "! Chest " "413587"
+/run LoadAddOn("Blizzard_WeeklyRewards"); if WeeklyRewardsFrame:IsVisible() then WeeklyRewardsFrame:Hide(); else WeeklyRewardsFrame:Show(); end
+END
+VER 3 0000000000000042 "! Delete Cursor" "Ability_IronMaidens_MaraksBloodcalling."
+#showtooltip Delete
+/run DeleteCursorItem();
+END
+VER 3 000000000000006D "! Enchant" "Ability_Mage_BrainFreeze."
+/run local f=MyItem or CreateFrame("Button","MyItem",nil,"SecureActionButtonTemplate") f:SetAttribute("type","click") f:SetAttribute("clickbutton",GetMouseFocus())
+/script TradeSkillFrame.DetailsFrame:Create();
+/click MyItem
+/click StaticPopup1Button1
+END
+VER 3 0000000000000040 "! LUA" "132089"
+/run if GetCVar("ScriptErrors")=="1" then SetCVar("ScriptErrors","0");print("Show LUA Errors: Off");else SetCVar("ScriptErrors","1");print("Show LUA Errors: On");end
+END
+VER 3 000000000000007B "@ Bubble" "236151"
+#showtooltip
+/cancelaura blessing of protection
+END
+VER 3 0000000000000074 "@ Engi CR" "136080"
+#showtooltip
+/use [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Disposable Spectrophasic Reanimator
+END
+VER 3 0000000000000069 "@ Fish" "236151"
+#showtoolip
+/use [@cursor] Sugar-Crusted Fish Feast
+END
+VER 3 000000000000007E "@ HP Pot" "INV_MISC_QUESTIONMARK"
+#Showtooltip
+/use Silas' Vial of Continuous Curing
+/use Coastal Healing Potion
+END
+VER 3 0000000000000078 "@ Speed Pot" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2."
+/use Lightfoot Potion
+/use Skystep Potion
+END
+VER 3 0000000000000079 "@ Stealth Pot" "132089"
+/use Demitri's Draught of Deception
+END
+VER 3 0000000000000076 "@ trinket 1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 000000000000006F "@ Trinket 1 Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use  [@mouseover,help,nodead][@target, exists, help][@player][] 13
+END
+VER 3 0000000000000083 "@ Trinket 2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0000000000000071 "@ Trinket 2 heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use  [@mouseover,help,nodead][@target, exists, help][@player][] 14
+END
+VER 3 000000000000007A "@ Use Belt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
+END
+VER 3 0000000000000095 "@arena - party1" "237383"
+#showtooltip Turn Evil
+/target party1
+END
+VER 3 0000000000000096 "@arena - party2" "237383"
+#showtooltip Divine Shield
+/target [@party2,exists][@player]
+END
+VER 3 0000000000000091 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click ExtraActionButton1
+END
+VER 3 000000000000008E "Druid - Bite" "INV_MISC_QUESTIONMARK"
+#showtooltip Ferocious Bite
+/cast [noform:2] Cat Form
+/cast [form:2] Ferocious Bite
+END
+VER 3 0000000000000089 "Druid - CatCh" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Charge
+/cast [nocombat] !Prowl;  [nostealth, noform:2] Cat Form
+/cast [form:2] Wild Charge
+END
+VER 3 000000000000008A "Druid - Maim" "INV_MISC_QUESTIONMARK"
+#showtooltip Maim
+/cast [noform:2] Cat Form
+/cast [form:2] Maim
+END
+VER 3 0000000000000093 "Druid - NS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Nature's Swiftness
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Regrowth
+END
+VER 3 000000000000008B "Druid - Rake" "INV_MISC_QUESTIONMARK"
+#showtooltip Rake
+/cast [noform:2] Cat Form
+/cast [form:2] Rake
+END
+VER 3 000000000000008F "Druid - Rip" "INV_MISC_QUESTIONMARK"
+#showtooltip Rip
+/cast [noform:2] Cat Form
+/cast [form:2] Rip
+END
+VER 3 000000000000008C "Druid - Shred" "INV_MISC_QUESTIONMARK"
+#showtooltip Shred
+/cast [noform:2] Cat Form
+/cast [form:2] Shred
+END
+VER 3 000000000000008D "Druid - Swipe" "INV_MISC_QUESTIONMARK"
+#showtooltip Swipe
+/cast [noform:2] Cat Form
+/cast [form:2] Swipe
+END
+VER 3 0000000000000088 "Druid - Taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Growl
+/cast [noform:1] Bear Form
+/cast Growl
+END
+VER 3 000000000000006C "Druid - Tree" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Force of Nature
+END
+VER 3 0000000000000090 "Druid - WC Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:2/2] Renewal
+/cancelform [@mouseover,help,nostance:0]
+/cast [@mouseover,exists,help] Wild Charge
+/cast [@target, stance: 0/1/2/3/4/5] Wild Charge;
+END
+VER 3 00000000000000B7 "GRP" "INV_MISC_QUESTIONMARK"
+/rw GROUP 1 ON TANK {STAR}
+END
+VER 3 00000000000000B8 "GRP2" "INV_MISC_QUESTIONMARK"
+/rw GROUP 2 ON TANK {Triangle}
+END
+VER 3 000000000000009F "HoJ" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, harm][] Hammer of Justice
+END
+VER 3 00000000000000BA "Pala - AM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Aura Mastery
+/y {star} {star}Using Aura Mastery!
+END
+VER 3 00000000000000AB "Pala - AM Cons" "135933"
+#showtooltip Aura Mastery
+/cast !Concentration Aura
+/cast Aura Mastery
+END
+VER 3 00000000000000AA "Pala - AM DEVO" "135893"
+#showtooltip Aura Mastery
+/cast !Devotion Aura
+/cast Aura Mastery
+END
+VER 3 00000000000000A9 "Pala - Aura" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence Devotion Aura, Concentration Aura
+END
+VER 3 00000000000000B9 "Pala - Big" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Sinful Gladiator's Badge of Ferocity
+END
+VER 3 00000000000000A8 "Pala - BOP0" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Blessing of Protection
+END
+VER 3 00000000000000A6 "Pala - BOP1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party1] Blessing of Protection
+END
+VER 3 00000000000000A7 "Pala - BOP2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party2] Blessing of Protection
+END
+VER 3 0000000000000094 "Pala - BOS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [mod:alt,@player][@mouseover,help,nodead][] Blessing of Sanctuary
+END
+VER 3 00000000000000A3 "Pala - Cleanse0" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcast
+/cast [@player] Cleanse
+END
+VER 3 0000000000000098 "Pala - Cleanse1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcast
+/cast [target=party1] Cleanse
+END
+VER 3 0000000000000099 "Pala - Cleanse2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcast
+/cast [@party2,exists][@player] Cleanse
+END
+VER 3 0000000000000092 "Pala - DT" "INV_MISC_QUESTIONMARK"
+#showtooltip Divine Toll
+/use Sinful Gladiator's Badge of Ferocity
+/cast Rule of Law
+/cast [mod:alt,@target][target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Divine Toll
+END
+VER 3 00000000000000A4 "Pala - Freedom0" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Blessing of Freedom
+END
+VER 3 000000000000009A "Pala - Freedom1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party1] Blessing of Freedom
+END
+VER 3 000000000000009B "Pala - Freedom2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party2,exists][@player] Blessing of Freedom
+END
+VER 3 00000000000000A0 "Pala - HoJ1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena1][] Hammer of Justice
+END
+VER 3 00000000000000A1 "Pala - HoJ2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena2][] Hammer of Justice
+END
+VER 3 00000000000000A2 "Pala - HoJ3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena3][] Hammer of Justice
+END
+VER 3 00000000000000BD "Pala - HotR" "INV_MISC_QUESTIONMARK"
+#showtooltip Hammer of the Righteous
+/cancelaura Blessing of Protection
+/cancelaura [talent:7/2] Divine Shield; [talent:7/1] Divine Shield
+/cast Hammer of the Righteous
+END
+VER 3 000000000000009D "Pala - HoW" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Shock
+/cast Hammer of Wrath
+END
+VER 3 000000000000009E "Pala - LoD" "INV_MISC_QUESTIONMARK"
+#showtooltip Avenging Wrath
+/stopcasting
+/cast Light of Dawn
+END
+VER 3 0000000000000097 "Pala - Queen" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Guardian of the Forgotten Queen
+END
+VER 3 00000000000000BC "Pala - SoTR" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield of the Righteous
+/cancelaura Blessing of Protection
+/cancelaura [talent:7/2] Divine Shield; [talent:7/1] Divine Shield
+/cast Shield of the Righteous
+END
+VER 3 000000000000009C "Pala - SotR" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Shock
+/cast Shield of the Righteous
+END
+VER 3 00000000000000AD "Pala - Talent4" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:4/3] Rule of Law; Hammer of Justice
+/cast [talent:4/3] Rule of Law
+END
+VER 3 00000000000000AC "Pala - Talent5" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/2] Holy Avenger; [talent:5/3] Seraphim
+/use Sinful Gladiator's Badge of Ferocity
+END
+VER 3 00000000000000BB "Paladin - Big CD" "135919"
+#showtooltip​ Avenging Wrath
+/use Sinful Gladiator’s Badge of Ferocity
+/cast Rule of Law
+/cast Holy Avenger
+/cast Avenging Wrath
+/use Potion of Spectral Intellect
+END
+VER 3 00000000000000B5 "Sham - CT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Capacitor Totem
+END
+VER 3 00000000000000B6 "Sham - EGT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Earthgrab Totem
+END
+VER 3 00000000000000B2 "Sham - Purge1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena1] Purge
+END
+VER 3 00000000000000B3 "Sham - Purge2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena2] Purge
+END
+VER 3 00000000000000AF "Sham - WS1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena1] Wind Shear
+END
+VER 3 00000000000000B0 "Sham - WS2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena2] Wind Shear
+END
+VER 3 00000000000000B1 "Sham - WS3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena3] Wind Shear
+END
+VER 3 00000000000000AE "Sham - WS@Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists, harm] Wind Shear; Wind Shear
+END
+VER 3 00000000000000B4 "Shamn - Purge3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena3] Purge
+END

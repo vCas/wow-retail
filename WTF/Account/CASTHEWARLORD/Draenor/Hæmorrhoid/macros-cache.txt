@@ -1,0 +1,15 @@
+VER 3 0100000000000002 "Focus" "INV_MISC_QUESTIONMARK"
+/focus
+END
+VER 3 0100000000000003 "Kick" "INV_MISC_QUESTIONMARK"
+#showtooltip Kick
+/cast [@focus, exists][] Kick
+/stopmacro [@focus,noexists]
+/target focus
+END
+VER 3 0100000000000001 "Shadowstep" "458726"
+#showtooltip Shadowstep
+/cast [@focus, exists][] Shadowstep
+/stopmacro [@focus,noexists]
+/target focus
+END

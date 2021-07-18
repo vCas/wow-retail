@@ -1,0 +1,476 @@
+
+ElvUI_BetterTalentFrameDB = {
+	["talents"] = {
+		["pve"] = {
+			{
+				{
+					{
+						["talentID"] = 22385,
+						["name"] = "Nature's Balance",
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 202430,
+						["texture"] = 132113,
+					}, -- [1]
+					{
+						["talentID"] = 22386,
+						["name"] = "Warrior of Elune",
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 202425,
+						["texture"] = 135900,
+					}, -- [2]
+					{
+						["talentID"] = 22387,
+						["name"] = "Force of Nature",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = true,
+						["spellid"] = 205636,
+						["texture"] = 132129,
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+						["talentID"] = 19283,
+						["name"] = "Tiger Dash",
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 252216,
+						["texture"] = 1817485,
+					}, -- [1]
+					{
+						["talentID"] = 18570,
+						["name"] = "Renewal",
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 108238,
+						["texture"] = 136059,
+					}, -- [2]
+					{
+						["talentID"] = 18571,
+						["name"] = "Wild Charge",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = true,
+						["spellid"] = 102401,
+						["texture"] = 538771,
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+						["talentID"] = 22155,
+						["name"] = "Feral Affinity",
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 202157,
+						["texture"] = 611425,
+					}, -- [1]
+					{
+						["talentID"] = 22157,
+						["name"] = "Guardian Affinity",
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 197491,
+						["texture"] = 611424,
+					}, -- [2]
+					{
+						["talentID"] = 22159,
+						["name"] = "Restoration Affinity",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = true,
+						["spellid"] = 197492,
+						["texture"] = 236157,
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+						["talentID"] = 21778,
+						["name"] = "Mighty Bash",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = true,
+						["spellid"] = 5211,
+						["texture"] = 132114,
+					}, -- [1]
+					{
+						["talentID"] = 18576,
+						["name"] = "Mass Entanglement",
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 102359,
+						["texture"] = 538515,
+					}, -- [2]
+					{
+						["talentID"] = 18577,
+						["name"] = "Heart of the Wild",
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 319454,
+						["texture"] = 135879,
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+						["talentID"] = 18580,
+						["name"] = "Soul of the Forest",
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 114107,
+						["texture"] = 236160,
+					}, -- [1]
+					{
+						["talentID"] = 21706,
+						["name"] = "Starlord",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = true,
+						["spellid"] = 202345,
+						["texture"] = 462651,
+					}, -- [2]
+					{
+						["talentID"] = 21702,
+						["name"] = "Incarnation: Chosen of Elune",
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 102560,
+						["texture"] = 571586,
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+						["talentID"] = 22389,
+						["name"] = "Stellar Drift",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = true,
+						["spellid"] = 202354,
+						["texture"] = 236168,
+					}, -- [1]
+					{
+						["talentID"] = 21712,
+						["name"] = "Twin Moons",
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 279620,
+						["texture"] = 136096,
+					}, -- [2]
+					{
+						["talentID"] = 22165,
+						["name"] = "Stellar Flare",
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 202347,
+						["texture"] = 1052602,
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+						["talentID"] = 21648,
+						["name"] = "Solstice",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = true,
+						["spellid"] = 343647,
+						["texture"] = 1392544,
+					}, -- [1]
+					{
+						["talentID"] = 21193,
+						["name"] = "Fury of Elune",
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 202770,
+						["texture"] = 132123,
+					}, -- [2]
+					{
+						["talentID"] = 21655,
+						["name"] = "New Moon",
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 274281,
+						["texture"] = 1392545,
+					}, -- [3]
+				}, -- [7]
+			}, -- [1]
+			nil, -- [2]
+			{
+				{
+					{
+						["name"] = "Brambles",
+						["talentID"] = 22419,
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = true,
+						["spellid"] = 203953,
+						["texture"] = 415052,
+					}, -- [1]
+					{
+						["name"] = "Blood Frenzy",
+						["talentID"] = 22418,
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 203962,
+						["texture"] = 132139,
+					}, -- [2]
+					{
+						["name"] = "Bristling Fur",
+						["talentID"] = 22420,
+						["available"] = false,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 155835,
+						["texture"] = 1033476,
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+						["name"] = "Tiger Dash",
+						["talentID"] = 19283,
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 252216,
+						["texture"] = 1817485,
+					}, -- [1]
+					{
+						["name"] = "Renewal",
+						["talentID"] = 18570,
+						["available"] = false,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 108238,
+						["texture"] = 136059,
+					}, -- [2]
+					{
+						["name"] = "Wild Charge",
+						["talentID"] = 18571,
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = true,
+						["spellid"] = 102401,
+						["texture"] = 538771,
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+						["name"] = "Balance Affinity",
+						["talentID"] = 22163,
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 197488,
+						["texture"] = 236156,
+					}, -- [1]
+					{
+						["name"] = "Feral Affinity",
+						["talentID"] = 22156,
+						["available"] = false,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 202155,
+						["texture"] = 611425,
+					}, -- [2]
+					{
+						["name"] = "Restoration Affinity",
+						["talentID"] = 22159,
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = true,
+						["spellid"] = 197492,
+						["texture"] = 236157,
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+						["name"] = "Mighty Bash",
+						["talentID"] = 21778,
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = true,
+						["spellid"] = 5211,
+						["texture"] = 132114,
+					}, -- [1]
+					{
+						["name"] = "Mass Entanglement",
+						["talentID"] = 18576,
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 102359,
+						["texture"] = 538515,
+					}, -- [2]
+					{
+						["name"] = "Heart of the Wild",
+						["talentID"] = 18577,
+						["available"] = false,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 319454,
+						["texture"] = 135879,
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+						["name"] = "Soul of the Forest",
+						["talentID"] = 21709,
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 158477,
+						["texture"] = 236160,
+					}, -- [1]
+					{
+						["name"] = "Galactic Guardian",
+						["talentID"] = 21707,
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = true,
+						["spellid"] = 203964,
+						["texture"] = 135853,
+					}, -- [2]
+					{
+						["name"] = "Incarnation: Guardian of Ursoc",
+						["talentID"] = 22388,
+						["available"] = false,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 102558,
+						["texture"] = 571586,
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+						["name"] = "Earthwarden",
+						["talentID"] = 22423,
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 203974,
+						["texture"] = 237573,
+					}, -- [1]
+					{
+						["name"] = "Survival of the Fittest",
+						["talentID"] = 21713,
+						["available"] = false,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 203965,
+						["texture"] = 132126,
+					}, -- [2]
+					{
+						["name"] = "Guardian of Elune",
+						["talentID"] = 22390,
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = true,
+						["spellid"] = 155578,
+						["texture"] = 1033479,
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+						["name"] = "Rend and Tear",
+						["talentID"] = 22426,
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = true,
+						["spellid"] = 204053,
+						["texture"] = 132143,
+					}, -- [1]
+					{
+						["name"] = "Tooth and Claw",
+						["talentID"] = 22427,
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 135288,
+						["texture"] = 134298,
+					}, -- [2]
+					{
+						["name"] = "Pulverize",
+						["talentID"] = 22425,
+						["available"] = false,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 80313,
+						["texture"] = 1033490,
+					}, -- [3]
+				}, -- [7]
+			}, -- [3]
+			{
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+					{
+					}, -- [3]
+				}, -- [7]
+			}, -- [4]
+		},
+	},
+}

@@ -1,0 +1,212 @@
+
+ElvUI_BetterTalentFrameDB = {
+	["talents"] = {
+		["pve"] = {
+			[3] = {
+				{
+					{
+						["talentID"] = 22328,
+						["name"] = "Fortress of the Mind",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 193195,
+						["texture"] = 236225,
+					}, -- [1]
+					{
+						["talentID"] = 22136,
+						["name"] = "Death and Madness",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 321291,
+						["texture"] = 136149,
+					}, -- [2]
+					{
+						["talentID"] = 22314,
+						["name"] = "Unfurling Darkness",
+						["available"] = true,
+						["column"] = 1,
+						["selected"] = false,
+						["spellid"] = 341273,
+						["texture"] = 1386547,
+					}, -- [3]
+				}, -- [1]
+				{
+					{
+						["talentID"] = 22315,
+						["name"] = "Body and Soul",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 64129,
+						["texture"] = 135982,
+					}, -- [1]
+					{
+						["talentID"] = 23374,
+						["name"] = "San'layn",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 199855,
+						["texture"] = 343633,
+					}, -- [2]
+					{
+						["talentID"] = 21976,
+						["name"] = "Intangibility",
+						["available"] = true,
+						["column"] = 2,
+						["selected"] = false,
+						["spellid"] = 288733,
+						["texture"] = 237563,
+					}, -- [3]
+				}, -- [2]
+				{
+					{
+						["talentID"] = 23125,
+						["name"] = "Twist of Fate",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 109142,
+						["texture"] = 237566,
+					}, -- [1]
+					{
+						["talentID"] = 23126,
+						["name"] = "Misery",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 238558,
+						["texture"] = 132291,
+					}, -- [2]
+					{
+						["talentID"] = 23127,
+						["name"] = "Searing Nightmare",
+						["available"] = true,
+						["column"] = 3,
+						["selected"] = false,
+						["spellid"] = 341385,
+						["texture"] = 1022950,
+					}, -- [3]
+				}, -- [3]
+				{
+					{
+						["talentID"] = 23137,
+						["name"] = "Last Word",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 263716,
+						["texture"] = 458230,
+					}, -- [1]
+					{
+						["talentID"] = 23375,
+						["name"] = "Mind Bomb",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 205369,
+						["texture"] = 136173,
+					}, -- [2]
+					{
+						["talentID"] = 21752,
+						["name"] = "Psychic Horror",
+						["available"] = true,
+						["column"] = 4,
+						["selected"] = false,
+						["spellid"] = 64044,
+						["texture"] = 237568,
+					}, -- [3]
+				}, -- [4]
+				{
+					{
+						["talentID"] = 22310,
+						["name"] = "Auspicious Spirits",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 155271,
+						["texture"] = 1022944,
+					}, -- [1]
+					{
+						["talentID"] = 22311,
+						["name"] = "Psychic Link",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 199484,
+						["texture"] = 1445238,
+					}, -- [2]
+					{
+						["talentID"] = 21755,
+						["name"] = "Shadow Crash",
+						["available"] = true,
+						["column"] = 5,
+						["selected"] = false,
+						["spellid"] = 205385,
+						["texture"] = 136201,
+					}, -- [3]
+				}, -- [5]
+				{
+					{
+						["talentID"] = 21718,
+						["name"] = "Damnation",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 341374,
+						["texture"] = 236295,
+					}, -- [1]
+					{
+						["talentID"] = 21719,
+						["name"] = "Mindbender",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 200174,
+						["texture"] = 136214,
+					}, -- [2]
+					{
+						["talentID"] = 21720,
+						["name"] = "Void Torrent",
+						["available"] = true,
+						["column"] = 6,
+						["selected"] = false,
+						["spellid"] = 263165,
+						["texture"] = 1386551,
+					}, -- [3]
+				}, -- [6]
+				{
+					{
+						["talentID"] = 21637,
+						["name"] = "Ancient Madness",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 341240,
+						["texture"] = 1386549,
+					}, -- [1]
+					{
+						["talentID"] = 21978,
+						["name"] = "Hungering Void",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 345218,
+						["texture"] = 1035040,
+					}, -- [2]
+					{
+						["talentID"] = 21979,
+						["name"] = "Surrender to Madness",
+						["available"] = true,
+						["column"] = 7,
+						["selected"] = false,
+						["spellid"] = 319952,
+						["texture"] = 254090,
+					}, -- [3]
+				}, -- [7]
+			},
+		},
+	},
+}

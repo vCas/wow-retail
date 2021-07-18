@@ -1,0 +1,77 @@
+VER 3 0100000000000013 "Angel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Angelic Feather
+/stopspelltarget
+END
+VER 3 0100000000000022 "bindingcurse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, noharm][@target, exists, noharm][@player] Binding Heal
+END
+VER 3 0100000000000023 "coh" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, noharm][@target, exists, noharm][@player] Circle of Healing
+END
+VER 3 0100000000000020 "Leap of Faith" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Leap of Faith
+END
+VER 3 0100000000000017 "Penance" "237545"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Penance
+END
+VER 3 010000000000001F "PenHeal" "237543"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Penance
+END
+VER 3 010000000000001D "PS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Pain Suppression
+END
+VER 3 010000000000001B "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Purify
+END
+VER 3 010000000000001C "PWR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Power Word: Radiance
+END
+VER 3 010000000000001A "pws" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm,nochanneling:Penance][target=target, exists, noharm,nochanneling:Penance][target=player][] Power Word: Shield
+END
+VER 3 0100000000000026 "SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Shadow Covenant
+END
+VER 3 0100000000000024 "schism" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Schism
+END
+VER 3 010000000000001E "SF" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Shining Force
+END
+VER 3 0100000000000016 "shadowmend" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, noharm][target=target, exists, noharm][target=player][] Flash Heal
+END
+VER 3 0100000000000018 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Smite
+END
+VER 3 0100000000000019 "SWP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Shadow Word: Pain
+END
+VER 3 0100000000000021 "t100" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2] Apotheosis; [talent:7/3] Holy Word: Salvation
+END
+VER 3 0100000000000025 "t90" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Divine Star; [talent:6/3] Halo
+END

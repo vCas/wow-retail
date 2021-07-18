@@ -1,0 +1,27 @@
+
+EnhancedRaidFramesDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Kureq - Draenor"] = "Default",
+		["Dryspell - Draenor"] = "Dryspell - Draenor",
+	},
+	["global"] = {
+		["DB_VERSION"] = 2,
+	},
+	["profiles"] = {
+		["Dryspell - Draenor"] = {
+		},
+		["Default"] = {
+			{
+				["indicatorSize"] = 17,
+			}, -- [1]
+			["showRaidIcons"] = false,
+		},
+		["Kureq - Draenor"] = {
+			["rangeAlpha"] = 0.4,
+		},
+	},
+}

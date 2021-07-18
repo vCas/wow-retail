@@ -1,0 +1,20 @@
+VER 3 0100000000000005 "Brand" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [@mouseover,help][@player] brand of the legion
+END
+VER 3 0100000000000003 "Cata" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Cataclysm
+END
+VER 3 0100000000000004 "Havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip Havoc
+/cast [@mouseover,harm] Havoc; [harm] Havoc
+END
+VER 3 0100000000000001 "RainOfDoom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Rain of Fire
+END
+VER 3 0100000000000002 "StunEm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Shadowfury
+END

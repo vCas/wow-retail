@@ -1,0 +1,29 @@
+
+DataStore_AuctionsDB = {
+	["profileKeys"] = {
+		["Kureq - Runetotem"] = "Kureq - Runetotem",
+		["Classfantasy - Draenor"] = "Classfantasy - Draenor",
+		["Abusedtampax - Draenor"] = "Abusedtampax - Draenor",
+		["Kureq - Draenor"] = "Kureq - Draenor",
+		["Reuseddurex - Draenor"] = "Reuseddurex - Draenor",
+		["Moistmist - Draenor"] = "Moistmist - Draenor",
+		["Lice - Runetotem"] = "Lice - Runetotem",
+		["Tidalmoist - Draenor"] = "Tidalmoist - Draenor",
+		["Dryspell - Draenor"] = "Dryspell - Draenor",
+		["Stiphy - Draenor"] = "Stiphy - Draenor",
+		["Recursion - Runetotem"] = "Recursion - Runetotem",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Draenor.Kureq"] = {
+				["lastUpdate"] = 1608312931,
+			},
+			["Default.Runetotem.Lice"] = {
+				["lastUpdate"] = 1607079057,
+			},
+			["Default.Runetotem.Kureq"] = {
+				["lastUpdate"] = 1607608452,
+			},
+		},
+	},
+}

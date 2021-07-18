@@ -1,0 +1,20 @@
+
+ElitismLog = {
+	[6322] = {
+		["Player-1403-09C50582"] = {
+			["sumOverkill"] = -1,
+			["sum"] = 6009,
+			["cnt"] = 1,
+			["spells"] = {
+				[330404] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 6009,
+				},
+			},
+			["auracnt"] = 0,
+			["auras"] = {
+			},
+		},
+	},
+}

@@ -1,0 +1,59 @@
+VER 3 0100000000000006 "Aimed" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Aimed Shot
+/petattack [@target]
+END
+VER 3 010000000000000E "Butcher" "INV_MISC_QUESTIONMARK"
+END
+VER 3 010000000000000D "Camo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/3]Camouflage;[talent:5/1]Sticky Bomb
+END
+VER 3 0100000000000009 "explo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl, @player][@cursor] Explosive Trap
+END
+VER 3 0100000000000002 "Focus" "ability_deathknight_desolation."
+/focus pet
+END
+VER 3 0100000000000008 "Follow" "Ability_Blackhand_Marked4Death."
+/petfollow
+END
+VER 3 0100000000000004 "KillCommand" "ABILITY_HUNTER_KILLCOMMAND"
+#showtooltip Kill Command
+/petattack
+/cast Kill Command
+END
+VER 3 0100000000000003 "Misde" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+/cast [@mouseover,help,nodead][@focus,help,nodead]Misdirection
+END
+VER 3 0100000000000007 "Move Here" "ABILITY_HUNTER_MARKEDFORDEATH"
+/petmoveto [@cursor]
+END
+VER 3 010000000000000C "Murder" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:2/1] A Murder of Crows; [talent:2/3] Snake Hunter
+END
+VER 3 0100000000000001 "NomIt" "ABILITY_PHYSICAL_TAUNT"
+/petattack [target]
+END
+VER 3 010000000000000B "PetSpecial" "INV_MISC_QUESTIONMARK"
+#showtooltip [pet:Crane] Gift of Chi-Ji; [pet:Warp Stalker] Warp Time;[pet:Nether Ray] Netherwinds
+/use [pet:Crane][@mouseover,help][target=player] Gift of Chi-Ji
+/use [pet:Warp Stalker] Warp Time
+/use [pet:Nether Ray] Netherwinds
+END
+VER 3 010000000000000A "Tar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl, @player] [@cursor] CAltrops
+END
+VER 3 0100000000000005 "Target" "INV_MISC_QUESTIONMARK"
+/target Loque'nahak
+END
+VER 3 010000000000000F "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000010 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Rec[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

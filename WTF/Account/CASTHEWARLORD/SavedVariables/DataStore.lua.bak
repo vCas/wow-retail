@@ -1,0 +1,70 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Kureq - Runetotem"] = "Kureq - Runetotem",
+		["Classfantasy - Draenor"] = "Classfantasy - Draenor",
+		["Abusedtampax - Draenor"] = "Abusedtampax - Draenor",
+		["Kureq - Draenor"] = "Kureq - Draenor",
+		["Reuseddurex - Draenor"] = "Reuseddurex - Draenor",
+		["Moistmist - Draenor"] = "Moistmist - Draenor",
+		["Lice - Runetotem"] = "Lice - Runetotem",
+		["Tidalmoist - Draenor"] = "Tidalmoist - Draenor",
+		["Dryspell - Draenor"] = "Dryspell - Draenor",
+		["Stiphy - Draenor"] = "Stiphy - Draenor",
+		["Recursion - Runetotem"] = "Recursion - Runetotem",
+	},
+	["global"] = {
+		["Guilds"] = {
+			["Default.Draenor.Disengage"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Draenor.Ållstars"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Draenor.Stiphy"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Draenor.Classfantasy"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Draenor.Abusedtampax"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Draenor.Moistmist"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Disengage",
+			},
+			["Default.Runetotem.Recursion"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Draenor.Tidalmoist"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Disengage",
+			},
+			["Default.Draenor.Reuseddurex"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Disengage",
+			},
+			["Default.Draenor.Kureq"] = {
+				["guildName"] = "Ållstars",
+				["faction"] = "Horde",
+			},
+			["Default.Runetotem.Lice"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Runetotem.Kureq"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Draenor.Dryspell"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["Draenor"] = "Draenor",
+			["Runetotem"] = "Runetotem",
+		},
+	},
+}

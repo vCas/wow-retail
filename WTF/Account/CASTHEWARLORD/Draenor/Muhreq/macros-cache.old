@@ -1,0 +1,88 @@
+VER 3 0100000000000018 "Beacon of Light" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:7/3] Beacon of Light; Beacon of Light
+/cast [mod:alt,@player][@mouseover,help,nodead][] Beacon of Light
+END
+VER 3 010000000000001D "beacon2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Beacon of Faith
+END
+VER 3 0100000000000029 "BoF" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:1/1] Blessing of Protection; [talent:1/2] Bestow Faith; [talent:1/3] Light's Hammer
+/cast [mod:alt,@player,talent:1/2][@mouseover,help,nodead,talent:1/2][talent:1/2] Bestow Faith; [talent:1/3] Light's Hammer
+END
+VER 3 0100000000000037 "CrusaderStrike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm][@targettarget,harm] Crusader Strike
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Crusader Strike
+END
+VER 3 0100000000000026 "FoL" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Flash of Light
+END
+VER 3 010000000000001A "Freedom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [mod:alt,@player][@mouseover,help,nodead][] Blessing of Freedom
+END
+VER 3 010000000000001E "Hands Of Shields" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [mod:alt,@player][@mouseover,help,nodead][] Blessing of Protection
+END
+VER 3 0100000000000028 "HL" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:alt,@player][target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Holy Light
+END
+VER 3 0100000000000034 "HSHostile" "461860"
+#showtooltip
+/cast [harm][@targettarget,harm] Holy Shock
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Holy Shock
+END
+VER 3 0100000000000022 "Interrupt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Hammer of Justice
+END
+VER 3 0100000000000038 "Judge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm][@targettarget,harm] Judgment
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Judgment
+END
+VER 3 010000000000000F "Lay on Hands" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast  [mod:alt,@player][@mouseover,help,nodead][] Lay on hands
+END
+VER 3 010000000000002A "Martyr" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,help,nodead][] Light of the Martyr
+END
+VER 3 0100000000000019 "need a hand" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][] Blessing of Sacrifice
+END
+VER 3 0100000000000017 "puri" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [mod:alt,@player][@mouseover,help,nodead][] Cleanse
+END
+VER 3 0100000000000032 "Rep" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/3] Blinding Light; [talent:3/2] Repentance
+END
+VER 3 0100000000000015 "Shook" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Shock
+/cancelqueuedspell
+/cast [mod:alt,@player][@mouseover,help,nodead][] Holy Shock
+END
+VER 3 010000000000003A "WoG" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Word of Glory
+END

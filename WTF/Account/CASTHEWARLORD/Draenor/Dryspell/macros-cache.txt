@@ -1,0 +1,100 @@
+VER 3 010000000000000E "Blink" "INV_MISC_QUESTIONMARK"
+#showtooltip Blink
+/cancelaura Ice Block
+/cast Blink
+END
+VER 3 010000000000000C "blizzard" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] blizzard
+END
+VER 3 0100000000000002 "CancelAlter" "3847780"
+/cancelaura Alter time
+END
+VER 3 0100000000000001 "CancelAura" "INV_MISC_QUESTIONMARK"
+/cancelaura Rejuvenation
+/cancelaura Lifebloom
+/cancelaura Prismatic Barrier
+/cancelaura Blessing of Protection
+/cancelaura Blessing of Freedom
+/cancelaura Combustion
+/cancelaura Blazing Barrier
+/cancelaura Ice Barrier
+END
+VER 3 0100000000000004 "CS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/stopcasting
+/cancelaura Ice Block
+/cast Counterspell
+END
+VER 3 0100000000000008 "CS-Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cancelaura Ice Block
+/cast [target=focus] Counterspell
+END
+VER 3 0100000000000005 "CS1" "INV_MISC_QUESTIONMARK"
+#showtooltip counterspell
+/stopcasting
+/cast [target=arena1] counterspell
+END
+VER 3 0100000000000006 "CS2" "INV_MISC_QUESTIONMARK"
+#showtooltip counterspell
+/stopcasting
+/cast [target=arena2] counterspell
+END
+VER 3 0100000000000007 "CS3" "INV_MISC_QUESTIONMARK"
+#showtooltip counterspell
+/stopcasting
+/cast [target=arena3] counterspell
+END
+VER 3 0100000000000003 "FB" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:4/3] Ebonbolt; Frostbolt
+/dismount
+/cancelaura slow fall
+/cancelaura levitate
+/cancelaura ice block
+/cancelaura invisibility
+/cast frostbolt
+END
+VER 3 010000000000000D "flamestrike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Flamestrike
+END
+VER 3 0100000000000009 "FocusSheep" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Polymorph
+END
+VER 3 010000000000000B "freeze" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Freeze
+END
+VER 3 010000000000000F "Frostnova" "INV_MISC_QUESTIONMARK"
+#showtooltip Frost Nova
+/cancelaura Ice Block
+/cast Frost Nova
+END
+VER 3 0100000000000011 "Ice Lance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Ice Lance
+END
+VER 3 0100000000000012 "Icy All" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Icy Veins
+/cast Blood Fury
+/cast Berserking
+/use 11
+/use 12
+/use 13
+/use 14
+/use 2
+END
+VER 3 0100000000000010 "Remove Curse" "INV_MISC_QUESTIONMARK"
+#showtooltip Remove Curse
+/cast [mod:alt,@target][target=mouseover, exists, noharm][target=target, exists, noharm][target=player] Remove Curse
+END
+VER 3 010000000000000A "Spellsteal-Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip spellsteal
+/cast [target=focus] spellsteal
+END

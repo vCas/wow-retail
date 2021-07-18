@@ -1,0 +1,16 @@
+VER 3 0100000000000004 "Intercept" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Intervene
+END
+VER 3 0100000000000003 "Ravager" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Ravager
+END
+VER 3 0100000000000002 "Spear of Bastion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Spear of Bastion
+END
+VER 3 0100000000000001 "t6" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Dragon Roar; [talent:6/3] Bladestorm
+END

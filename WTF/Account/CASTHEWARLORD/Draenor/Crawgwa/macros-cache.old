@@ -1,0 +1,88 @@
+VER 3 0100000000000008 "chain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm][@targettarget,harm] Chain Lightning
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Chain Lightning
+END
+VER 3 0100000000000004 "chainheal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Chain Heal
+END
+VER 3 010000000000000E "Earth Shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Earth Shield
+END
+VER 3 0100000000000006 "EarthBaby" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Earthquake
+END
+VER 3 010000000000000B "es" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Earth Shock
+END
+VER 3 0100000000000009 "fs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm][@targettarget,harm] Flame Shock
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Flame Shock
+END
+VER 3 0100000000000005 "healing wave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Healing Wave
+END
+VER 3 0100000000000007 "lb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm][@targettarget,harm] Lightning Bolt
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Lightning Bolt
+END
+VER 3 010000000000000A "Lb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm][@targettarget,harm] Lava Burst
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Lava Burst
+END
+VER 3 0100000000000014 "Purge@Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists, harm] Purge; [@focus, exists, help] Purify spirit; Purge
+END
+VER 3 0100000000000003 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Purify Spirit
+END
+VER 3 0100000000000011 "PW" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Primordial Wave
+END
+VER 3 0100000000000013 "PW-DMG" "451169"
+#showtooltip
+/cast [harm][@targettarget,harm] Primordial Wave
+/stopmacro [@targettarget,exists,harm]
+/targetenemy [noexists][dead][help]
+/cast Primordial Wave
+END
+VER 3 010000000000000D "Rain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Healing Rain
+END
+VER 3 0100000000000002 "Riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Riptide
+END
+VER 3 0100000000000001 "surge" "SPELL_NATURE_HEALINGWAY"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Healing Surge
+END
+VER 3 010000000000000C "T7" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2] Wellspring; [talent:7/3] Ascendance
+END
+VER 3 0100000000000012 "Unleash Life" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player][@mouseover,help,nodead][] Unleash Life
+END
