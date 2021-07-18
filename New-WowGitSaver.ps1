@@ -1,4 +1,4 @@
-﻿param($RestoreAddons = $false)
+﻿param([Switch]$RestoreAddons)
 
 $accounts = @("CASTHEWARLORD")
 $git = "git@github.com:vCas/wow-retail.git"
@@ -13,6 +13,7 @@ $includeFolders = @(
     "!/Interface/Textures/**",
     "!/Interface/wizard/**"
 )
+
 $ignore = @"
 #Ignore All Folders?
 *
