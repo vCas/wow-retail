@@ -34,7 +34,10 @@ $ignore = @"
 "@
 
 $readme = @"
-
+RUN this command to restore addons
+````PS
+.\New-WowGitSaver.ps1
+````
 "@
 
 $date = Get-Date -Format "yyyy-MM-dd"
