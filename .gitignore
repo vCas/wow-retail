@@ -3,6 +3,7 @@
 !*/
 !.gitignore
 !New-WowGitSaver.ps1
+
 #CurseBreaker
 !/WTF/Config.wtf
 !/WTF/CurseBreaker.cache
@@ -13,12 +14,22 @@
 #Lol storing binary in git
 !CurseBreaker.exe
 
-#Interface Stuff
-!/Screenshots/**
-!/Interface/AddOns/SharedMedia/**
-!/Interface/AddOns/SharedMedia_MyMedia/**
-!/Interface/AddOns/AKureqUI/**
-!/Interface/ole/**
-!/Interface/Textures/**
-!/Interface/wizard/**
+#ACCOUNTS
+
+CASTHEWARLORD
+
+#EXTRA FOLDERS
+
+!/WTF/Account/CASTHEWARLORD/**
+
+!/WTF/Account/CASTHEWARLORD/**
+
+!/WTF/Account/CASTHEWARLORD/**
+
+!/WTF/Account/CASTHEWARLORD/**
+
+!/WTF/Account/CASTHEWARLORD/**
+
+!/WTF/Account/CASTHEWARLORD/**
+
 !/WTF/Account/CASTHEWARLORD/**
