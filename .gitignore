@@ -8,7 +8,6 @@
 !/WTF/CurseBreaker.cache
 !/WTF/CurseBreaker.json
 !/WTF/SavedVariables/**
-!/WTF/Account/CASTHEWARLORD/**
 !/WTF/Account/SavedVariables/**
 
 #Lol storing binary in git
@@ -22,3 +21,4 @@
 !/Interface/ole/**
 !/Interface/Textures/**
 !/Interface/wizard/**
+!/WTF/Account/CASTHEWARLORD/**
