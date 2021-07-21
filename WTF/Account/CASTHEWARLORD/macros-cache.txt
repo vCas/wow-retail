@@ -240,14 +240,14 @@ VER 3 0000000000000097 "Pala - Queen" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [mod:alt,@player][@mouseover,help,nodead][] Guardian of the Forgotten Queen
 END
+VER 3 000000000000009C "Pala - SotR" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Shock
+/cast Shield of the Righteous
+END
 VER 3 00000000000000BC "Pala - SoTR" "INV_MISC_QUESTIONMARK"
 #showtooltip Shield of the Righteous
 /cancelaura Blessing of Protection
 /cancelaura [talent:7/2] Divine Shield; [talent:7/1] Divine Shield
-/cast Shield of the Righteous
-END
-VER 3 000000000000009C "Pala - SotR" "INV_MISC_QUESTIONMARK"
-#showtooltip Holy Shock
 /cast Shield of the Righteous
 END
 VER 3 00000000000000AD "Pala - Talent4" "INV_MISC_QUESTIONMARK"

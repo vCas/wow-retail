@@ -7,20 +7,20 @@ Details_StreamerDB = {
 		["Moistmist - Draenor"] = "Moldi - Draenor",
 		["Emmortal - Draenor"] = "Moldi - Draenor",
 		["Hæmorrhoid - Draenor"] = "Moldi - Draenor",
-		["Crawgwa - Draenor"] = "Moldi - Draenor",
+		["Kureq - Runetotem"] = "Moldi - Draenor",
 		["Stiphy - Draenor"] = "Moldi - Draenor",
 		["Classfantasy - Draenor"] = "Moldi - Draenor",
-		["Reuseddurex - Draenor"] = "Moldi - Draenor",
+		["Recursion - Runetotem"] = "Moldi - Draenor",
 		["Iteration - Runetotem"] = "Moldi - Draenor",
 		["Abusedtampax - Draenor"] = "Moldi - Draenor",
 		["Moldi - Draenor"] = "Moldi - Draenor",
 		["Priestboost - Draenor"] = "Moldi - Draenor",
 		["Tidebull - Draenor"] = "Moldi - Draenor",
-		["Korporeal - Draenor"] = "Moldi - Draenor",
 		["Tidalmoist - Draenor"] = "Moldi - Draenor",
+		["Korporeal - Draenor"] = "Moldi - Draenor",
 		["Dryspell - Draenor"] = "Moldi - Draenor",
-		["Recursion - Runetotem"] = "Moldi - Draenor",
-		["Kureq - Runetotem"] = "Moldi - Draenor",
+		["Reuseddurex - Draenor"] = "Moldi - Draenor",
+		["Crawgwa - Draenor"] = "Moldi - Draenor",
 	},
 	["profiles"] = {
 		["Moldi - Draenor"] = {
@@ -47,17 +47,22 @@ Details_StreamerDB = {
 				["radius"] = 160,
 				["hide"] = true,
 			},
-			["scale"] = 1,
+			["use_square_mode"] = true,
 			["arrow_anchor_x"] = 0,
-			["row_height"] = 10,
+			["main_frame_locked"] = true,
 			["row_texture"] = "Details Serenity",
-			["point"] = "RIGHT",
-			["author"] = "Details! Team",
-			["main_frame_strata"] = "LOW",
+			["arrow_anchor_y"] = 0,
+			["font_size"] = 8,
+			["row_color"] = {
+				0.1019607843137255, -- [1]
+				0.1019607843137255, -- [2]
+				0.1019607843137255, -- [3]
+				0.4000000357627869, -- [4]
+			},
 			["square_amount"] = 3,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 8,
+			["y"] = -129.6651306152344,
 			["row_spacement"] = 8,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -65,12 +70,7 @@ Details_StreamerDB = {
 				0, -- [3]
 				0, -- [4]
 			},
-			["row_color"] = {
-				0.1019607843137255, -- [1]
-				0.1019607843137255, -- [2]
-				0.1019607843137255, -- [3]
-				0.4000000357627869, -- [4]
-			},
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = true,
@@ -79,18 +79,18 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = -12.84408569335938,
 				["x"] = -322.7351226806641,
-				["size"] = 32,
-				["update_speed"] = 0.01600000075995922,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.01600000075995922,
+				["size"] = 32,
 			},
-			["y"] = -129.6651306152344,
+			["use_spark"] = false,
 			["x"] = 0,
 			["font_face"] = "Big Noodle Titling",
 			["square_size"] = 10,
-			["use_spark"] = false,
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = true,
-			["use_square_mode"] = true,
+			["main_frame_strata"] = "LOW",
+			["point"] = "RIGHT",
+			["row_height"] = 10,
+			["scale"] = 1,
 		},
 	},
 }

@@ -3422,12 +3422,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Vandpytten"] = {
+			["Halfmachine"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
+				["class"] = "SHAMAN",
 			},
 			["Bauntix"] = {
 				["encounters"] = 2,
@@ -3484,24 +3484,24 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Airalia"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						4, -- [1]
-						134.5210000001825, -- [2]
-						"Fated Conjunction |cFFFF333348,754|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PRIEST",
-			},
-			["Kureq"] = {
+			["Vandpytten"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
+				["class"] = "MAGE",
+			},
+			["Ugnar"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						3, -- [1]
+						134.3330000001006, -- [2]
+						"Fated Conjunction |cFFFF333321,439|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "SHAMAN",
 			},
 			["Birdeisham"] = {
 				["encounters"] = 2,
@@ -3527,15 +3527,10 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Xsabér"] = {
+			["Kureq"] = {
 				["encounters"] = 2,
-				["points"] = 190,
+				["points"] = 200,
 				["deaths"] = {
-					{
-						3, -- [1]
-						214.0519999999087, -- [2]
-						"Darkest Destiny |cFFFF3333132,351|r", -- [3]
-					}, -- [1]
 				},
 				["class"] = "PALADIN",
 			},
@@ -3553,24 +3548,29 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Ugnar"] = {
+			["Xsabér"] = {
 				["encounters"] = 2,
 				["points"] = 190,
 				["deaths"] = {
 					{
 						3, -- [1]
-						134.3330000001006, -- [2]
-						"Fated Conjunction |cFFFF333321,439|r", -- [3]
+						214.0519999999087, -- [2]
+						"Darkest Destiny |cFFFF3333132,351|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "PALADIN",
 			},
-			["Halfmachine"] = {
+			["Airalia"] = {
 				["encounters"] = 2,
-				["points"] = 200,
+				["points"] = 190,
 				["deaths"] = {
+					{
+						4, -- [1]
+						134.5210000001825, -- [2]
+						"Fated Conjunction |cFFFF333348,754|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "PRIEST",
 			},
 		},
 		["diff"] = 14,
@@ -3702,12 +3702,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Kureq"] = {
+			["Ugnar"] = {
 				["encounters"] = 4,
-				["points"] = 400,
+				["points"] = 390,
 				["deaths"] = {
+					{
+						1, -- [1]
+						174.6129999998957, -- [2]
+						"Shadowsteel Chains |cFFFF33332,630|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "PALADIN",
+				["class"] = "SHAMAN",
 			},
 			["Birdeisham"] = {
 				["encounters"] = 4,
@@ -3743,15 +3748,10 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Xsabér"] = {
+			["Kureq"] = {
 				["encounters"] = 4,
-				["points"] = 390,
+				["points"] = 400,
 				["deaths"] = {
-					{
-						1, -- [1]
-						314.3329999998678, -- [2]
-						"Dualblade Scythe |cFFFF333343,681|r", -- [3]
-					}, -- [1]
 				},
 				["class"] = "PALADIN",
 			},
@@ -3774,17 +3774,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Ugnar"] = {
+			["Xsabér"] = {
 				["encounters"] = 4,
 				["points"] = 390,
 				["deaths"] = {
 					{
 						1, -- [1]
-						174.6129999998957, -- [2]
-						"Shadowsteel Chains |cFFFF33332,630|r", -- [3]
+						314.3329999998678, -- [2]
+						"Dualblade Scythe |cFFFF333343,681|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "PALADIN",
 			},
 			["Farrygerjpl"] = {
 				["encounters"] = 4,
@@ -3969,12 +3969,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Halfmachine"] = {
+			["Vandpytten"] = {
 				["encounters"] = 2,
-				["points"] = 200,
+				["points"] = 190,
 				["deaths"] = {
+					{
+						2, -- [1]
+						64.99600000004284, -- [2]
+						"Threat Neutralization |cFFFF333312,388|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "MAGE",
 			},
 			["Bauntix"] = {
 				["encounters"] = 2,
@@ -4026,17 +4031,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Airalia"] = {
+			["Halfmachine"] = {
 				["encounters"] = 2,
-				["points"] = 190,
+				["points"] = 200,
 				["deaths"] = {
-					{
-						3, -- [1]
-						291.4199999999255, -- [2]
-						"Purging Protocol |cFFFF333333,590|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "PRIEST",
+				["class"] = "SHAMAN",
 			},
 			["Rêroll"] = {
 				["encounters"] = 2,
@@ -4112,17 +4112,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Vandpytten"] = {
+			["Airalia"] = {
 				["encounters"] = 2,
 				["points"] = 190,
 				["deaths"] = {
 					{
-						2, -- [1]
-						64.99600000004284, -- [2]
-						"Threat Neutralization |cFFFF333312,388|r", -- [3]
+						3, -- [1]
+						291.4199999999255, -- [2]
+						"Purging Protocol |cFFFF333333,590|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "MAGE",
+				["class"] = "PRIEST",
 			},
 		},
 		["diff"] = 14,

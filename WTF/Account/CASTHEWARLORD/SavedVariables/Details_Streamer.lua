@@ -7,20 +7,20 @@ Details_StreamerDB = {
 		["Moistmist - Draenor"] = "Moldi - Draenor",
 		["Emmortal - Draenor"] = "Moldi - Draenor",
 		["Hæmorrhoid - Draenor"] = "Moldi - Draenor",
+		["Crawgwa - Draenor"] = "Moldi - Draenor",
 		["Kureq - Runetotem"] = "Moldi - Draenor",
-		["Stiphy - Draenor"] = "Moldi - Draenor",
 		["Classfantasy - Draenor"] = "Moldi - Draenor",
-		["Recursion - Runetotem"] = "Moldi - Draenor",
+		["Reuseddurex - Draenor"] = "Moldi - Draenor",
 		["Iteration - Runetotem"] = "Moldi - Draenor",
 		["Abusedtampax - Draenor"] = "Moldi - Draenor",
 		["Moldi - Draenor"] = "Moldi - Draenor",
 		["Priestboost - Draenor"] = "Moldi - Draenor",
 		["Tidebull - Draenor"] = "Moldi - Draenor",
-		["Tidalmoist - Draenor"] = "Moldi - Draenor",
 		["Korporeal - Draenor"] = "Moldi - Draenor",
+		["Tidalmoist - Draenor"] = "Moldi - Draenor",
 		["Dryspell - Draenor"] = "Moldi - Draenor",
-		["Reuseddurex - Draenor"] = "Moldi - Draenor",
-		["Crawgwa - Draenor"] = "Moldi - Draenor",
+		["Recursion - Runetotem"] = "Moldi - Draenor",
+		["Stiphy - Draenor"] = "Moldi - Draenor",
 	},
 	["profiles"] = {
 		["Moldi - Draenor"] = {
@@ -52,16 +52,27 @@ Details_StreamerDB = {
 			["main_frame_locked"] = true,
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
-			["use_spark"] = false,
+			["y"] = -129.6651306152344,
+			["main_frame_strata"] = "LOW",
+			["square_amount"] = 3,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["font_size"] = 8,
+			["row_spacement"] = 8,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+			},
 			["row_color"] = {
 				0.1019607843137255, -- [1]
 				0.1019607843137255, -- [2]
 				0.1019607843137255, -- [3]
 				0.4000000357627869, -- [4]
 			},
-			["square_amount"] = 3,
-			["enabled"] = false,
-			["arrow_size"] = 10,
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = false,
 			["per_second"] = {
 				["enabled"] = true,
 				["point"] = "TOP",
@@ -73,21 +84,10 @@ Details_StreamerDB = {
 				["update_speed"] = 0.01600000075995922,
 				["size"] = 32,
 			},
-			["row_spacement"] = 8,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0, -- [4]
-			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = -129.6651306152344,
-			["font_size"] = 8,
 			["x"] = 0,
 			["font_face"] = "Big Noodle Titling",
 			["square_size"] = 10,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["point"] = "RIGHT",
 			["row_height"] = 10,
 			["scale"] = 1,

@@ -1,13 +1,13 @@
 
 TSV_DB = {
 	["profileKeys"] = {
-		["Muhreq - Draenor"] = "Muhreq - Draenor",
-		["Kureq - Draenor"] = "Kureq - Draenor",
-		["Moistmist - Draenor"] = "Moistmist - Draenor",
+		["Crawgwa - Draenor"] = "Crawgwa - Draenor",
 		["Stiphy - Draenor"] = "Stiphy - Draenor",
+		["Moistmist - Draenor"] = "Moistmist - Draenor",
+		["Kureq - Draenor"] = "Kureq - Draenor",
 		["Reuseddurex - Draenor"] = "Reuseddurex - Draenor",
 		["Dryspell - Draenor"] = "Dryspell - Draenor",
 		["Emmortal - Draenor"] = "Emmortal - Draenor",
-		["Crawgwa - Draenor"] = "Crawgwa - Draenor",
+		["Muhreq - Draenor"] = "Muhreq - Draenor",
 	},
 }

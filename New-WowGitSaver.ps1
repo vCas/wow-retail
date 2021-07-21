@@ -71,6 +71,6 @@ if (-Not (Test-Path -Path ".git")) {
     git push -u origin $branch
 }
 
-if ($RestoreAddons) {
+if ($RestoreAddons -and (Test-Path ".\cursebreaker.exe")) {
     .\CurseBreaker.exe force_update
 }

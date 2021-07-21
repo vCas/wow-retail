@@ -1,12 +1,12 @@
 
 REPorterSettings = {
 	["profileKeys"] = {
-		["Recursion - Runetotem"] = "Default",
 		["Stiphy - Draenor"] = "Default",
+		["Recursion - Runetotem"] = "Default",
 		["Reuseddurex - Draenor"] = "Default",
 		["Classfantasy - Draenor"] = "Default",
-		["Abusedtampax - Draenor"] = "Default",
 		["Muhreq - Draenor"] = "Default",
+		["Abusedtampax - Draenor"] = "Default",
 		["Kureq - Draenor"] = "Default",
 		["Priestboost - Draenor"] = "Default",
 		["Moistmist - Draenor"] = "Default",
@@ -60,10 +60,10 @@ REPorterSettings = {
 					["wy"] = 894,
 					["wx"] = 219,
 				},
-				[1366] = {
-					["ms"] = 1.1,
-					["wy"] = 1062,
-					["wx"] = 176,
+				[907] = {
+					["ms"] = 0.7,
+					["wy"] = 1034,
+					["wx"] = 188,
 				},
 				[1576] = {
 					["my"] = -20,
@@ -74,19 +74,6 @@ REPorterSettings = {
 					["wy"] = 1048,
 					["wx"] = 237,
 				},
-				[1339] = {
-					["my"] = -74,
-					["ww"] = 247,
-					["wh"] = 390,
-					["ms"] = 0.8,
-					["mx"] = 11,
-					["wy"] = 1027,
-					["wx"] = 139,
-				},
-				[91] = {
-					["wy"] = 992,
-					["wx"] = 120,
-				},
 				[423] = {
 					["my"] = -25,
 					["ww"] = 361,
@@ -96,14 +83,27 @@ REPorterSettings = {
 					["wy"] = 1104,
 					["wx"] = 180,
 				},
+				[91] = {
+					["wy"] = 992,
+					["wx"] = 120,
+				},
+				[1339] = {
+					["my"] = -74,
+					["ww"] = 247,
+					["wh"] = 390,
+					["ms"] = 0.8,
+					["mx"] = 11,
+					["wy"] = 1027,
+					["wx"] = 139,
+				},
 				[1478] = {
 					["wy"] = 1064,
 					["wx"] = 180,
 				},
-				[907] = {
-					["ms"] = 0.7,
-					["wy"] = 1034,
-					["wx"] = 188,
+				[1366] = {
+					["ms"] = 1.1,
+					["wy"] = 1062,
+					["wx"] = 176,
 				},
 			},
 		},

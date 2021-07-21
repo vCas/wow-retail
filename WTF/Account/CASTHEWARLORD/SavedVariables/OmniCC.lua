@@ -1,9 +1,5 @@
 
 OmniCCDB = {
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "9.1.0",
-	},
 	["profileKeys"] = {
 		["Kureq - Draenor"] = "Default",
 		["Lice - Runetotem"] = "Default",
@@ -11,20 +7,24 @@ OmniCCDB = {
 		["Moistmist - Draenor"] = "Default",
 		["Emmortal - Draenor"] = "Default",
 		["Hæmorrhoid - Draenor"] = "Default",
-		["Crawgwa - Draenor"] = "Default",
+		["Stiphy - Draenor"] = "Default",
 		["Kureq - Runetotem"] = "Default",
 		["Moldi - Draenor"] = "Default",
-		["Classfantasy - Draenor"] = "Default",
+		["Recursion - Runetotem"] = "Default",
 		["Iteration - Runetotem"] = "Default",
 		["Abusedtampax - Draenor"] = "Default",
 		["Reuseddurex - Draenor"] = "Default",
 		["Priestboost - Draenor"] = "Default",
 		["Tidebull - Draenor"] = "Default",
-		["Korporeal - Draenor"] = "Default",
 		["Tidalmoist - Draenor"] = "Default",
+		["Korporeal - Draenor"] = "Default",
 		["Dryspell - Draenor"] = "Default",
-		["Recursion - Runetotem"] = "Default",
-		["Stiphy - Draenor"] = "Default",
+		["Classfantasy - Draenor"] = "Default",
+		["Crawgwa - Draenor"] = "Default",
+	},
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "9.1.0",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -89,9 +89,9 @@ OmniCCDB = {
 			["themes"] = {
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["seconds"] = {
+						},
+						["minutes"] = {
 						},
 						["soon"] = {
 						},
@@ -100,9 +100,9 @@ OmniCCDB = {
 				},
 				["Default"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["seconds"] = {
+						},
+						["minutes"] = {
 						},
 						["soon"] = {
 						},
@@ -115,10 +115,10 @@ OmniCCDB = {
 				},
 				["Grid2"] = {
 					["textStyles"] = {
+						["minutes"] = {
+						},
 						["seconds"] = {
 							["scale"] = 1.281184196472168,
-						},
-						["minutes"] = {
 						},
 						["soon"] = {
 							["scale"] = 1.769086956977844,

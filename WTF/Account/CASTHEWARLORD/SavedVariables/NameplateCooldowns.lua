@@ -1,12 +1,12 @@
 
 NameplateCooldownsAceDB = {
 	["profileKeys"] = {
-		["Kureq - Draenor"] = "Kureq - Draenor",
 		["Stiphy - Draenor"] = "Stiphy - Draenor",
+		["Kureq - Draenor"] = "Kureq - Draenor",
 		["Reuseddurex - Draenor"] = "Reuseddurex - Draenor",
-		["Muhreq - Draenor"] = "Muhreq - Draenor",
 		["Crawgwa - Draenor"] = "Crawgwa - Draenor",
 		["Abusedtampax - Draenor"] = "Abusedtampax - Draenor",
+		["Muhreq - Draenor"] = "Muhreq - Draenor",
 		["Recursion - Runetotem"] = "Recursion - Runetotem",
 		["Priestboost - Draenor"] = "Priestboost - Draenor",
 		["Moistmist - Draenor"] = "Moistmist - Draenor",
@@ -17,990 +17,9 @@ NameplateCooldownsAceDB = {
 		["Hæmorrhoid - Draenor"] = "Hæmorrhoid - Draenor",
 	},
 	["profiles"] = {
-		["Kureq - Draenor"] = {
-			["SpellCDs"] = {
-				[47585] = {
-					["enabled"] = true,
-				},
-				[207777] = {
-					["enabled"] = true,
-				},
-				[18499] = {
-					["enabled"] = true,
-				},
-				[132469] = {
-					["enabled"] = true,
-				},
-				[73325] = {
-					["enabled"] = true,
-				},
-				[221703] = {
-					["enabled"] = true,
-				},
-				[10060] = {
-					["enabled"] = true,
-				},
-				[633] = {
-					["enabled"] = true,
-				},
-				[1776] = {
-					["enabled"] = true,
-				},
-				[118038] = {
-					["enabled"] = true,
-				},
-				[191427] = {
-					["enabled"] = true,
-				},
-				[108968] = {
-					["enabled"] = true,
-				},
-				[8122] = {
-					["enabled"] = true,
-				},
-				[51514] = {
-					["enabled"] = true,
-				},
-				[204331] = {
-					["enabled"] = true,
-				},
-				[236077] = {
-					["enabled"] = true,
-				},
-				[198838] = {
-					["enabled"] = true,
-				},
-				[77606] = {
-					["enabled"] = true,
-				},
-				[51690] = {
-					["enabled"] = true,
-				},
-				[53271] = {
-					["enabled"] = true,
-				},
-				[88625] = {
-					["enabled"] = true,
-				},
-				[15286] = {
-					["enabled"] = true,
-				},
-				[119381] = {
-					["enabled"] = true,
-				},
-				[207399] = {
-					["enabled"] = true,
-				},
-				[79140] = {
-					["enabled"] = true,
-				},
-				[642] = {
-					["enabled"] = true,
-				},
-				[102359] = {
-					["enabled"] = true,
-				},
-				[51052] = {
-					["enabled"] = true,
-				},
-				[1543] = {
-					["enabled"] = true,
-				},
-				[61336] = {
-					["enabled"] = true,
-				},
-				[236273] = {
-					["enabled"] = true,
-				},
-				[195457] = {
-					["enabled"] = true,
-				},
-				[105809] = {
-					["enabled"] = true,
-				},
-				[204336] = {
-					["enabled"] = true,
-				},
-				[206572] = {
-					["enabled"] = true,
-				},
-				[80483] = {
-					["enabled"] = true,
-				},
-				[50334] = {
-					["enabled"] = true,
-				},
-				[31850] = {
-					["enabled"] = true,
-				},
-				[204018] = {
-					["enabled"] = true,
-				},
-				[199483] = {
-					["enabled"] = true,
-				},
-				[79206] = {
-					["enabled"] = true,
-				},
-				[198589] = {
-					["enabled"] = true,
-				},
-				[114018] = {
-					["enabled"] = true,
-				},
-				[114050] = {
-					["enabled"] = true,
-				},
-				[1044] = {
-					["enabled"] = true,
-				},
-				[147362] = {
-					["enabled"] = true,
-				},
-				[190925] = {
-					["enabled"] = true,
-				},
-				[210918] = {
-					["enabled"] = true,
-				},
-				[66] = {
-					["enabled"] = true,
-				},
-				[108238] = {
-					["enabled"] = true,
-				},
-				[343142] = {
-					["enabled"] = true,
-				},
-				[22812] = {
-					["enabled"] = true,
-				},
-				[198144] = {
-					["enabled"] = true,
-				},
-				[114051] = {
-					["enabled"] = true,
-				},
-				[213602] = {
-					["enabled"] = true,
-				},
-				[12975] = {
-					["enabled"] = true,
-				},
-				[12472] = {
-					["enabled"] = true,
-				},
-				[192077] = {
-					["enabled"] = true,
-				},
-				[36554] = {
-					["enabled"] = true,
-				},
-				[108271] = {
-					["enabled"] = true,
-				},
-				[186265] = {
-					["enabled"] = true,
-				},
-				[316958] = {
-					["enabled"] = true,
-				},
-				[188501] = {
-					["enabled"] = true,
-				},
-				[51485] = {
-					["enabled"] = true,
-				},
-				[96231] = {
-					["enabled"] = true,
-				},
-				[51533] = {
-					["enabled"] = true,
-				},
-				[265221] = {
-					["enabled"] = true,
-				},
-				[6789] = {
-					["enabled"] = true,
-				},
-				[48020] = {
-					["enabled"] = true,
-				},
-				[99] = {
-					["enabled"] = true,
-				},
-				[211881] = {
-					["enabled"] = true,
-				},
-				[275699] = {
-					["enabled"] = true,
-				},
-				[167105] = {
-					["enabled"] = true,
-				},
-				[48707] = {
-					["enabled"] = true,
-				},
-				[336126] = {
-					["enabled"] = true,
-				},
-				[107570] = {
-					["enabled"] = true,
-				},
-				[2139] = {
-					["enabled"] = true,
-				},
-				[325013] = {
-					["enabled"] = true,
-				},
-				[262161] = {
-					["enabled"] = true,
-				},
-				[185311] = {
-					["enabled"] = true,
-				},
-				[209584] = {
-					["enabled"] = true,
-				},
-				[116705] = {
-					["enabled"] = true,
-				},
-				[33697] = {
-					["enabled"] = true,
-				},
-				[205369] = {
-					["enabled"] = true,
-				},
-				[100] = {
-					["enabled"] = true,
-				},
-				[19236] = {
-					["enabled"] = true,
-				},
-				[1850] = {
-					["enabled"] = true,
-				},
-				[213610] = {
-					["enabled"] = true,
-				},
-				[13750] = {
-					["enabled"] = true,
-				},
-				[102558] = {
-					["enabled"] = true,
-				},
-				[212653] = {
-					["enabled"] = true,
-				},
-				[1856] = {
-					["enabled"] = true,
-				},
-				[68992] = {
-					["enabled"] = true,
-				},
-				[115078] = {
-					["enabled"] = true,
-				},
-				[108978] = {
-					["enabled"] = true,
-				},
-				[207736] = {
-					["enabled"] = true,
-				},
-				[46968] = {
-					["enabled"] = true,
-				},
-				[49028] = {
-					["enabled"] = true,
-				},
-				[324386] = {
-					["enabled"] = true,
-				},
-				[228049] = {
-					["enabled"] = true,
-				},
-				[205629] = {
-					["enabled"] = true,
-				},
-				[106839] = {
-					["enabled"] = true,
-				},
-				[110959] = {
-					["enabled"] = true,
-				},
-				[28730] = {
-					["enabled"] = true,
-				},
-				[205630] = {
-					["enabled"] = true,
-				},
-				[107574] = {
-					["enabled"] = true,
-				},
-				[20594] = {
-					["enabled"] = true,
-				},
-				[157980] = {
-					["enabled"] = true,
-				},
-				[32379] = {
-					["enabled"] = true,
-				},
-				[210294] = {
-					["enabled"] = true,
-				},
-				[31884] = {
-					["enabled"] = true,
-				},
-				[202246] = {
-					["enabled"] = true,
-				},
-				[217832] = {
-					["enabled"] = true,
-				},
-				[15487] = {
-					["enabled"] = true,
-				},
-				[47528] = {
-					["enabled"] = true,
-				},
-				[33891] = {
-					["enabled"] = true,
-				},
-				[207167] = {
-					["enabled"] = true,
-				},
-				[184364] = {
-					["enabled"] = true,
-				},
-				[5484] = {
-					["enabled"] = true,
-				},
-				[326059] = {
-					["enabled"] = true,
-				},
-				[196884] = {
-					["enabled"] = true,
-				},
-				[1122] = {
-					["enabled"] = true,
-				},
-				[210873] = {
-					["enabled"] = true,
-				},
-				[4987] = {
-					["enabled"] = true,
-				},
-				[31661] = {
-					["enabled"] = true,
-				},
-				[152173] = {
-					["enabled"] = true,
-				},
-				[12042] = {
-					["enabled"] = true,
-				},
-				[309328] = {
-					["enabled"] = true,
-				},
-				[6544] = {
-					["enabled"] = true,
-				},
-				[31230] = {
-					["enabled"] = true,
-				},
-				[209789] = {
-					["enabled"] = true,
-				},
-				[6552] = {
-					["enabled"] = true,
-				},
-				[49206] = {
-					["enabled"] = true,
-				},
-				[48743] = {
-					["enabled"] = true,
-				},
-				[86659] = {
-					["enabled"] = true,
-				},
-				[121471] = {
-					["enabled"] = true,
-				},
-				[277778] = {
-					["enabled"] = true,
-				},
-				[78675] = {
-					["enabled"] = true,
-				},
-				[80240] = {
-					["enabled"] = true,
-				},
-				[51490] = {
-					["enabled"] = true,
-				},
-				[322109] = {
-					["enabled"] = true,
-				},
-				[207684] = {
-					["enabled"] = true,
-				},
-				[45438] = {
-					["enabled"] = true,
-				},
-				[91802] = {
-					["enabled"] = true,
-				},
-				[33206] = {
-					["enabled"] = true,
-				},
-				[109304] = {
-					["enabled"] = true,
-				},
-				[8143] = {
-					["enabled"] = true,
-				},
-				[315341] = {
-					["enabled"] = true,
-				},
-				[102342] = {
-					["enabled"] = true,
-				},
-				[277784] = {
-					["enabled"] = true,
-				},
-				[231895] = {
-					["enabled"] = true,
-				},
-				[48792] = {
-					["enabled"] = true,
-				},
-				[213691] = {
-					["enabled"] = true,
-				},
-				[122783] = {
-					["enabled"] = true,
-				},
-				[46924] = {
-					["enabled"] = true,
-				},
-				[2825] = {
-					["enabled"] = true,
-				},
-				[211010] = {
-					["enabled"] = true,
-				},
-				[84714] = {
-					["enabled"] = true,
-				},
-				[20484] = {
-					["enabled"] = true,
-				},
-				[235219] = {
-					["enabled"] = true,
-				},
-				[197214] = {
-					["enabled"] = true,
-				},
-				[201430] = {
-					["enabled"] = true,
-				},
-				[137619] = {
-					["enabled"] = true,
-				},
-				[20572] = {
-					["enabled"] = true,
-				},
-				[116844] = {
-					["enabled"] = true,
-				},
-				[19574] = {
-					["enabled"] = true,
-				},
-				[26297] = {
-					["enabled"] = true,
-				},
-				[7744] = {
-					["enabled"] = true,
-				},
-				[187827] = {
-					["enabled"] = true,
-				},
-				[198111] = {
-					["enabled"] = true,
-				},
-				[49576] = {
-					["enabled"] = true,
-				},
-				[344867] = {
-					["enabled"] = true,
-				},
-				[104773] = {
-					["enabled"] = true,
-				},
-				[102793] = {
-					["enabled"] = true,
-				},
-				[211015] = {
-					["enabled"] = true,
-				},
-				[64044] = {
-					["enabled"] = true,
-				},
-				[123904] = {
-					["enabled"] = true,
-				},
-				[202137] = {
-					["enabled"] = true,
-				},
-				[47788] = {
-					["enabled"] = true,
-				},
-				[5384] = {
-					["enabled"] = true,
-				},
-				[122] = {
-					["enabled"] = true,
-				},
-				[202138] = {
-					["enabled"] = true,
-				},
-				[1953] = {
-					["enabled"] = true,
-				},
-				[317009] = {
-					["enabled"] = true,
-				},
-				[113858] = {
-					["enabled"] = true,
-				},
-				[198817] = {
-					["enabled"] = true,
-				},
-				[47476] = {
-					["enabled"] = true,
-				},
-				[32182] = {
-					["enabled"] = true,
-				},
-				[212295] = {
-					["enabled"] = true,
-				},
-				[64843] = {
-					["enabled"] = true,
-				},
-				[1022] = {
-					["enabled"] = true,
-				},
-				[307443] = {
-					["enabled"] = true,
-				},
-				[326860] = {
-					["enabled"] = true,
-				},
-				[327104] = {
-					["enabled"] = true,
-				},
-				[196555] = {
-					["enabled"] = true,
-				},
-				[853] = {
-					["enabled"] = true,
-				},
-				[212552] = {
-					["enabled"] = true,
-				},
-				[88423] = {
-					["enabled"] = true,
-				},
-				[206803] = {
-					["enabled"] = true,
-				},
-				[108416] = {
-					["enabled"] = true,
-				},
-				[5277] = {
-					["enabled"] = true,
-				},
-				[319454] = {
-					["enabled"] = true,
-				},
-				[55342] = {
-					["enabled"] = true,
-				},
-				[323764] = {
-					["enabled"] = true,
-				},
-				[233759] = {
-					["enabled"] = true,
-				},
-				[212459] = {
-					["enabled"] = true,
-				},
-				[31224] = {
-					["enabled"] = true,
-				},
-				[20589] = {
-					["enabled"] = true,
-				},
-				[316262] = {
-					["enabled"] = true,
-				},
-				[184662] = {
-					["enabled"] = true,
-				},
-				[198529] = {
-					["enabled"] = true,
-				},
-				[198013] = {
-					["enabled"] = true,
-				},
-				[329038] = {
-					["enabled"] = true,
-				},
-				[323639] = {
-					["enabled"] = true,
-				},
-				[323673] = {
-					["enabled"] = true,
-				},
-				[69070] = {
-					["enabled"] = true,
-				},
-				[122278] = {
-					["enabled"] = true,
-				},
-				[323546] = {
-					["enabled"] = true,
-				},
-				[113860] = {
-					["enabled"] = true,
-				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[89766] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[108199] = {
-					["enabled"] = true,
-				},
-				[122470] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[1719] = {
-					["enabled"] = true,
-				},
-				[328530] = {
-					["enabled"] = true,
-				},
-				[325640] = {
-					["enabled"] = true,
-				},
-				[210256] = {
-					["enabled"] = true,
-				},
-				[221562] = {
-					["enabled"] = true,
-				},
-				[31821] = {
-					["enabled"] = true,
-				},
-				[307865] = {
-					["enabled"] = true,
-				},
-				[329554] = {
-					["enabled"] = true,
-				},
-				[19577] = {
-					["enabled"] = true,
-				},
-				[5211] = {
-					["enabled"] = true,
-				},
-				[211004] = {
-					["enabled"] = true,
-				},
-				[77130] = {
-					["enabled"] = true,
-				},
-				[327661] = {
-					["enabled"] = true,
-				},
-				[58984] = {
-					["enabled"] = true,
-				},
-				[115781] = {
-					["enabled"] = true,
-				},
-				[57994] = {
-					["enabled"] = true,
-				},
-				[59543] = {
-					["enabled"] = true,
-				},
-				[48265] = {
-					["enabled"] = true,
-				},
-				[49039] = {
-					["enabled"] = true,
-				},
-				[324724] = {
-					["enabled"] = true,
-				},
-				[109248] = {
-					["enabled"] = true,
-				},
-				[50613] = {
-					["enabled"] = true,
-				},
-				[304971] = {
-					["enabled"] = true,
-				},
-				[2094] = {
-					["enabled"] = true,
-				},
-				[266779] = {
-					["enabled"] = true,
-				},
-				[69179] = {
-					["enabled"] = true,
-				},
-				[114052] = {
-					["enabled"] = true,
-				},
-				[498] = {
-					["enabled"] = true,
-				},
-				[325216] = {
-					["enabled"] = true,
-				},
-				[740] = {
-					["enabled"] = true,
-				},
-				[102543] = {
-					["enabled"] = true,
-				},
-				[202914] = {
-					["enabled"] = true,
-				},
-				[98008] = {
-					["enabled"] = true,
-				},
-				[781] = {
-					["enabled"] = true,
-				},
-				[212638] = {
-					["enabled"] = true,
-				},
-				[209749] = {
-					["enabled"] = true,
-				},
-				[183752] = {
-					["enabled"] = true,
-				},
-				[69041] = {
-					["enabled"] = true,
-				},
-				[328923] = {
-					["enabled"] = true,
-				},
-				[106951] = {
-					["enabled"] = true,
-				},
-				[6940] = {
-					["enabled"] = true,
-				},
-				[195676] = {
-					["enabled"] = true,
-				},
-				[871] = {
-					["enabled"] = true,
-				},
-				[108280] = {
-					["enabled"] = true,
-				},
-				[30283] = {
-					["enabled"] = true,
-				},
-				[236320] = {
-					["enabled"] = true,
-				},
-				[305483] = {
-					["enabled"] = true,
-				},
-				[283167] = {
-					["enabled"] = true,
-				},
-				[190319] = {
-					["enabled"] = true,
-				},
-				[187650] = {
-					["enabled"] = true,
-				},
-				[32375] = {
-					["enabled"] = true,
-				},
-				[5246] = {
-					["enabled"] = true,
-				},
-				[212619] = {
-					["enabled"] = true,
-				},
-				[205191] = {
-					["enabled"] = true,
-				},
-				[192058] = {
-					["enabled"] = true,
-				},
-				[22570] = {
-					["enabled"] = true,
-				},
-				[19647] = {
-					["enabled"] = true,
-				},
-				[33702] = {
-					["enabled"] = true,
-				},
-				[216331] = {
-					["enabled"] = true,
-				},
-				[185313] = {
-					["enabled"] = true,
-				},
-				[2983] = {
-					["enabled"] = true,
-				},
-				[59752] = {
-					["enabled"] = true,
-				},
-				[102560] = {
-					["enabled"] = true,
-				},
-				[62618] = {
-					["enabled"] = true,
-				},
-				[47536] = {
-					["enabled"] = true,
-				},
-				[119996] = {
-					["enabled"] = true,
-				},
-				[527] = {
-					["enabled"] = true,
-				},
-				[328547] = {
-					["enabled"] = true,
-				},
-				[194223] = {
-					["enabled"] = true,
-				},
-				[306830] = {
-					["enabled"] = true,
-				},
-				[308491] = {
-					["enabled"] = true,
-				},
-				[191634] = {
-					["enabled"] = true,
-				},
-				[22842] = {
-					["enabled"] = true,
-				},
-				[269352] = {
-					["enabled"] = true,
-				},
-				[320674] = {
-					["enabled"] = true,
-				},
-				[97462] = {
-					["enabled"] = true,
-				},
-				[113724] = {
-					["enabled"] = true,
-				},
-				[227847] = {
-					["enabled"] = true,
-				},
-				[42650] = {
-					["enabled"] = true,
-				},
-				[23920] = {
-					["enabled"] = true,
-				},
-				[116849] = {
-					["enabled"] = true,
-				},
-				[212182] = {
-					["enabled"] = true,
-				},
-				[190784] = {
-					["enabled"] = true,
-				},
-				[3411] = {
-					["enabled"] = true,
-				},
-				[179057] = {
-					["enabled"] = true,
-				},
-				[328305] = {
-					["enabled"] = true,
-				},
-				[323654] = {
-					["enabled"] = true,
-				},
-				[408] = {
-					["enabled"] = true,
-				},
-				[206649] = {
-					["enabled"] = true,
-				},
-				[115750] = {
-					["enabled"] = true,
-				},
-				[205604] = {
-					["enabled"] = true,
-				},
-				[310454] = {
-					["enabled"] = true,
-				},
-				[25046] = {
-					["enabled"] = true,
-				},
-				[204263] = {
-					["enabled"] = true,
-				},
-				[1766] = {
-					["enabled"] = true,
-				},
-				[115176] = {
-					["enabled"] = true,
-				},
-				[315443] = {
-					["enabled"] = true,
-				},
-				[198898] = {
-					["enabled"] = true,
-				},
-				[115450] = {
-					["enabled"] = true,
-				},
-				[202370] = {
-					["enabled"] = true,
-				},
-			},
-			["DBVersion"] = 11,
-			["IconYOffset"] = 50,
-			["MigrationVersion"] = 7,
-		},
 		["Stiphy - Draenor"] = {
 			["DBVersion"] = 11,
+			["MigrationVersion"] = 7,
 			["SpellCDs"] = {
 				[47585] = {
 					["enabled"] = true,
@@ -1539,7 +558,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[5384] = {
 					["enabled"] = true,
 				},
 				[113860] = {
@@ -1554,13 +573,13 @@ NameplateCooldownsAceDB = {
 				[315443] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[115176] = {
 					["enabled"] = true,
 				},
 				[198817] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[326860] = {
 					["enabled"] = true,
 				},
 				[32182] = {
@@ -1584,7 +603,987 @@ NameplateCooldownsAceDB = {
 				[323764] = {
 					["enabled"] = true,
 				},
+				[196555] = {
+					["enabled"] = true,
+				},
+				[853] = {
+					["enabled"] = true,
+				},
+				[212552] = {
+					["enabled"] = true,
+				},
+				[88423] = {
+					["enabled"] = true,
+				},
+				[206803] = {
+					["enabled"] = true,
+				},
+				[108416] = {
+					["enabled"] = true,
+				},
+				[5277] = {
+					["enabled"] = true,
+				},
+				[319454] = {
+					["enabled"] = true,
+				},
+				[55342] = {
+					["enabled"] = true,
+				},
+				[3411] = {
+					["enabled"] = true,
+				},
+				[233759] = {
+					["enabled"] = true,
+				},
+				[408] = {
+					["enabled"] = true,
+				},
+				[323654] = {
+					["enabled"] = true,
+				},
+				[20589] = {
+					["enabled"] = true,
+				},
+				[316262] = {
+					["enabled"] = true,
+				},
+				[328305] = {
+					["enabled"] = true,
+				},
+				[206649] = {
+					["enabled"] = true,
+				},
+				[179057] = {
+					["enabled"] = true,
+				},
+				[329038] = {
+					["enabled"] = true,
+				},
+				[317009] = {
+					["enabled"] = true,
+				},
+				[323673] = {
+					["enabled"] = true,
+				},
+				[69070] = {
+					["enabled"] = true,
+				},
+				[323546] = {
+					["enabled"] = true,
+				},
+				[122278] = {
+					["enabled"] = true,
+				},
+				[116849] = {
+					["enabled"] = true,
+				},
+				[187707] = {
+					["enabled"] = true,
+				},
+				[122470] = {
+					["enabled"] = true,
+				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[23920] = {
+					["enabled"] = true,
+				},
+				[89766] = {
+					["enabled"] = true,
+				},
+				[108194] = {
+					["enabled"] = true,
+				},
+				[1719] = {
+					["enabled"] = true,
+				},
+				[194223] = {
+					["enabled"] = true,
+				},
+				[325640] = {
+					["enabled"] = true,
+				},
+				[210256] = {
+					["enabled"] = true,
+				},
+				[221562] = {
+					["enabled"] = true,
+				},
+				[227847] = {
+					["enabled"] = true,
+				},
+				[307865] = {
+					["enabled"] = true,
+				},
+				[329554] = {
+					["enabled"] = true,
+				},
+				[97462] = {
+					["enabled"] = true,
+				},
+				[320674] = {
+					["enabled"] = true,
+				},
+				[269352] = {
+					["enabled"] = true,
+				},
+				[115781] = {
+					["enabled"] = true,
+				},
+				[191634] = {
+					["enabled"] = true,
+				},
+				[58984] = {
+					["enabled"] = true,
+				},
+				[48265] = {
+					["enabled"] = true,
+				},
+				[57994] = {
+					["enabled"] = true,
+				},
+				[59543] = {
+					["enabled"] = true,
+				},
+				[202370] = {
+					["enabled"] = true,
+				},
+				[327661] = {
+					["enabled"] = true,
+				},
+				[119996] = {
+					["enabled"] = true,
+				},
+				[527] = {
+					["enabled"] = true,
+				},
+				[49039] = {
+					["enabled"] = true,
+				},
+				[102560] = {
+					["enabled"] = true,
+				},
+				[62618] = {
+					["enabled"] = true,
+				},
+				[50613] = {
+					["enabled"] = true,
+				},
+				[185313] = {
+					["enabled"] = true,
+				},
+				[266779] = {
+					["enabled"] = true,
+				},
+				[498] = {
+					["enabled"] = true,
+				},
+				[740] = {
+					["enabled"] = true,
+				},
+				[325216] = {
+					["enabled"] = true,
+				},
+				[102543] = {
+					["enabled"] = true,
+				},
+				[98008] = {
+					["enabled"] = true,
+				},
+				[202914] = {
+					["enabled"] = true,
+				},
+				[33702] = {
+					["enabled"] = true,
+				},
+				[22570] = {
+					["enabled"] = true,
+				},
+				[209749] = {
+					["enabled"] = true,
+				},
+				[183752] = {
+					["enabled"] = true,
+				},
+				[69041] = {
+					["enabled"] = true,
+				},
+				[328923] = {
+					["enabled"] = true,
+				},
+				[106951] = {
+					["enabled"] = true,
+				},
+				[6940] = {
+					["enabled"] = true,
+				},
+				[195676] = {
+					["enabled"] = true,
+				},
+				[871] = {
+					["enabled"] = true,
+				},
+				[205191] = {
+					["enabled"] = true,
+				},
+				[30283] = {
+					["enabled"] = true,
+				},
+				[212619] = {
+					["enabled"] = true,
+				},
+				[5246] = {
+					["enabled"] = true,
+				},
+				[283167] = {
+					["enabled"] = true,
+				},
+				[190319] = {
+					["enabled"] = true,
+				},
+				[187650] = {
+					["enabled"] = true,
+				},
+				[32375] = {
+					["enabled"] = true,
+				},
+				[305483] = {
+					["enabled"] = true,
+				},
+				[236320] = {
+					["enabled"] = true,
+				},
+				[108280] = {
+					["enabled"] = true,
+				},
+				[192058] = {
+					["enabled"] = true,
+				},
+				[114052] = {
+					["enabled"] = true,
+				},
+				[19647] = {
+					["enabled"] = true,
+				},
+				[212638] = {
+					["enabled"] = true,
+				},
+				[216331] = {
+					["enabled"] = true,
+				},
+				[781] = {
+					["enabled"] = true,
+				},
+				[2983] = {
+					["enabled"] = true,
+				},
+				[59752] = {
+					["enabled"] = true,
+				},
+				[69179] = {
+					["enabled"] = true,
+				},
+				[2094] = {
+					["enabled"] = true,
+				},
+				[47536] = {
+					["enabled"] = true,
+				},
+				[304971] = {
+					["enabled"] = true,
+				},
+				[109248] = {
+					["enabled"] = true,
+				},
+				[328547] = {
+					["enabled"] = true,
+				},
+				[324724] = {
+					["enabled"] = true,
+				},
+				[306830] = {
+					["enabled"] = true,
+				},
+				[308491] = {
+					["enabled"] = true,
+				},
+				[211004] = {
+					["enabled"] = true,
+				},
+				[22842] = {
+					["enabled"] = true,
+				},
+				[77130] = {
+					["enabled"] = true,
+				},
+				[5211] = {
+					["enabled"] = true,
+				},
+				[19577] = {
+					["enabled"] = true,
+				},
+				[113724] = {
+					["enabled"] = true,
+				},
+				[31821] = {
+					["enabled"] = true,
+				},
+				[42650] = {
+					["enabled"] = true,
+				},
+				[108199] = {
+					["enabled"] = true,
+				},
+				[328530] = {
+					["enabled"] = true,
+				},
+				[212182] = {
+					["enabled"] = true,
+				},
+				[190784] = {
+					["enabled"] = true,
+				},
+				[113858] = {
+					["enabled"] = true,
+				},
+				[323639] = {
+					["enabled"] = true,
+				},
+				[198013] = {
+					["enabled"] = true,
+				},
+				[198529] = {
+					["enabled"] = true,
+				},
+				[184662] = {
+					["enabled"] = true,
+				},
+				[31224] = {
+					["enabled"] = true,
+				},
+				[212459] = {
+					["enabled"] = true,
+				},
+				[205604] = {
+					["enabled"] = true,
+				},
 				[115750] = {
+					["enabled"] = true,
+				},
+				[25046] = {
+					["enabled"] = true,
+				},
+				[204263] = {
+					["enabled"] = true,
+				},
+				[1766] = {
+					["enabled"] = true,
+				},
+				[1022] = {
+					["enabled"] = true,
+				},
+				[47476] = {
+					["enabled"] = true,
+				},
+				[198898] = {
+					["enabled"] = true,
+				},
+				[115450] = {
+					["enabled"] = true,
+				},
+				[122] = {
+					["enabled"] = true,
+				},
+			},
+		},
+		["Kureq - Draenor"] = {
+			["MigrationVersion"] = 7,
+			["SpellCDs"] = {
+				[47585] = {
+					["enabled"] = true,
+				},
+				[207777] = {
+					["enabled"] = true,
+				},
+				[18499] = {
+					["enabled"] = true,
+				},
+				[132469] = {
+					["enabled"] = true,
+				},
+				[73325] = {
+					["enabled"] = true,
+				},
+				[221703] = {
+					["enabled"] = true,
+				},
+				[10060] = {
+					["enabled"] = true,
+				},
+				[633] = {
+					["enabled"] = true,
+				},
+				[1776] = {
+					["enabled"] = true,
+				},
+				[118038] = {
+					["enabled"] = true,
+				},
+				[191427] = {
+					["enabled"] = true,
+				},
+				[108968] = {
+					["enabled"] = true,
+				},
+				[8122] = {
+					["enabled"] = true,
+				},
+				[51514] = {
+					["enabled"] = true,
+				},
+				[204331] = {
+					["enabled"] = true,
+				},
+				[236077] = {
+					["enabled"] = true,
+				},
+				[198838] = {
+					["enabled"] = true,
+				},
+				[77606] = {
+					["enabled"] = true,
+				},
+				[51690] = {
+					["enabled"] = true,
+				},
+				[53271] = {
+					["enabled"] = true,
+				},
+				[88625] = {
+					["enabled"] = true,
+				},
+				[15286] = {
+					["enabled"] = true,
+				},
+				[119381] = {
+					["enabled"] = true,
+				},
+				[207399] = {
+					["enabled"] = true,
+				},
+				[79140] = {
+					["enabled"] = true,
+				},
+				[642] = {
+					["enabled"] = true,
+				},
+				[102359] = {
+					["enabled"] = true,
+				},
+				[51052] = {
+					["enabled"] = true,
+				},
+				[1543] = {
+					["enabled"] = true,
+				},
+				[61336] = {
+					["enabled"] = true,
+				},
+				[236273] = {
+					["enabled"] = true,
+				},
+				[195457] = {
+					["enabled"] = true,
+				},
+				[105809] = {
+					["enabled"] = true,
+				},
+				[204336] = {
+					["enabled"] = true,
+				},
+				[206572] = {
+					["enabled"] = true,
+				},
+				[80483] = {
+					["enabled"] = true,
+				},
+				[50334] = {
+					["enabled"] = true,
+				},
+				[31850] = {
+					["enabled"] = true,
+				},
+				[204018] = {
+					["enabled"] = true,
+				},
+				[199483] = {
+					["enabled"] = true,
+				},
+				[79206] = {
+					["enabled"] = true,
+				},
+				[198589] = {
+					["enabled"] = true,
+				},
+				[114018] = {
+					["enabled"] = true,
+				},
+				[114050] = {
+					["enabled"] = true,
+				},
+				[1044] = {
+					["enabled"] = true,
+				},
+				[147362] = {
+					["enabled"] = true,
+				},
+				[190925] = {
+					["enabled"] = true,
+				},
+				[210918] = {
+					["enabled"] = true,
+				},
+				[66] = {
+					["enabled"] = true,
+				},
+				[108238] = {
+					["enabled"] = true,
+				},
+				[343142] = {
+					["enabled"] = true,
+				},
+				[22812] = {
+					["enabled"] = true,
+				},
+				[198144] = {
+					["enabled"] = true,
+				},
+				[114051] = {
+					["enabled"] = true,
+				},
+				[213602] = {
+					["enabled"] = true,
+				},
+				[12975] = {
+					["enabled"] = true,
+				},
+				[12472] = {
+					["enabled"] = true,
+				},
+				[192077] = {
+					["enabled"] = true,
+				},
+				[36554] = {
+					["enabled"] = true,
+				},
+				[108271] = {
+					["enabled"] = true,
+				},
+				[186265] = {
+					["enabled"] = true,
+				},
+				[316958] = {
+					["enabled"] = true,
+				},
+				[188501] = {
+					["enabled"] = true,
+				},
+				[51485] = {
+					["enabled"] = true,
+				},
+				[96231] = {
+					["enabled"] = true,
+				},
+				[51533] = {
+					["enabled"] = true,
+				},
+				[265221] = {
+					["enabled"] = true,
+				},
+				[6789] = {
+					["enabled"] = true,
+				},
+				[48020] = {
+					["enabled"] = true,
+				},
+				[99] = {
+					["enabled"] = true,
+				},
+				[211881] = {
+					["enabled"] = true,
+				},
+				[275699] = {
+					["enabled"] = true,
+				},
+				[167105] = {
+					["enabled"] = true,
+				},
+				[48707] = {
+					["enabled"] = true,
+				},
+				[336126] = {
+					["enabled"] = true,
+				},
+				[107570] = {
+					["enabled"] = true,
+				},
+				[2139] = {
+					["enabled"] = true,
+				},
+				[325013] = {
+					["enabled"] = true,
+				},
+				[262161] = {
+					["enabled"] = true,
+				},
+				[185311] = {
+					["enabled"] = true,
+				},
+				[209584] = {
+					["enabled"] = true,
+				},
+				[116705] = {
+					["enabled"] = true,
+				},
+				[33697] = {
+					["enabled"] = true,
+				},
+				[205369] = {
+					["enabled"] = true,
+				},
+				[100] = {
+					["enabled"] = true,
+				},
+				[19236] = {
+					["enabled"] = true,
+				},
+				[1850] = {
+					["enabled"] = true,
+				},
+				[213610] = {
+					["enabled"] = true,
+				},
+				[13750] = {
+					["enabled"] = true,
+				},
+				[102558] = {
+					["enabled"] = true,
+				},
+				[212653] = {
+					["enabled"] = true,
+				},
+				[1856] = {
+					["enabled"] = true,
+				},
+				[68992] = {
+					["enabled"] = true,
+				},
+				[115078] = {
+					["enabled"] = true,
+				},
+				[108978] = {
+					["enabled"] = true,
+				},
+				[207736] = {
+					["enabled"] = true,
+				},
+				[46968] = {
+					["enabled"] = true,
+				},
+				[49028] = {
+					["enabled"] = true,
+				},
+				[324386] = {
+					["enabled"] = true,
+				},
+				[228049] = {
+					["enabled"] = true,
+				},
+				[205629] = {
+					["enabled"] = true,
+				},
+				[106839] = {
+					["enabled"] = true,
+				},
+				[110959] = {
+					["enabled"] = true,
+				},
+				[28730] = {
+					["enabled"] = true,
+				},
+				[205630] = {
+					["enabled"] = true,
+				},
+				[107574] = {
+					["enabled"] = true,
+				},
+				[20594] = {
+					["enabled"] = true,
+				},
+				[157980] = {
+					["enabled"] = true,
+				},
+				[32379] = {
+					["enabled"] = true,
+				},
+				[210294] = {
+					["enabled"] = true,
+				},
+				[31884] = {
+					["enabled"] = true,
+				},
+				[202246] = {
+					["enabled"] = true,
+				},
+				[217832] = {
+					["enabled"] = true,
+				},
+				[15487] = {
+					["enabled"] = true,
+				},
+				[47528] = {
+					["enabled"] = true,
+				},
+				[33891] = {
+					["enabled"] = true,
+				},
+				[207167] = {
+					["enabled"] = true,
+				},
+				[184364] = {
+					["enabled"] = true,
+				},
+				[5484] = {
+					["enabled"] = true,
+				},
+				[326059] = {
+					["enabled"] = true,
+				},
+				[196884] = {
+					["enabled"] = true,
+				},
+				[1122] = {
+					["enabled"] = true,
+				},
+				[210873] = {
+					["enabled"] = true,
+				},
+				[4987] = {
+					["enabled"] = true,
+				},
+				[31661] = {
+					["enabled"] = true,
+				},
+				[152173] = {
+					["enabled"] = true,
+				},
+				[12042] = {
+					["enabled"] = true,
+				},
+				[309328] = {
+					["enabled"] = true,
+				},
+				[6544] = {
+					["enabled"] = true,
+				},
+				[31230] = {
+					["enabled"] = true,
+				},
+				[209789] = {
+					["enabled"] = true,
+				},
+				[6552] = {
+					["enabled"] = true,
+				},
+				[49206] = {
+					["enabled"] = true,
+				},
+				[48743] = {
+					["enabled"] = true,
+				},
+				[86659] = {
+					["enabled"] = true,
+				},
+				[121471] = {
+					["enabled"] = true,
+				},
+				[277778] = {
+					["enabled"] = true,
+				},
+				[78675] = {
+					["enabled"] = true,
+				},
+				[80240] = {
+					["enabled"] = true,
+				},
+				[51490] = {
+					["enabled"] = true,
+				},
+				[322109] = {
+					["enabled"] = true,
+				},
+				[207684] = {
+					["enabled"] = true,
+				},
+				[45438] = {
+					["enabled"] = true,
+				},
+				[91802] = {
+					["enabled"] = true,
+				},
+				[33206] = {
+					["enabled"] = true,
+				},
+				[109304] = {
+					["enabled"] = true,
+				},
+				[8143] = {
+					["enabled"] = true,
+				},
+				[315341] = {
+					["enabled"] = true,
+				},
+				[102342] = {
+					["enabled"] = true,
+				},
+				[277784] = {
+					["enabled"] = true,
+				},
+				[231895] = {
+					["enabled"] = true,
+				},
+				[48792] = {
+					["enabled"] = true,
+				},
+				[213691] = {
+					["enabled"] = true,
+				},
+				[122783] = {
+					["enabled"] = true,
+				},
+				[46924] = {
+					["enabled"] = true,
+				},
+				[2825] = {
+					["enabled"] = true,
+				},
+				[211010] = {
+					["enabled"] = true,
+				},
+				[84714] = {
+					["enabled"] = true,
+				},
+				[20484] = {
+					["enabled"] = true,
+				},
+				[235219] = {
+					["enabled"] = true,
+				},
+				[197214] = {
+					["enabled"] = true,
+				},
+				[201430] = {
+					["enabled"] = true,
+				},
+				[137619] = {
+					["enabled"] = true,
+				},
+				[20572] = {
+					["enabled"] = true,
+				},
+				[116844] = {
+					["enabled"] = true,
+				},
+				[19574] = {
+					["enabled"] = true,
+				},
+				[26297] = {
+					["enabled"] = true,
+				},
+				[7744] = {
+					["enabled"] = true,
+				},
+				[187827] = {
+					["enabled"] = true,
+				},
+				[198111] = {
+					["enabled"] = true,
+				},
+				[49576] = {
+					["enabled"] = true,
+				},
+				[344867] = {
+					["enabled"] = true,
+				},
+				[104773] = {
+					["enabled"] = true,
+				},
+				[102793] = {
+					["enabled"] = true,
+				},
+				[211015] = {
+					["enabled"] = true,
+				},
+				[64044] = {
+					["enabled"] = true,
+				},
+				[123904] = {
+					["enabled"] = true,
+				},
+				[202137] = {
+					["enabled"] = true,
+				},
+				[47788] = {
+					["enabled"] = true,
+				},
+				[202370] = {
+					["enabled"] = true,
+				},
+				[122] = {
+					["enabled"] = true,
+				},
+				[202138] = {
+					["enabled"] = true,
+				},
+				[1953] = {
+					["enabled"] = true,
+				},
+				[317009] = {
+					["enabled"] = true,
+				},
+				[315443] = {
+					["enabled"] = true,
+				},
+				[198817] = {
+					["enabled"] = true,
+				},
+				[115176] = {
+					["enabled"] = true,
+				},
+				[32182] = {
+					["enabled"] = true,
+				},
+				[212295] = {
+					["enabled"] = true,
+				},
+				[64843] = {
+					["enabled"] = true,
+				},
+				[1022] = {
+					["enabled"] = true,
+				},
+				[307443] = {
+					["enabled"] = true,
+				},
+				[326860] = {
+					["enabled"] = true,
+				},
+				[327104] = {
+					["enabled"] = true,
+				},
+				[310454] = {
 					["enabled"] = true,
 				},
 				[853] = {
@@ -1611,16 +1610,16 @@ NameplateCooldownsAceDB = {
 				[55342] = {
 					["enabled"] = true,
 				},
-				[212459] = {
+				[115750] = {
 					["enabled"] = true,
 				},
 				[233759] = {
 					["enabled"] = true,
 				},
-				[31224] = {
+				[206649] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[408] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -1629,19 +1628,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[179057] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[113858] = {
+				[3411] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -1650,40 +1649,40 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[122278] = {
-					["enabled"] = true,
-				},
 				[323546] = {
 					["enabled"] = true,
 				},
-				[89766] = {
+				[122278] = {
+					["enabled"] = true,
+				},
+				[113860] = {
 					["enabled"] = true,
 				},
 				[187707] = {
 					["enabled"] = true,
 				},
-				[108194] = {
+				[116849] = {
 					["enabled"] = true,
 				},
 				[323547] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[23920] = {
 					["enabled"] = true,
 				},
-				[116849] = {
+				[89766] = {
 					["enabled"] = true,
 				},
-				[328530] = {
+				[108194] = {
 					["enabled"] = true,
 				},
 				[1719] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[328530] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[227847] = {
 					["enabled"] = true,
 				},
 				[210256] = {
@@ -1692,19 +1691,16 @@ NameplateCooldownsAceDB = {
 				[221562] = {
 					["enabled"] = true,
 				},
-				[227847] = {
+				[31821] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[97462] = {
 					["enabled"] = true,
 				},
 				[329554] = {
 					["enabled"] = true,
 				},
-				[5211] = {
-					["enabled"] = true,
-				},
-				[77130] = {
+				[320674] = {
 					["enabled"] = true,
 				},
 				[269352] = {
@@ -1716,10 +1712,13 @@ NameplateCooldownsAceDB = {
 				[191634] = {
 					["enabled"] = true,
 				},
+				[327661] = {
+					["enabled"] = true,
+				},
 				[58984] = {
 					["enabled"] = true,
 				},
-				[48265] = {
+				[115781] = {
 					["enabled"] = true,
 				},
 				[57994] = {
@@ -1728,49 +1727,49 @@ NameplateCooldownsAceDB = {
 				[59543] = {
 					["enabled"] = true,
 				},
-				[324724] = {
-					["enabled"] = true,
-				},
-				[327661] = {
-					["enabled"] = true,
-				},
-				[109248] = {
-					["enabled"] = true,
-				},
-				[304971] = {
+				[194223] = {
 					["enabled"] = true,
 				},
 				[49039] = {
 					["enabled"] = true,
 				},
-				[2094] = {
+				[527] = {
 					["enabled"] = true,
 				},
-				[69179] = {
+				[119996] = {
 					["enabled"] = true,
 				},
 				[50613] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[62618] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[102560] = {
+					["enabled"] = true,
+				},
+				[266779] = {
+					["enabled"] = true,
+				},
+				[69179] = {
+					["enabled"] = true,
+				},
+				[185313] = {
 					["enabled"] = true,
 				},
 				[498] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[740] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[325216] = {
 					["enabled"] = true,
 				},
 				[102543] = {
 					["enabled"] = true,
 				},
-				[212638] = {
+				[33702] = {
 					["enabled"] = true,
 				},
 				[202914] = {
@@ -1779,7 +1778,7 @@ NameplateCooldownsAceDB = {
 				[19647] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[22570] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -1800,22 +1799,22 @@ NameplateCooldownsAceDB = {
 				[106951] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[205191] = {
 					["enabled"] = true,
 				},
 				[871] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[212619] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[5246] = {
 					["enabled"] = true,
 				},
-				[5246] = {
+				[305483] = {
 					["enabled"] = true,
 				},
 				[283167] = {
@@ -1830,10 +1829,10 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[212619] = {
+				[236320] = {
 					["enabled"] = true,
 				},
-				[205191] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[195676] = {
@@ -1842,10 +1841,10 @@ NameplateCooldownsAceDB = {
 				[192058] = {
 					["enabled"] = true,
 				},
-				[22570] = {
+				[212638] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[781] = {
 					["enabled"] = true,
 				},
 				[98008] = {
@@ -1854,7 +1853,7 @@ NameplateCooldownsAceDB = {
 				[216331] = {
 					["enabled"] = true,
 				},
-				[266779] = {
+				[114052] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -1863,25 +1862,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[2094] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[304971] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[109248] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[324724] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[202370] = {
+				[48265] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -1890,16 +1889,16 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[115781] = {
+				[77130] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[5211] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[19577] = {
 					["enabled"] = true,
 				},
 				[307865] = {
@@ -1914,7 +1913,7 @@ NameplateCooldownsAceDB = {
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
 				[122470] = {
@@ -1926,25 +1925,25 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[323639] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[198013] = {
 					["enabled"] = true,
 				},
-				[206649] = {
+				[198529] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[184662] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[31224] = {
 					["enabled"] = true,
 				},
-				[408] = {
+				[212459] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[323764] = {
 					["enabled"] = true,
 				},
 				[205604] = {
@@ -1962,10 +1961,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[47476] = {
 					["enabled"] = true,
 				},
-				[115176] = {
+				[113858] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -1978,7 +1977,8 @@ NameplateCooldownsAceDB = {
 					["enabled"] = true,
 				},
 			},
-			["MigrationVersion"] = 7,
+			["IconYOffset"] = 50,
+			["DBVersion"] = 11,
 		},
 		["Reuseddurex - Draenor"] = {
 			["DBVersion"] = 11,
@@ -2521,7 +2521,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[48265] = {
+				[5384] = {
 					["enabled"] = true,
 				},
 				[113860] = {
@@ -2536,13 +2536,13 @@ NameplateCooldownsAceDB = {
 				[315443] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[47476] = {
 					["enabled"] = true,
 				},
 				[198817] = {
 					["enabled"] = true,
 				},
-				[205191] = {
+				[326860] = {
 					["enabled"] = true,
 				},
 				[32182] = {
@@ -2566,13 +2566,13 @@ NameplateCooldownsAceDB = {
 				[323764] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[853] = {
 					["enabled"] = true,
 				},
 				[31224] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[55342] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -2584,25 +2584,25 @@ NameplateCooldownsAceDB = {
 				[108416] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[319454] = {
 					["enabled"] = true,
 				},
-				[55342] = {
+				[3411] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[233759] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[408] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[323654] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -2611,19 +2611,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[5211] = {
+				[206649] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[179057] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[122278] = {
+				[317009] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -2632,40 +2632,40 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[122470] = {
-					["enabled"] = true,
-				},
-				[323546] = {
-					["enabled"] = true,
-				},
 				[116849] = {
 					["enabled"] = true,
 				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[1719] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[108199] = {
+				[122278] = {
 					["enabled"] = true,
 				},
 				[89766] = {
 					["enabled"] = true,
 				},
+				[187707] = {
+					["enabled"] = true,
+				},
+				[328530] = {
+					["enabled"] = true,
+				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[23920] = {
+					["enabled"] = true,
+				},
+				[122470] = {
+					["enabled"] = true,
+				},
 				[108194] = {
 					["enabled"] = true,
 				},
-				[109248] = {
+				[1719] = {
 					["enabled"] = true,
 				},
 				[194223] = {
 					["enabled"] = true,
 				},
-				[212459] = {
+				[325640] = {
 					["enabled"] = true,
 				},
 				[210256] = {
@@ -2677,22 +2677,22 @@ NameplateCooldownsAceDB = {
 				[227847] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[307865] = {
 					["enabled"] = true,
 				},
 				[329554] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[97462] = {
 					["enabled"] = true,
 				},
-				[77130] = {
+				[320674] = {
 					["enabled"] = true,
 				},
 				[269352] = {
 					["enabled"] = true,
 				},
-				[211004] = {
+				[46968] = {
 					["enabled"] = true,
 				},
 				[191634] = {
@@ -2710,25 +2710,25 @@ NameplateCooldownsAceDB = {
 				[59543] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[119996] = {
 					["enabled"] = true,
 				},
 				[324724] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[202370] = {
 					["enabled"] = true,
 				},
-				[102359] = {
+				[49039] = {
 					["enabled"] = true,
 				},
 				[304971] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[2094] = {
 					["enabled"] = true,
 				},
-				[19647] = {
+				[62618] = {
 					["enabled"] = true,
 				},
 				[781] = {
@@ -2737,1006 +2737,25 @@ NameplateCooldownsAceDB = {
 				[69179] = {
 					["enabled"] = true,
 				},
-				[266779] = {
-					["enabled"] = true,
-				},
-				[498] = {
-					["enabled"] = true,
-				},
-				[740] = {
-					["enabled"] = true,
-				},
-				[325216] = {
-					["enabled"] = true,
-				},
-				[102543] = {
-					["enabled"] = true,
-				},
-				[108280] = {
-					["enabled"] = true,
-				},
-				[98008] = {
-					["enabled"] = true,
-				},
-				[305483] = {
-					["enabled"] = true,
-				},
-				[344867] = {
-					["enabled"] = true,
-				},
-				[209749] = {
-					["enabled"] = true,
-				},
-				[183752] = {
-					["enabled"] = true,
-				},
-				[69041] = {
-					["enabled"] = true,
-				},
-				[328923] = {
-					["enabled"] = true,
-				},
-				[106951] = {
-					["enabled"] = true,
-				},
-				[6940] = {
-					["enabled"] = true,
-				},
-				[217832] = {
-					["enabled"] = true,
-				},
-				[871] = {
-					["enabled"] = true,
-				},
-				[202914] = {
-					["enabled"] = true,
-				},
-				[30283] = {
-					["enabled"] = true,
-				},
-				[19577] = {
-					["enabled"] = true,
-				},
-				[5246] = {
-					["enabled"] = true,
-				},
-				[283167] = {
-					["enabled"] = true,
-				},
-				[190319] = {
-					["enabled"] = true,
-				},
-				[187650] = {
-					["enabled"] = true,
-				},
-				[32375] = {
-					["enabled"] = true,
-				},
-				[212619] = {
-					["enabled"] = true,
-				},
-				[50613] = {
-					["enabled"] = true,
-				},
-				[195676] = {
-					["enabled"] = true,
-				},
-				[192058] = {
-					["enabled"] = true,
-				},
-				[22570] = {
-					["enabled"] = true,
-				},
-				[33702] = {
-					["enabled"] = true,
-				},
-				[113858] = {
-					["enabled"] = true,
-				},
-				[216331] = {
-					["enabled"] = true,
-				},
 				[236320] = {
 					["enabled"] = true,
 				},
-				[2983] = {
-					["enabled"] = true,
-				},
-				[59752] = {
-					["enabled"] = true,
-				},
-				[62618] = {
-					["enabled"] = true,
-				},
-				[2094] = {
-					["enabled"] = true,
-				},
-				[47536] = {
-					["enabled"] = true,
-				},
-				[49039] = {
-					["enabled"] = true,
-				},
-				[202370] = {
-					["enabled"] = true,
-				},
-				[328547] = {
-					["enabled"] = true,
-				},
-				[119996] = {
-					["enabled"] = true,
-				},
-				[306830] = {
-					["enabled"] = true,
-				},
-				[308491] = {
-					["enabled"] = true,
-				},
-				[46968] = {
-					["enabled"] = true,
-				},
-				[22842] = {
-					["enabled"] = true,
-				},
-				[320674] = {
-					["enabled"] = true,
-				},
-				[97462] = {
-					["enabled"] = true,
-				},
-				[307865] = {
-					["enabled"] = true,
-				},
-				[113724] = {
-					["enabled"] = true,
-				},
-				[325640] = {
-					["enabled"] = true,
-				},
-				[42650] = {
-					["enabled"] = true,
-				},
-				[23920] = {
-					["enabled"] = true,
-				},
-				[328530] = {
-					["enabled"] = true,
-				},
-				[212182] = {
-					["enabled"] = true,
-				},
-				[190784] = {
-					["enabled"] = true,
-				},
-				[317009] = {
-					["enabled"] = true,
-				},
-				[179057] = {
-					["enabled"] = true,
-				},
-				[206649] = {
-					["enabled"] = true,
-				},
-				[328305] = {
-					["enabled"] = true,
-				},
-				[323654] = {
-					["enabled"] = true,
-				},
-				[408] = {
-					["enabled"] = true,
-				},
-				[198529] = {
-					["enabled"] = true,
-				},
-				[205604] = {
-					["enabled"] = true,
-				},
-				[853] = {
-					["enabled"] = true,
-				},
-				[25046] = {
-					["enabled"] = true,
-				},
-				[204263] = {
-					["enabled"] = true,
-				},
-				[1766] = {
-					["enabled"] = true,
-				},
-				[326860] = {
-					["enabled"] = true,
-				},
-				[47476] = {
-					["enabled"] = true,
-				},
-				[198898] = {
-					["enabled"] = true,
-				},
-				[115450] = {
-					["enabled"] = true,
-				},
-				[5384] = {
-					["enabled"] = true,
-				},
-			},
-		},
-		["Muhreq - Draenor"] = {
-			["DBVersion"] = 11,
-			["MigrationVersion"] = 7,
-			["SpellCDs"] = {
-				[47585] = {
-					["enabled"] = true,
-				},
-				[207777] = {
-					["enabled"] = true,
-				},
-				[18499] = {
-					["enabled"] = true,
-				},
-				[132469] = {
-					["enabled"] = true,
-				},
-				[73325] = {
-					["enabled"] = true,
-				},
-				[221703] = {
-					["enabled"] = true,
-				},
-				[10060] = {
-					["enabled"] = true,
-				},
-				[633] = {
-					["enabled"] = true,
-				},
-				[1776] = {
-					["enabled"] = true,
-				},
-				[118038] = {
-					["enabled"] = true,
-				},
-				[191427] = {
-					["enabled"] = true,
-				},
-				[108968] = {
-					["enabled"] = true,
-				},
-				[8122] = {
-					["enabled"] = true,
-				},
-				[51514] = {
-					["enabled"] = true,
-				},
-				[204331] = {
-					["enabled"] = true,
-				},
-				[236077] = {
-					["enabled"] = true,
-				},
-				[198838] = {
-					["enabled"] = true,
-				},
-				[77606] = {
-					["enabled"] = true,
-				},
-				[51690] = {
-					["enabled"] = true,
-				},
-				[1022] = {
-					["enabled"] = true,
-				},
-				[88625] = {
-					["enabled"] = true,
-				},
-				[15286] = {
-					["enabled"] = true,
-				},
-				[119381] = {
-					["enabled"] = true,
-				},
-				[207399] = {
-					["enabled"] = true,
-				},
-				[79140] = {
-					["enabled"] = true,
-				},
-				[642] = {
-					["enabled"] = true,
-				},
-				[212638] = {
-					["enabled"] = true,
-				},
-				[51052] = {
-					["enabled"] = true,
-				},
-				[1543] = {
-					["enabled"] = true,
-				},
-				[61336] = {
-					["enabled"] = true,
-				},
-				[236273] = {
-					["enabled"] = true,
-				},
-				[195457] = {
-					["enabled"] = true,
-				},
-				[105809] = {
-					["enabled"] = true,
-				},
-				[204336] = {
-					["enabled"] = true,
-				},
-				[206572] = {
-					["enabled"] = true,
-				},
-				[80483] = {
-					["enabled"] = true,
-				},
-				[50334] = {
-					["enabled"] = true,
-				},
-				[31850] = {
-					["enabled"] = true,
-				},
-				[204018] = {
-					["enabled"] = true,
-				},
-				[199483] = {
-					["enabled"] = true,
-				},
-				[79206] = {
-					["enabled"] = true,
-				},
-				[198589] = {
-					["enabled"] = true,
-				},
-				[114018] = {
-					["enabled"] = true,
-				},
-				[114050] = {
-					["enabled"] = true,
-				},
-				[1044] = {
-					["enabled"] = true,
-				},
-				[147362] = {
-					["enabled"] = true,
-				},
-				[190925] = {
-					["enabled"] = true,
-				},
-				[210918] = {
-					["enabled"] = true,
-				},
-				[66] = {
-					["enabled"] = true,
-				},
-				[108238] = {
-					["enabled"] = true,
-				},
-				[343142] = {
-					["enabled"] = true,
-				},
-				[22812] = {
-					["enabled"] = true,
-				},
-				[198144] = {
-					["enabled"] = true,
-				},
-				[114051] = {
-					["enabled"] = true,
-				},
-				[213602] = {
-					["enabled"] = true,
-				},
-				[12975] = {
-					["enabled"] = true,
-				},
-				[12472] = {
-					["enabled"] = true,
-				},
-				[192077] = {
-					["enabled"] = true,
-				},
-				[36554] = {
-					["enabled"] = true,
-				},
-				[108271] = {
-					["enabled"] = true,
-				},
-				[186265] = {
-					["enabled"] = true,
-				},
-				[316958] = {
-					["enabled"] = true,
-				},
-				[188501] = {
-					["enabled"] = true,
-				},
-				[5246] = {
-					["enabled"] = true,
-				},
-				[96231] = {
-					["enabled"] = true,
-				},
-				[51533] = {
-					["enabled"] = true,
-				},
-				[265221] = {
-					["enabled"] = true,
-				},
-				[6789] = {
-					["enabled"] = true,
-				},
-				[48020] = {
-					["enabled"] = true,
-				},
-				[99] = {
-					["enabled"] = true,
-				},
-				[211881] = {
-					["enabled"] = true,
-				},
-				[275699] = {
-					["enabled"] = true,
-				},
-				[167105] = {
-					["enabled"] = true,
-				},
-				[48707] = {
-					["enabled"] = true,
-				},
-				[336126] = {
-					["enabled"] = true,
-				},
-				[107570] = {
-					["enabled"] = true,
-				},
-				[2139] = {
-					["enabled"] = true,
-				},
-				[325013] = {
-					["enabled"] = true,
-				},
-				[262161] = {
-					["enabled"] = true,
-				},
-				[185311] = {
-					["enabled"] = true,
-				},
-				[209584] = {
-					["enabled"] = true,
-				},
-				[116705] = {
-					["enabled"] = true,
-				},
-				[212459] = {
-					["enabled"] = true,
-				},
-				[205369] = {
-					["enabled"] = true,
-				},
-				[100] = {
-					["enabled"] = true,
-				},
-				[19236] = {
-					["enabled"] = true,
-				},
-				[1850] = {
-					["enabled"] = true,
-				},
-				[213610] = {
-					["enabled"] = true,
-				},
-				[13750] = {
-					["enabled"] = true,
-				},
-				[102558] = {
-					["enabled"] = true,
-				},
-				[212653] = {
-					["enabled"] = true,
-				},
-				[1856] = {
-					["enabled"] = true,
-				},
-				[68992] = {
-					["enabled"] = true,
-				},
-				[115078] = {
-					["enabled"] = true,
-				},
-				[108978] = {
-					["enabled"] = true,
-				},
-				[207736] = {
-					["enabled"] = true,
-				},
-				[115781] = {
-					["enabled"] = true,
-				},
-				[49028] = {
-					["enabled"] = true,
-				},
-				[324386] = {
-					["enabled"] = true,
-				},
-				[228049] = {
-					["enabled"] = true,
-				},
-				[205629] = {
-					["enabled"] = true,
-				},
-				[106839] = {
-					["enabled"] = true,
-				},
-				[110959] = {
-					["enabled"] = true,
-				},
-				[28730] = {
-					["enabled"] = true,
-				},
-				[205630] = {
-					["enabled"] = true,
-				},
-				[107574] = {
-					["enabled"] = true,
-				},
-				[20594] = {
-					["enabled"] = true,
-				},
-				[157980] = {
-					["enabled"] = true,
-				},
-				[32379] = {
-					["enabled"] = true,
-				},
-				[210294] = {
-					["enabled"] = true,
-				},
-				[31884] = {
-					["enabled"] = true,
-				},
-				[202246] = {
-					["enabled"] = true,
-				},
-				[217832] = {
-					["enabled"] = true,
-				},
-				[15487] = {
-					["enabled"] = true,
-				},
-				[47528] = {
-					["enabled"] = true,
-				},
-				[33891] = {
-					["enabled"] = true,
-				},
-				[207167] = {
-					["enabled"] = true,
-				},
-				[184364] = {
-					["enabled"] = true,
-				},
-				[5484] = {
-					["enabled"] = true,
-				},
-				[326059] = {
-					["enabled"] = true,
-				},
-				[196884] = {
-					["enabled"] = true,
-				},
-				[1122] = {
-					["enabled"] = true,
-				},
-				[210873] = {
-					["enabled"] = true,
-				},
-				[4987] = {
-					["enabled"] = true,
-				},
-				[31661] = {
-					["enabled"] = true,
-				},
-				[152173] = {
-					["enabled"] = true,
-				},
-				[12042] = {
-					["enabled"] = true,
-				},
-				[309328] = {
-					["enabled"] = true,
-				},
-				[6544] = {
-					["enabled"] = true,
-				},
-				[31230] = {
-					["enabled"] = true,
-				},
-				[209789] = {
-					["enabled"] = true,
-				},
-				[6552] = {
-					["enabled"] = true,
-				},
-				[49206] = {
-					["enabled"] = true,
-				},
-				[48743] = {
-					["enabled"] = true,
-				},
-				[86659] = {
-					["enabled"] = true,
-				},
-				[121471] = {
-					["enabled"] = true,
-				},
-				[277778] = {
-					["enabled"] = true,
-				},
-				[78675] = {
-					["enabled"] = true,
-				},
-				[80240] = {
-					["enabled"] = true,
-				},
-				[51490] = {
-					["enabled"] = true,
-				},
-				[322109] = {
-					["enabled"] = true,
-				},
-				[207684] = {
-					["enabled"] = true,
-				},
-				[45438] = {
-					["enabled"] = true,
-				},
-				[91802] = {
-					["enabled"] = true,
-				},
-				[33206] = {
-					["enabled"] = true,
-				},
-				[109304] = {
-					["enabled"] = true,
-				},
-				[8143] = {
-					["enabled"] = true,
-				},
-				[315341] = {
-					["enabled"] = true,
-				},
-				[102342] = {
-					["enabled"] = true,
-				},
-				[277784] = {
-					["enabled"] = true,
-				},
-				[231895] = {
-					["enabled"] = true,
-				},
-				[48792] = {
-					["enabled"] = true,
-				},
-				[213691] = {
-					["enabled"] = true,
-				},
-				[122783] = {
-					["enabled"] = true,
-				},
-				[46924] = {
-					["enabled"] = true,
-				},
-				[2825] = {
-					["enabled"] = true,
-				},
-				[211010] = {
-					["enabled"] = true,
-				},
-				[84714] = {
-					["enabled"] = true,
-				},
-				[20484] = {
-					["enabled"] = true,
-				},
-				[235219] = {
-					["enabled"] = true,
-				},
-				[197214] = {
-					["enabled"] = true,
-				},
-				[201430] = {
-					["enabled"] = true,
-				},
-				[137619] = {
-					["enabled"] = true,
-				},
-				[20572] = {
-					["enabled"] = true,
-				},
-				[116844] = {
-					["enabled"] = true,
-				},
-				[19574] = {
-					["enabled"] = true,
-				},
-				[26297] = {
-					["enabled"] = true,
-				},
-				[7744] = {
-					["enabled"] = true,
-				},
-				[187827] = {
-					["enabled"] = true,
-				},
-				[198111] = {
-					["enabled"] = true,
-				},
-				[49576] = {
-					["enabled"] = true,
-				},
-				[344867] = {
-					["enabled"] = true,
-				},
-				[104773] = {
-					["enabled"] = true,
-				},
-				[102793] = {
-					["enabled"] = true,
-				},
-				[211015] = {
-					["enabled"] = true,
-				},
-				[64044] = {
-					["enabled"] = true,
-				},
-				[123904] = {
-					["enabled"] = true,
-				},
-				[202137] = {
-					["enabled"] = true,
-				},
-				[47788] = {
-					["enabled"] = true,
-				},
-				[5384] = {
-					["enabled"] = true,
-				},
-				[202370] = {
-					["enabled"] = true,
-				},
-				[202138] = {
-					["enabled"] = true,
-				},
-				[1953] = {
-					["enabled"] = true,
-				},
-				[317009] = {
-					["enabled"] = true,
-				},
-				[113858] = {
-					["enabled"] = true,
-				},
-				[198817] = {
-					["enabled"] = true,
-				},
-				[315443] = {
-					["enabled"] = true,
-				},
-				[32182] = {
-					["enabled"] = true,
-				},
-				[212295] = {
-					["enabled"] = true,
-				},
-				[64843] = {
-					["enabled"] = true,
-				},
-				[115176] = {
-					["enabled"] = true,
-				},
-				[307443] = {
-					["enabled"] = true,
-				},
-				[326860] = {
-					["enabled"] = true,
-				},
-				[327104] = {
-					["enabled"] = true,
-				},
-				[205191] = {
-					["enabled"] = true,
-				},
-				[853] = {
-					["enabled"] = true,
-				},
-				[212552] = {
-					["enabled"] = true,
-				},
-				[88423] = {
-					["enabled"] = true,
-				},
-				[206803] = {
-					["enabled"] = true,
-				},
-				[108416] = {
-					["enabled"] = true,
-				},
-				[5277] = {
-					["enabled"] = true,
-				},
-				[319454] = {
-					["enabled"] = true,
-				},
-				[55342] = {
-					["enabled"] = true,
-				},
-				[323764] = {
-					["enabled"] = true,
-				},
-				[233759] = {
-					["enabled"] = true,
-				},
-				[114052] = {
-					["enabled"] = true,
-				},
-				[206649] = {
-					["enabled"] = true,
-				},
-				[20589] = {
-					["enabled"] = true,
-				},
-				[316262] = {
-					["enabled"] = true,
-				},
-				[408] = {
-					["enabled"] = true,
-				},
-				[323654] = {
-					["enabled"] = true,
-				},
-				[328305] = {
-					["enabled"] = true,
-				},
-				[329038] = {
-					["enabled"] = true,
-				},
-				[179057] = {
-					["enabled"] = true,
-				},
-				[323673] = {
-					["enabled"] = true,
-				},
-				[69070] = {
-					["enabled"] = true,
-				},
-				[323546] = {
-					["enabled"] = true,
-				},
-				[19647] = {
-					["enabled"] = true,
-				},
-				[325640] = {
-					["enabled"] = true,
-				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[89766] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[108199] = {
-					["enabled"] = true,
-				},
-				[122470] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[1719] = {
-					["enabled"] = true,
-				},
-				[328530] = {
-					["enabled"] = true,
-				},
-				[19577] = {
-					["enabled"] = true,
-				},
-				[210256] = {
-					["enabled"] = true,
-				},
-				[221562] = {
-					["enabled"] = true,
-				},
-				[227847] = {
-					["enabled"] = true,
-				},
-				[307865] = {
-					["enabled"] = true,
-				},
-				[329554] = {
-					["enabled"] = true,
-				},
-				[97462] = {
-					["enabled"] = true,
-				},
-				[320674] = {
-					["enabled"] = true,
-				},
-				[269352] = {
-					["enabled"] = true,
-				},
-				[77130] = {
-					["enabled"] = true,
-				},
-				[191634] = {
-					["enabled"] = true,
-				},
-				[58984] = {
-					["enabled"] = true,
-				},
-				[211004] = {
-					["enabled"] = true,
-				},
-				[57994] = {
-					["enabled"] = true,
-				},
-				[59543] = {
-					["enabled"] = true,
-				},
-				[102560] = {
-					["enabled"] = true,
-				},
-				[327661] = {
-					["enabled"] = true,
-				},
-				[324724] = {
-					["enabled"] = true,
-				},
-				[527] = {
-					["enabled"] = true,
-				},
-				[304971] = {
-					["enabled"] = true,
-				},
-				[102359] = {
-					["enabled"] = true,
-				},
-				[62618] = {
-					["enabled"] = true,
-				},
-				[50613] = {
-					["enabled"] = true,
-				},
-				[46968] = {
-					["enabled"] = true,
-				},
-				[266779] = {
-					["enabled"] = true,
-				},
 				[498] = {
-					["enabled"] = true,
-				},
-				[740] = {
 					["enabled"] = true,
 				},
 				[325216] = {
 					["enabled"] = true,
 				},
+				[740] = {
+					["enabled"] = true,
+				},
 				[102543] = {
 					["enabled"] = true,
 				},
-				[98008] = {
+				[113858] = {
 					["enabled"] = true,
 				},
-				[202914] = {
+				[98008] = {
 					["enabled"] = true,
 				},
 				[33702] = {
@@ -3769,7 +2788,7 @@ NameplateCooldownsAceDB = {
 				[871] = {
 					["enabled"] = true,
 				},
-				[122278] = {
+				[50613] = {
 					["enabled"] = true,
 				},
 				[30283] = {
@@ -3778,13 +2797,13 @@ NameplateCooldownsAceDB = {
 				[212619] = {
 					["enabled"] = true,
 				},
+				[5246] = {
+					["enabled"] = true,
+				},
 				[283167] = {
 					["enabled"] = true,
 				},
 				[190319] = {
-					["enabled"] = true,
-				},
-				[49039] = {
 					["enabled"] = true,
 				},
 				[187650] = {
@@ -3793,31 +2812,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[19577] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[202914] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[217832] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[344867] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[305483] = {
 					["enabled"] = true,
 				},
-				[53271] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[266779] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -3826,25 +2845,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[69179] = {
+				[19647] = {
 					["enabled"] = true,
 				},
-				[2094] = {
+				[185313] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[109248] = {
+				[102359] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[102560] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[48265] = {
+				[527] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -3853,34 +2872,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[211004] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
+				[77130] = {
+					["enabled"] = true,
+				},
+				[114052] = {
+					["enabled"] = true,
+				},
 				[115750] = {
-					["enabled"] = true,
-				},
-				[116849] = {
-					["enabled"] = true,
-				},
-				[198529] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[33697] = {
+				[212459] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[109248] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -3889,31 +2908,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[323546] = {
 					["enabled"] = true,
 				},
 				[323639] = {
 					["enabled"] = true,
 				},
+				[5211] = {
+					["enabled"] = true,
+				},
 				[198013] = {
 					["enabled"] = true,
 				},
-				[113860] = {
-					["enabled"] = true,
-				},
-				[184662] = {
-					["enabled"] = true,
-				},
-				[31224] = {
+				[31821] = {
 					["enabled"] = true,
 				},
 				[196555] = {
 					["enabled"] = true,
 				},
+				[184662] = {
+					["enabled"] = true,
+				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[310454] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -3925,10 +2944,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[5211] = {
+				[205191] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[1022] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -3937,7 +2956,7 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[51485] = {
+				[48265] = {
 					["enabled"] = true,
 				},
 			},
@@ -4483,7 +3502,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[5384] = {
+				[51485] = {
 					["enabled"] = true,
 				},
 				[317009] = {
@@ -4498,13 +3517,13 @@ NameplateCooldownsAceDB = {
 				[113858] = {
 					["enabled"] = true,
 				},
-				[315443] = {
+				[33697] = {
 					["enabled"] = true,
 				},
 				[198817] = {
 					["enabled"] = true,
 				},
-				[102793] = {
+				[283167] = {
 					["enabled"] = true,
 				},
 				[32182] = {
@@ -4528,13 +3547,13 @@ NameplateCooldownsAceDB = {
 				[310454] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[323764] = {
 					["enabled"] = true,
 				},
 				[31224] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -4546,7 +3565,7 @@ NameplateCooldownsAceDB = {
 				[108416] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[319454] = {
@@ -4555,16 +3574,16 @@ NameplateCooldownsAceDB = {
 				[55342] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[205191] = {
 					["enabled"] = true,
 				},
 				[233759] = {
 					["enabled"] = true,
 				},
-				[408] = {
+				[853] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[31821] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -4573,19 +3592,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[19577] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[323639] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[122278] = {
+				[113860] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -4594,31 +3613,31 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[89766] = {
-					["enabled"] = true,
-				},
-				[323546] = {
-					["enabled"] = true,
-				},
 				[122470] = {
 					["enabled"] = true,
 				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[108199] = {
+				[122278] = {
 					["enabled"] = true,
 				},
 				[116849] = {
 					["enabled"] = true,
 				},
-				[328530] = {
+				[187707] = {
+					["enabled"] = true,
+				},
+				[194223] = {
+					["enabled"] = true,
+				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[23920] = {
+					["enabled"] = true,
+				},
+				[89766] = {
+					["enabled"] = true,
+				},
+				[108194] = {
 					["enabled"] = true,
 				},
 				[109248] = {
@@ -4627,7 +3646,7 @@ NameplateCooldownsAceDB = {
 				[1719] = {
 					["enabled"] = true,
 				},
-				[325640] = {
+				[122] = {
 					["enabled"] = true,
 				},
 				[210256] = {
@@ -4639,22 +3658,22 @@ NameplateCooldownsAceDB = {
 				[227847] = {
 					["enabled"] = true,
 				},
-				[307865] = {
+				[115750] = {
 					["enabled"] = true,
 				},
 				[329554] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[114052] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[47476] = {
 					["enabled"] = true,
 				},
 				[269352] = {
 					["enabled"] = true,
 				},
-				[77130] = {
+				[206649] = {
 					["enabled"] = true,
 				},
 				[191634] = {
@@ -4672,25 +3691,25 @@ NameplateCooldownsAceDB = {
 				[59543] = {
 					["enabled"] = true,
 				},
-				[2094] = {
+				[304971] = {
 					["enabled"] = true,
 				},
 				[327661] = {
 					["enabled"] = true,
 				},
-				[324724] = {
+				[1022] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[69179] = {
 					["enabled"] = true,
 				},
 				[202370] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[781] = {
 					["enabled"] = true,
 				},
-				[19647] = {
+				[33702] = {
 					["enabled"] = true,
 				},
 				[185313] = {
@@ -4699,31 +3718,31 @@ NameplateCooldownsAceDB = {
 				[266779] = {
 					["enabled"] = true,
 				},
-				[195676] = {
+				[212638] = {
 					["enabled"] = true,
 				},
 				[498] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[740] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[325216] = {
 					["enabled"] = true,
 				},
 				[102543] = {
 					["enabled"] = true,
 				},
+				[3411] = {
+					["enabled"] = true,
+				},
 				[98008] = {
 					["enabled"] = true,
 				},
-				[202914] = {
+				[196555] = {
 					["enabled"] = true,
 				},
-				[119996] = {
-					["enabled"] = true,
-				},
-				[328923] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -4735,28 +3754,28 @@ NameplateCooldownsAceDB = {
 				[69041] = {
 					["enabled"] = true,
 				},
-				[22570] = {
-					["enabled"] = true,
-				},
-				[106951] = {
+				[328923] = {
 					["enabled"] = true,
 				},
 				[6940] = {
 					["enabled"] = true,
 				},
-				[50613] = {
+				[106951] = {
+					["enabled"] = true,
+				},
+				[236320] = {
 					["enabled"] = true,
 				},
 				[871] = {
 					["enabled"] = true,
 				},
-				[231895] = {
+				[305483] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[212619] = {
+				[217832] = {
 					["enabled"] = true,
 				},
 				[344867] = {
@@ -4774,31 +3793,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[217832] = {
+				[212619] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[231895] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[50613] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[22570] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[119996] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[202914] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[212638] = {
+				[195676] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -4807,25 +3826,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[19647] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[62618] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[69179] = {
+				[527] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[324724] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[304971] = {
+				[2094] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -4834,34 +3853,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[206649] = {
+				[77130] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[320674] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[97462] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[307865] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[325640] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[328530] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -4870,31 +3889,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[113860] = {
+				[323546] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[198013] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[179057] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[853] = {
+				[408] = {
 					["enabled"] = true,
 				},
-				[205191] = {
+				[102560] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[323764] = {
+				[184662] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -4906,10 +3925,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[283167] = {
+				[102793] = {
 					["enabled"] = true,
 				},
-				[33697] = {
+				[315443] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -4918,7 +3937,7 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[51485] = {
+				[5384] = {
 					["enabled"] = true,
 				},
 			},
@@ -5457,7 +4476,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[107574] = {
+				[202370] = {
 					["enabled"] = true,
 				},
 				[202138] = {
@@ -5475,7 +4494,7 @@ NameplateCooldownsAceDB = {
 				[198817] = {
 					["enabled"] = true,
 				},
-				[5246] = {
+				[315443] = {
 					["enabled"] = true,
 				},
 				[32182] = {
@@ -5487,7 +4506,7 @@ NameplateCooldownsAceDB = {
 				[64843] = {
 					["enabled"] = true,
 				},
-				[47528] = {
+				[48743] = {
 					["enabled"] = true,
 				},
 				[307443] = {
@@ -5505,7 +4524,7 @@ NameplateCooldownsAceDB = {
 				[31224] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -5532,10 +4551,10 @@ NameplateCooldownsAceDB = {
 				[233759] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[121471] = {
 					["enabled"] = true,
 				},
-				[199483] = {
+				[326860] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -5544,19 +4563,19 @@ NameplateCooldownsAceDB = {
 				[97462] = {
 					["enabled"] = true,
 				},
-				[113858] = {
+				[327104] = {
 					["enabled"] = true,
 				},
-				[853] = {
+				[310454] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[213602] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[115176] = {
+				[122278] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -5565,37 +4584,37 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[20484] = {
+				[116849] = {
 					["enabled"] = true,
 				},
 				[19647] = {
 					["enabled"] = true,
 				},
-				[122470] = {
+				[89766] = {
 					["enabled"] = true,
 				},
 				[187707] = {
 					["enabled"] = true,
 				},
-				[328530] = {
+				[108194] = {
 					["enabled"] = true,
 				},
 				[323547] = {
 					["enabled"] = true,
 				},
+				[1719] = {
+					["enabled"] = true,
+				},
+				[122470] = {
+					["enabled"] = true,
+				},
+				[328530] = {
+					["enabled"] = true,
+				},
 				[109248] = {
 					["enabled"] = true,
 				},
-				[89766] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[212619] = {
-					["enabled"] = true,
-				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
 				[206649] = {
@@ -5607,7 +4626,7 @@ NameplateCooldownsAceDB = {
 				[221562] = {
 					["enabled"] = true,
 				},
-				[344867] = {
+				[102342] = {
 					["enabled"] = true,
 				},
 				[80483] = {
@@ -5616,19 +4635,19 @@ NameplateCooldownsAceDB = {
 				[329554] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[102793] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[33891] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[102560] = {
 					["enabled"] = true,
 				},
 				[102359] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[194223] = {
 					["enabled"] = true,
 				},
 				[58984] = {
@@ -5646,37 +4665,37 @@ NameplateCooldownsAceDB = {
 				[323546] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[132469] = {
 					["enabled"] = true,
 				},
 				[108238] = {
 					["enabled"] = true,
 				},
-				[191634] = {
+				[212459] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[31821] = {
 					["enabled"] = true,
 				},
 				[36554] = {
 					["enabled"] = true,
 				},
-				[20594] = {
+				[12975] = {
 					["enabled"] = true,
 				},
-				[53271] = {
+				[328305] = {
 					["enabled"] = true,
 				},
 				[196555] = {
 					["enabled"] = true,
 				},
-				[498] = {
-					["enabled"] = true,
-				},
 				[236320] = {
 					["enabled"] = true,
 				},
-				[307865] = {
+				[498] = {
+					["enabled"] = true,
+				},
+				[740] = {
 					["enabled"] = true,
 				},
 				[325216] = {
@@ -5685,16 +4704,16 @@ NameplateCooldownsAceDB = {
 				[102543] = {
 					["enabled"] = true,
 				},
-				[202914] = {
-					["enabled"] = true,
-				},
 				[98008] = {
 					["enabled"] = true,
 				},
-				[327661] = {
+				[202914] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[195676] = {
+					["enabled"] = true,
+				},
+				[328923] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -5709,7 +4728,7 @@ NameplateCooldownsAceDB = {
 				[22570] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[6940] = {
 					["enabled"] = true,
 				},
 				[106951] = {
@@ -5721,16 +4740,16 @@ NameplateCooldownsAceDB = {
 				[871] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[316262] = {
+				[304971] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[343142] = {
 					["enabled"] = true,
 				},
 				[122] = {
@@ -5745,31 +4764,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[343142] = {
+				[185313] = {
 					["enabled"] = true,
 				},
-				[304971] = {
+				[316262] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[6940] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[328923] = {
+				[781] = {
 					["enabled"] = true,
 				},
-				[195676] = {
+				[327661] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[307865] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -5778,25 +4797,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[53271] = {
 					["enabled"] = true,
 				},
-				[12975] = {
+				[20594] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[62618] = {
 					["enabled"] = true,
 				},
-				[212459] = {
+				[191634] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[132469] = {
+				[3411] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -5805,34 +4824,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[179057] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[317009] = {
 					["enabled"] = true,
 				},
-				[33891] = {
+				[114052] = {
 					["enabled"] = true,
 				},
-				[102793] = {
+				[33702] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[102342] = {
+				[344867] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[23920] = {
 					["enabled"] = true,
 				},
-				[1719] = {
+				[212619] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -5841,31 +4860,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[116849] = {
+				[20484] = {
 					["enabled"] = true,
 				},
-				[122278] = {
+				[115176] = {
 					["enabled"] = true,
 				},
-				[213602] = {
+				[19577] = {
 					["enabled"] = true,
 				},
-				[310454] = {
+				[853] = {
 					["enabled"] = true,
 				},
-				[327104] = {
+				[113858] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[199483] = {
 					["enabled"] = true,
 				},
-				[121471] = {
+				[184662] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[119996] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -5877,10 +4896,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[48743] = {
+				[47528] = {
 					["enabled"] = true,
 				},
-				[315443] = {
+				[5246] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -5889,12 +4908,994 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
+				[107574] = {
+					["enabled"] = true,
+				},
+			},
+		},
+		["Muhreq - Draenor"] = {
+			["DBVersion"] = 11,
+			["MigrationVersion"] = 7,
+			["SpellCDs"] = {
+				[47585] = {
+					["enabled"] = true,
+				},
+				[207777] = {
+					["enabled"] = true,
+				},
+				[18499] = {
+					["enabled"] = true,
+				},
+				[132469] = {
+					["enabled"] = true,
+				},
+				[73325] = {
+					["enabled"] = true,
+				},
+				[221703] = {
+					["enabled"] = true,
+				},
+				[10060] = {
+					["enabled"] = true,
+				},
+				[633] = {
+					["enabled"] = true,
+				},
+				[1776] = {
+					["enabled"] = true,
+				},
+				[118038] = {
+					["enabled"] = true,
+				},
+				[191427] = {
+					["enabled"] = true,
+				},
+				[108968] = {
+					["enabled"] = true,
+				},
+				[8122] = {
+					["enabled"] = true,
+				},
+				[51514] = {
+					["enabled"] = true,
+				},
+				[204331] = {
+					["enabled"] = true,
+				},
+				[236077] = {
+					["enabled"] = true,
+				},
+				[198838] = {
+					["enabled"] = true,
+				},
+				[77606] = {
+					["enabled"] = true,
+				},
+				[51690] = {
+					["enabled"] = true,
+				},
+				[1022] = {
+					["enabled"] = true,
+				},
+				[88625] = {
+					["enabled"] = true,
+				},
+				[15286] = {
+					["enabled"] = true,
+				},
+				[119381] = {
+					["enabled"] = true,
+				},
+				[207399] = {
+					["enabled"] = true,
+				},
+				[79140] = {
+					["enabled"] = true,
+				},
+				[642] = {
+					["enabled"] = true,
+				},
+				[212638] = {
+					["enabled"] = true,
+				},
+				[51052] = {
+					["enabled"] = true,
+				},
+				[1543] = {
+					["enabled"] = true,
+				},
+				[61336] = {
+					["enabled"] = true,
+				},
+				[236273] = {
+					["enabled"] = true,
+				},
+				[195457] = {
+					["enabled"] = true,
+				},
+				[105809] = {
+					["enabled"] = true,
+				},
+				[204336] = {
+					["enabled"] = true,
+				},
+				[206572] = {
+					["enabled"] = true,
+				},
+				[80483] = {
+					["enabled"] = true,
+				},
+				[50334] = {
+					["enabled"] = true,
+				},
+				[31850] = {
+					["enabled"] = true,
+				},
+				[204018] = {
+					["enabled"] = true,
+				},
+				[199483] = {
+					["enabled"] = true,
+				},
+				[79206] = {
+					["enabled"] = true,
+				},
+				[198589] = {
+					["enabled"] = true,
+				},
+				[114018] = {
+					["enabled"] = true,
+				},
+				[114050] = {
+					["enabled"] = true,
+				},
+				[1044] = {
+					["enabled"] = true,
+				},
+				[147362] = {
+					["enabled"] = true,
+				},
+				[190925] = {
+					["enabled"] = true,
+				},
+				[210918] = {
+					["enabled"] = true,
+				},
+				[66] = {
+					["enabled"] = true,
+				},
+				[108238] = {
+					["enabled"] = true,
+				},
+				[343142] = {
+					["enabled"] = true,
+				},
+				[22812] = {
+					["enabled"] = true,
+				},
+				[198144] = {
+					["enabled"] = true,
+				},
+				[114051] = {
+					["enabled"] = true,
+				},
+				[213602] = {
+					["enabled"] = true,
+				},
+				[12975] = {
+					["enabled"] = true,
+				},
+				[12472] = {
+					["enabled"] = true,
+				},
+				[192077] = {
+					["enabled"] = true,
+				},
+				[36554] = {
+					["enabled"] = true,
+				},
+				[108271] = {
+					["enabled"] = true,
+				},
+				[186265] = {
+					["enabled"] = true,
+				},
+				[316958] = {
+					["enabled"] = true,
+				},
+				[188501] = {
+					["enabled"] = true,
+				},
+				[5246] = {
+					["enabled"] = true,
+				},
+				[96231] = {
+					["enabled"] = true,
+				},
+				[51533] = {
+					["enabled"] = true,
+				},
+				[265221] = {
+					["enabled"] = true,
+				},
+				[6789] = {
+					["enabled"] = true,
+				},
+				[48020] = {
+					["enabled"] = true,
+				},
+				[99] = {
+					["enabled"] = true,
+				},
+				[211881] = {
+					["enabled"] = true,
+				},
+				[275699] = {
+					["enabled"] = true,
+				},
+				[167105] = {
+					["enabled"] = true,
+				},
+				[48707] = {
+					["enabled"] = true,
+				},
+				[336126] = {
+					["enabled"] = true,
+				},
+				[107570] = {
+					["enabled"] = true,
+				},
+				[2139] = {
+					["enabled"] = true,
+				},
+				[325013] = {
+					["enabled"] = true,
+				},
+				[262161] = {
+					["enabled"] = true,
+				},
+				[185311] = {
+					["enabled"] = true,
+				},
+				[209584] = {
+					["enabled"] = true,
+				},
+				[116705] = {
+					["enabled"] = true,
+				},
+				[212459] = {
+					["enabled"] = true,
+				},
+				[205369] = {
+					["enabled"] = true,
+				},
+				[100] = {
+					["enabled"] = true,
+				},
+				[19236] = {
+					["enabled"] = true,
+				},
+				[1850] = {
+					["enabled"] = true,
+				},
+				[213610] = {
+					["enabled"] = true,
+				},
+				[13750] = {
+					["enabled"] = true,
+				},
+				[102558] = {
+					["enabled"] = true,
+				},
+				[212653] = {
+					["enabled"] = true,
+				},
+				[1856] = {
+					["enabled"] = true,
+				},
+				[68992] = {
+					["enabled"] = true,
+				},
+				[115078] = {
+					["enabled"] = true,
+				},
+				[108978] = {
+					["enabled"] = true,
+				},
+				[207736] = {
+					["enabled"] = true,
+				},
+				[115781] = {
+					["enabled"] = true,
+				},
+				[49028] = {
+					["enabled"] = true,
+				},
+				[324386] = {
+					["enabled"] = true,
+				},
+				[228049] = {
+					["enabled"] = true,
+				},
+				[205629] = {
+					["enabled"] = true,
+				},
+				[106839] = {
+					["enabled"] = true,
+				},
+				[110959] = {
+					["enabled"] = true,
+				},
+				[28730] = {
+					["enabled"] = true,
+				},
+				[205630] = {
+					["enabled"] = true,
+				},
+				[107574] = {
+					["enabled"] = true,
+				},
+				[20594] = {
+					["enabled"] = true,
+				},
+				[157980] = {
+					["enabled"] = true,
+				},
+				[32379] = {
+					["enabled"] = true,
+				},
+				[210294] = {
+					["enabled"] = true,
+				},
+				[31884] = {
+					["enabled"] = true,
+				},
+				[202246] = {
+					["enabled"] = true,
+				},
+				[217832] = {
+					["enabled"] = true,
+				},
+				[15487] = {
+					["enabled"] = true,
+				},
+				[47528] = {
+					["enabled"] = true,
+				},
+				[33891] = {
+					["enabled"] = true,
+				},
+				[207167] = {
+					["enabled"] = true,
+				},
+				[184364] = {
+					["enabled"] = true,
+				},
+				[5484] = {
+					["enabled"] = true,
+				},
+				[326059] = {
+					["enabled"] = true,
+				},
+				[196884] = {
+					["enabled"] = true,
+				},
+				[1122] = {
+					["enabled"] = true,
+				},
+				[210873] = {
+					["enabled"] = true,
+				},
+				[4987] = {
+					["enabled"] = true,
+				},
+				[31661] = {
+					["enabled"] = true,
+				},
+				[152173] = {
+					["enabled"] = true,
+				},
+				[12042] = {
+					["enabled"] = true,
+				},
+				[309328] = {
+					["enabled"] = true,
+				},
+				[6544] = {
+					["enabled"] = true,
+				},
+				[31230] = {
+					["enabled"] = true,
+				},
+				[209789] = {
+					["enabled"] = true,
+				},
+				[6552] = {
+					["enabled"] = true,
+				},
+				[49206] = {
+					["enabled"] = true,
+				},
+				[48743] = {
+					["enabled"] = true,
+				},
+				[86659] = {
+					["enabled"] = true,
+				},
+				[121471] = {
+					["enabled"] = true,
+				},
+				[277778] = {
+					["enabled"] = true,
+				},
+				[78675] = {
+					["enabled"] = true,
+				},
+				[80240] = {
+					["enabled"] = true,
+				},
+				[51490] = {
+					["enabled"] = true,
+				},
+				[322109] = {
+					["enabled"] = true,
+				},
+				[207684] = {
+					["enabled"] = true,
+				},
+				[45438] = {
+					["enabled"] = true,
+				},
+				[91802] = {
+					["enabled"] = true,
+				},
+				[33206] = {
+					["enabled"] = true,
+				},
+				[109304] = {
+					["enabled"] = true,
+				},
+				[8143] = {
+					["enabled"] = true,
+				},
+				[315341] = {
+					["enabled"] = true,
+				},
+				[102342] = {
+					["enabled"] = true,
+				},
+				[277784] = {
+					["enabled"] = true,
+				},
+				[231895] = {
+					["enabled"] = true,
+				},
+				[48792] = {
+					["enabled"] = true,
+				},
+				[213691] = {
+					["enabled"] = true,
+				},
+				[122783] = {
+					["enabled"] = true,
+				},
+				[46924] = {
+					["enabled"] = true,
+				},
+				[2825] = {
+					["enabled"] = true,
+				},
+				[211010] = {
+					["enabled"] = true,
+				},
+				[84714] = {
+					["enabled"] = true,
+				},
+				[20484] = {
+					["enabled"] = true,
+				},
+				[235219] = {
+					["enabled"] = true,
+				},
+				[197214] = {
+					["enabled"] = true,
+				},
+				[201430] = {
+					["enabled"] = true,
+				},
+				[137619] = {
+					["enabled"] = true,
+				},
+				[20572] = {
+					["enabled"] = true,
+				},
+				[116844] = {
+					["enabled"] = true,
+				},
+				[19574] = {
+					["enabled"] = true,
+				},
+				[26297] = {
+					["enabled"] = true,
+				},
+				[7744] = {
+					["enabled"] = true,
+				},
+				[187827] = {
+					["enabled"] = true,
+				},
+				[198111] = {
+					["enabled"] = true,
+				},
+				[49576] = {
+					["enabled"] = true,
+				},
+				[344867] = {
+					["enabled"] = true,
+				},
+				[104773] = {
+					["enabled"] = true,
+				},
+				[102793] = {
+					["enabled"] = true,
+				},
+				[211015] = {
+					["enabled"] = true,
+				},
+				[64044] = {
+					["enabled"] = true,
+				},
+				[123904] = {
+					["enabled"] = true,
+				},
+				[202137] = {
+					["enabled"] = true,
+				},
+				[47788] = {
+					["enabled"] = true,
+				},
+				[51485] = {
+					["enabled"] = true,
+				},
 				[202370] = {
+					["enabled"] = true,
+				},
+				[202138] = {
+					["enabled"] = true,
+				},
+				[1953] = {
+					["enabled"] = true,
+				},
+				[317009] = {
+					["enabled"] = true,
+				},
+				[47476] = {
+					["enabled"] = true,
+				},
+				[198817] = {
+					["enabled"] = true,
+				},
+				[5211] = {
+					["enabled"] = true,
+				},
+				[32182] = {
+					["enabled"] = true,
+				},
+				[212295] = {
+					["enabled"] = true,
+				},
+				[64843] = {
+					["enabled"] = true,
+				},
+				[115176] = {
+					["enabled"] = true,
+				},
+				[307443] = {
+					["enabled"] = true,
+				},
+				[326860] = {
+					["enabled"] = true,
+				},
+				[327104] = {
+					["enabled"] = true,
+				},
+				[310454] = {
+					["enabled"] = true,
+				},
+				[853] = {
+					["enabled"] = true,
+				},
+				[5277] = {
+					["enabled"] = true,
+				},
+				[88423] = {
+					["enabled"] = true,
+				},
+				[206803] = {
+					["enabled"] = true,
+				},
+				[108416] = {
+					["enabled"] = true,
+				},
+				[212552] = {
+					["enabled"] = true,
+				},
+				[319454] = {
+					["enabled"] = true,
+				},
+				[55342] = {
+					["enabled"] = true,
+				},
+				[196555] = {
+					["enabled"] = true,
+				},
+				[233759] = {
+					["enabled"] = true,
+				},
+				[31224] = {
+					["enabled"] = true,
+				},
+				[184662] = {
+					["enabled"] = true,
+				},
+				[20589] = {
+					["enabled"] = true,
+				},
+				[316262] = {
+					["enabled"] = true,
+				},
+				[113860] = {
+					["enabled"] = true,
+				},
+				[198013] = {
+					["enabled"] = true,
+				},
+				[323639] = {
+					["enabled"] = true,
+				},
+				[329038] = {
+					["enabled"] = true,
+				},
+				[3411] = {
+					["enabled"] = true,
+				},
+				[323673] = {
+					["enabled"] = true,
+				},
+				[69070] = {
+					["enabled"] = true,
+				},
+				[19647] = {
+					["enabled"] = true,
+				},
+				[323546] = {
+					["enabled"] = true,
+				},
+				[325640] = {
+					["enabled"] = true,
+				},
+				[187707] = {
+					["enabled"] = true,
+				},
+				[194223] = {
+					["enabled"] = true,
+				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[23920] = {
+					["enabled"] = true,
+				},
+				[89766] = {
+					["enabled"] = true,
+				},
+				[108194] = {
+					["enabled"] = true,
+				},
+				[1719] = {
+					["enabled"] = true,
+				},
+				[328530] = {
+					["enabled"] = true,
+				},
+				[33697] = {
+					["enabled"] = true,
+				},
+				[210256] = {
+					["enabled"] = true,
+				},
+				[221562] = {
+					["enabled"] = true,
+				},
+				[227847] = {
+					["enabled"] = true,
+				},
+				[198529] = {
+					["enabled"] = true,
+				},
+				[329554] = {
+					["enabled"] = true,
+				},
+				[116849] = {
+					["enabled"] = true,
+				},
+				[115750] = {
+					["enabled"] = true,
+				},
+				[269352] = {
+					["enabled"] = true,
+				},
+				[31821] = {
+					["enabled"] = true,
+				},
+				[191634] = {
+					["enabled"] = true,
+				},
+				[58984] = {
+					["enabled"] = true,
+				},
+				[211004] = {
+					["enabled"] = true,
+				},
+				[57994] = {
+					["enabled"] = true,
+				},
+				[59543] = {
+					["enabled"] = true,
+				},
+				[48265] = {
+					["enabled"] = true,
+				},
+				[327661] = {
+					["enabled"] = true,
+				},
+				[119996] = {
+					["enabled"] = true,
+				},
+				[109248] = {
+					["enabled"] = true,
+				},
+				[304971] = {
+					["enabled"] = true,
+				},
+				[2094] = {
+					["enabled"] = true,
+				},
+				[69179] = {
+					["enabled"] = true,
+				},
+				[50613] = {
+					["enabled"] = true,
+				},
+				[46968] = {
+					["enabled"] = true,
+				},
+				[185313] = {
+					["enabled"] = true,
+				},
+				[498] = {
+					["enabled"] = true,
+				},
+				[325216] = {
+					["enabled"] = true,
+				},
+				[740] = {
+					["enabled"] = true,
+				},
+				[102543] = {
+					["enabled"] = true,
+				},
+				[53271] = {
+					["enabled"] = true,
+				},
+				[98008] = {
+					["enabled"] = true,
+				},
+				[781] = {
+					["enabled"] = true,
+				},
+				[122] = {
+					["enabled"] = true,
+				},
+				[209749] = {
+					["enabled"] = true,
+				},
+				[183752] = {
+					["enabled"] = true,
+				},
+				[69041] = {
+					["enabled"] = true,
+				},
+				[22570] = {
+					["enabled"] = true,
+				},
+				[106951] = {
+					["enabled"] = true,
+				},
+				[6940] = {
+					["enabled"] = true,
+				},
+				[108280] = {
+					["enabled"] = true,
+				},
+				[871] = {
+					["enabled"] = true,
+				},
+				[236320] = {
+					["enabled"] = true,
+				},
+				[30283] = {
+					["enabled"] = true,
+				},
+				[305483] = {
+					["enabled"] = true,
+				},
+				[283167] = {
+					["enabled"] = true,
+				},
+				[190319] = {
+					["enabled"] = true,
+				},
+				[49039] = {
+					["enabled"] = true,
+				},
+				[187650] = {
+					["enabled"] = true,
+				},
+				[32375] = {
+					["enabled"] = true,
+				},
+				[212619] = {
+					["enabled"] = true,
+				},
+				[122278] = {
+					["enabled"] = true,
+				},
+				[195676] = {
+					["enabled"] = true,
+				},
+				[192058] = {
+					["enabled"] = true,
+				},
+				[328923] = {
+					["enabled"] = true,
+				},
+				[33702] = {
+					["enabled"] = true,
+				},
+				[202914] = {
+					["enabled"] = true,
+				},
+				[216331] = {
+					["enabled"] = true,
+				},
+				[266779] = {
+					["enabled"] = true,
+				},
+				[2983] = {
+					["enabled"] = true,
+				},
+				[59752] = {
+					["enabled"] = true,
+				},
+				[62618] = {
+					["enabled"] = true,
+				},
+				[102359] = {
+					["enabled"] = true,
+				},
+				[47536] = {
+					["enabled"] = true,
+				},
+				[527] = {
+					["enabled"] = true,
+				},
+				[324724] = {
+					["enabled"] = true,
+				},
+				[328547] = {
+					["enabled"] = true,
+				},
+				[102560] = {
+					["enabled"] = true,
+				},
+				[306830] = {
+					["enabled"] = true,
+				},
+				[308491] = {
+					["enabled"] = true,
+				},
+				[77130] = {
+					["enabled"] = true,
+				},
+				[22842] = {
+					["enabled"] = true,
+				},
+				[320674] = {
+					["enabled"] = true,
+				},
+				[97462] = {
+					["enabled"] = true,
+				},
+				[307865] = {
+					["enabled"] = true,
+				},
+				[113724] = {
+					["enabled"] = true,
+				},
+				[19577] = {
+					["enabled"] = true,
+				},
+				[42650] = {
+					["enabled"] = true,
+				},
+				[108199] = {
+					["enabled"] = true,
+				},
+				[122470] = {
+					["enabled"] = true,
+				},
+				[212182] = {
+					["enabled"] = true,
+				},
+				[190784] = {
+					["enabled"] = true,
+				},
+				[179057] = {
+					["enabled"] = true,
+				},
+				[328305] = {
+					["enabled"] = true,
+				},
+				[323654] = {
+					["enabled"] = true,
+				},
+				[408] = {
+					["enabled"] = true,
+				},
+				[206649] = {
+					["enabled"] = true,
+				},
+				[114052] = {
+					["enabled"] = true,
+				},
+				[323764] = {
+					["enabled"] = true,
+				},
+				[205604] = {
+					["enabled"] = true,
+				},
+				[205191] = {
+					["enabled"] = true,
+				},
+				[25046] = {
+					["enabled"] = true,
+				},
+				[204263] = {
+					["enabled"] = true,
+				},
+				[1766] = {
+					["enabled"] = true,
+				},
+				[315443] = {
+					["enabled"] = true,
+				},
+				[113858] = {
+					["enabled"] = true,
+				},
+				[198898] = {
+					["enabled"] = true,
+				},
+				[115450] = {
+					["enabled"] = true,
+				},
+				[5384] = {
 					["enabled"] = true,
 				},
 			},
 		},
 		["Recursion - Runetotem"] = {
+			["DBVersion"] = 11,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -5968,12 +5969,12 @@ NameplateCooldownsAceDB = {
 						[113724] = true,
 					},
 				},
-				["Apocalypse"] = {
+				["Supernova"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 30,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[275699] = true,
+						[157980] = true,
 					},
 				},
 				["Blind"] = {
@@ -5984,12 +5985,12 @@ NameplateCooldownsAceDB = {
 						[2094] = true,
 					},
 				},
-				["Incarnation: Tree of Life"] = {
+				["Spell Lock"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
 					["spellIDs"] = {
-						[33891] = true,
+						[19647] = true,
 					},
 				},
 				["Counter Shot"] = {
@@ -6024,12 +6025,12 @@ NameplateCooldownsAceDB = {
 						[212459] = true,
 					},
 				},
-				["Earthgrab Totem"] = {
+				["Death Grip"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[51485] = true,
+						[49576] = true,
 					},
 				},
 				["Mighty Ox Kick"] = {
@@ -6072,20 +6073,20 @@ NameplateCooldownsAceDB = {
 						[316262] = true,
 					},
 				},
-				["Aura Mastery"] = {
+				["Shimmer"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[31821] = true,
+						[212653] = true,
 					},
 				},
-				["Death Grip"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 20,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[49576] = true,
+						[51485] = true,
 					},
 				},
 				["Summon Gargoyle"] = {
@@ -6136,12 +6137,12 @@ NameplateCooldownsAceDB = {
 						[108978] = true,
 					},
 				},
-				["Mighty Bash"] = {
+				["Wind Shear"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 54,
+					["class"] = "SHAMAN",
+					["cooldown"] = 9,
 					["spellIDs"] = {
-						[5211] = true,
+						[57994] = true,
 					},
 				},
 				["Frozen Orb"] = {
@@ -6168,12 +6169,12 @@ NameplateCooldownsAceDB = {
 						[209584] = true,
 					},
 				},
-				["Renewal"] = {
+				["Typhoon"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 90,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[108238] = true,
+						[132469] = true,
 					},
 				},
 				["Rain from Above"] = {
@@ -6328,12 +6329,12 @@ NameplateCooldownsAceDB = {
 						[19577] = true,
 					},
 				},
-				["Rocket Jump"] = {
+				["Dark Pact"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[69070] = true,
+						[108416] = true,
 					},
 				},
 				["Divine Steed"] = {
@@ -6384,28 +6385,12 @@ NameplateCooldownsAceDB = {
 						[33206] = true,
 					},
 				},
-				["Incarnation: King of the Jungle"] = {
+				["Faerie Swarm"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[102543] = true,
-					},
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-				},
-				["Summon Infernal"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[1122] = true,
+						[209749] = true,
 					},
 				},
 				["Power Word: Barrier"] = {
@@ -6416,12 +6401,36 @@ NameplateCooldownsAceDB = {
 						[62618] = true,
 					},
 				},
+				["Dispersion"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[47585] = true,
+					},
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+				},
 				["Gorefiend's Grasp"] = {
 					["enabled"] = true,
 					["class"] = "DEATHKNIGHT",
 					["cooldown"] = 90,
 					["spellIDs"] = {
 						[108199] = true,
+					},
+				},
+				["Frost Nova"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[122] = true,
 					},
 				},
 				["Gladiator's Medallion"] = {
@@ -6432,28 +6441,20 @@ NameplateCooldownsAceDB = {
 						[336126] = true,
 					},
 				},
-				["Thunderstorm"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
+					["class"] = "DEMONHUNTER",
 					["cooldown"] = 30,
 					["spellIDs"] = {
-						[51490] = true,
+						[202137] = true,
 					},
 				},
-				["Ursol's Vortex"] = {
+				["Illidan's Grasp"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
+					["class"] = "DEMONHUNTER",
 					["cooldown"] = 60,
 					["spellIDs"] = {
-						[102793] = true,
-					},
-				},
-				["Blood Fury"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[33697] = true,
+						[205630] = true,
 					},
 				},
 				["Shockwave"] = {
@@ -6464,12 +6465,12 @@ NameplateCooldownsAceDB = {
 						[46968] = true,
 					},
 				},
-				["Spiritwalker's Grace"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 60,
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[79206] = true,
+						[108280] = true,
 					},
 				},
 				["Storm Bolt"] = {
@@ -6480,12 +6481,12 @@ NameplateCooldownsAceDB = {
 						[107570] = true,
 					},
 				},
-				["Celestial Alignment"] = {
+				["Dismantle"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "ROGUE",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[194223] = true,
+						[207777] = true,
 					},
 				},
 				["Shadow Blades"] = {
@@ -6512,28 +6513,12 @@ NameplateCooldownsAceDB = {
 						[107574] = true,
 					},
 				},
-				["Adrenaline Rush"] = {
+				["Escape Artist"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
+					["class"] = "MISC",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60.3,
-					["spellIDs"] = {
-						[46924] = true,
-					},
-				},
-				["Lay on Hands"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[633] = true,
+						[20589] = true,
 					},
 				},
 				["Sundering"] = {
@@ -6544,12 +6529,12 @@ NameplateCooldownsAceDB = {
 						[197214] = true,
 					},
 				},
-				["Arcane Torrent"] = {
+				["Lay on Hands"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
+					["class"] = "PALADIN",
+					["cooldown"] = 300,
 					["spellIDs"] = {
-						[80483] = true,
+						[633] = true,
 					},
 				},
 				["Plunder Armor"] = {
@@ -6560,44 +6545,36 @@ NameplateCooldownsAceDB = {
 						[198529] = true,
 					},
 				},
-				["Shadowfury"] = {
+				["Arcane Torrent"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[30283] = true,
+						[80483] = true,
 					},
 				},
-				["Transcendence: Transfer"] = {
+				["Intimidating Shout"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 25,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[119996] = true,
+						[5246] = true,
 					},
 				},
-				["Sprint"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[2983] = true,
-					},
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 360,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-				},
-				["Grounding Totem"] = {
+				["Astral Shift"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 30,
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[204336] = true,
+						[108271] = true,
+					},
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60.3,
+					["spellIDs"] = {
+						[46924] = true,
 					},
 				},
 				["Divine Shield"] = {
@@ -6616,6 +6593,30 @@ NameplateCooldownsAceDB = {
 						[8143] = true,
 					},
 				},
+				["Grounding Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[204336] = true,
+					},
+				},
+				["Sprint"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[2983] = true,
+					},
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+				},
 				["Darkflight"] = {
 					["enabled"] = true,
 					["class"] = "MISC",
@@ -6632,12 +6633,12 @@ NameplateCooldownsAceDB = {
 						[207684] = true,
 					},
 				},
-				["Rebuke"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 15,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[96231] = true,
+						[205604] = true,
 					},
 				},
 				["Ancestral Protection Totem"] = {
@@ -6648,12 +6649,12 @@ NameplateCooldownsAceDB = {
 						[207399] = true,
 					},
 				},
-				["Axe Toss"] = {
+				["Binding Shot"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 30,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[89766] = true,
+						[109248] = true,
 					},
 				},
 				["Duel"] = {
@@ -6664,6 +6665,14 @@ NameplateCooldownsAceDB = {
 						[236273] = true,
 					},
 				},
+				["Feral Spirit"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[51533] = true,
+					},
+				},
 				["Shadowstep"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
@@ -6672,28 +6681,20 @@ NameplateCooldownsAceDB = {
 						[36554] = true,
 					},
 				},
-				["Metamorphosis"] = {
+				["Call Felhunter"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 75,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
 					["spellIDs"] = {
-						[187827] = true,
+						[212619] = true,
 					},
 				},
-				["Shadowmeld"] = {
+				["Berserking"] = {
 					["enabled"] = true,
 					["class"] = "MISC",
-					["cooldown"] = 120,
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[58984] = true,
-					},
-				},
-				["Desperate Prayer"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[19236] = true,
+						[26297] = true,
 					},
 				},
 				["Icebound Fortitude"] = {
@@ -6712,12 +6713,12 @@ NameplateCooldownsAceDB = {
 						[195457] = true,
 					},
 				},
-				["Asphyxiate"] = {
+				["Ironbark"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 45,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[108194] = true,
+						[102342] = true,
 					},
 				},
 				["Imprison"] = {
@@ -6728,12 +6729,12 @@ NameplateCooldownsAceDB = {
 						[217832] = true,
 					},
 				},
-				["Recklessness"] = {
+				["Desperate Prayer"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
+					["class"] = "PRIEST",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[1719] = true,
+						[19236] = true,
 					},
 				},
 				["Lichborne"] = {
@@ -6744,12 +6745,12 @@ NameplateCooldownsAceDB = {
 						[49039] = true,
 					},
 				},
-				["Sharpen Blade"] = {
+				["Enraged Regeneration"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
-					["cooldown"] = 25,
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[198817] = true,
+						[184364] = true,
 					},
 				},
 				["Blinding Sleet"] = {
@@ -6760,44 +6761,44 @@ NameplateCooldownsAceDB = {
 						[207167] = true,
 					},
 				},
-				["Rebirth"] = {
+				["Holy Ward"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 600,
-					["spellIDs"] = {
-						[20484] = true,
-					},
-				},
-				["Paralysis"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
+					["class"] = "PRIEST",
 					["cooldown"] = 30,
 					["spellIDs"] = {
-						[115078] = true,
+						[213610] = true,
 					},
 				},
-				["Blessing of Sacrifice"] = {
+				["Kick"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1766] = true,
+					},
+				},
+				["Blessing of Protection"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 72,
+					["cooldown"] = 225,
 					["spellIDs"] = {
-						[6940] = true,
+						[1022] = true,
 					},
 				},
-				["Song of Chi-Ji"] = {
+				["Smoke Bomb"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 30,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[198898] = true,
+						[212182] = true,
 					},
 				},
-				["Avenging Wrath"] = {
+				["Charge"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[31884] = true,
+						[100] = true,
 					},
 				},
 				["Blessing of Spellwarding"] = {
@@ -6824,28 +6825,28 @@ NameplateCooldownsAceDB = {
 						[47788] = true,
 					},
 				},
-				["Kick"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 15,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[1766] = true,
+						[58984] = true,
 					},
 				},
-				["Smoke Bomb"] = {
+				["Song of Chi-Ji"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
+					["class"] = "MONK",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[212182] = true,
+						[198898] = true,
 					},
 				},
-				["Charge"] = {
+				["Evasion"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 20,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[100] = true,
+						[5277] = true,
 					},
 				},
 				["Displacement"] = {
@@ -6856,44 +6857,44 @@ NameplateCooldownsAceDB = {
 						[195676] = true,
 					},
 				},
-				["Leg Sweep"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+				},
+				["Vendetta"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[79140] = true,
+					},
+				},
+				["Greater Fade"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[119381] = true,
+						[213602] = true,
 					},
 				},
-				["Harpoon"] = {
+				["Guardian of the Forgotten Queen"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[190925] = true,
-					},
-				},
-				["Incapacitating Roar"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[99] = true,
-					},
-				},
-				["Capacitor Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
-					["spellIDs"] = {
-						[192058] = true,
-					},
-				},
-				["Incarnation: Chosen of Elune"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[102560] = true,
+						[228049] = true,
 					},
 				},
 				["Mind Freeze"] = {
@@ -6920,60 +6921,12 @@ NameplateCooldownsAceDB = {
 						[319454] = true,
 					},
 				},
-				["Shadow Dance"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[185313] = true,
-					},
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-				},
-				["Spectral Sight"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[188501] = true,
-					},
-				},
-				["Touch of Karma"] = {
+				["Leg Sweep"] = {
 					["enabled"] = true,
 					["class"] = "MONK",
-					["cooldown"] = 90,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[122470] = true,
-					},
-				},
-				["PvP Trinket"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[283167] = true,
-					},
-				},
-				["Army of the Dead"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 240,
-					["spellIDs"] = {
-						[42650] = true,
-					},
-				},
-				["Zen Meditation"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[115176] = true,
+						[119381] = true,
 					},
 				},
 				["Psychic Scream"] = {
@@ -6984,14 +6937,6 @@ NameplateCooldownsAceDB = {
 						[8122] = true,
 					},
 				},
-				["Crimson Vial"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[185311] = true,
-					},
-				},
 				["Divine Protection"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
@@ -7000,12 +6945,68 @@ NameplateCooldownsAceDB = {
 						[498] = true,
 					},
 				},
-				["Nether Ward"] = {
+				["Capacitor Totem"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
 					["spellIDs"] = {
-						[212295] = true,
+						[192058] = true,
+					},
+				},
+				["Coordinated Assault"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
+					["spellIDs"] = {
+						[266779] = true,
+					},
+				},
+				["Army of the Dead"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 240,
+					["spellIDs"] = {
+						[42650] = true,
+					},
+				},
+				["Incarnation: Chosen of Elune"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102560] = true,
+					},
+				},
+				["Anti-Magic Shell"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[48707] = true,
+					},
+				},
+				["Muzzle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[187707] = true,
+					},
+				},
+				["Spectral Sight"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[188501] = true,
+					},
+				},
+				["Dampen Harm"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[122278] = true,
 					},
 				},
 				["Warbreaker"] = {
@@ -7024,12 +7025,12 @@ NameplateCooldownsAceDB = {
 						[152173] = true,
 					},
 				},
-				["Void Shift"] = {
+				["Flare"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 300,
+					["class"] = "HUNTER",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[108968] = true,
+						[1543] = true,
 					},
 				},
 				["Overrun"] = {
@@ -7040,44 +7041,44 @@ NameplateCooldownsAceDB = {
 						[202246] = true,
 					},
 				},
-				["Coordinated Assault"] = {
+				["PvP Trinket"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
+					["class"] = "MISC",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[266779] = true,
+						[283167] = true,
 					},
 				},
-				["Last Stand"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 36,
-					["spellIDs"] = {
-						[12975] = true,
-					},
-				},
-				["Blink"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[1953] = true,
-					},
-				},
-				["Avenging Crusader"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
+					["class"] = "ROGUE",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[216331] = true,
+						[207736] = true,
 					},
 				},
-				["Pummel"] = {
+				["Nether Ward"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 15,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[6552] = true,
+						[212295] = true,
+					},
+				},
+				["Diffuse Magic"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[122783] = true,
+					},
+				},
+				["Void Shift"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[108968] = true,
 					},
 				},
 				["Psychic Horror"] = {
@@ -7088,12 +7089,12 @@ NameplateCooldownsAceDB = {
 						[64044] = true,
 					},
 				},
-				["Die by the Sword"] = {
+				["Avenging Crusader"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
+					["class"] = "PALADIN",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[118038] = true,
+						[216331] = true,
 					},
 				},
 				["Freezing Trap"] = {
@@ -7104,12 +7105,12 @@ NameplateCooldownsAceDB = {
 						[187650] = true,
 					},
 				},
-				["Rocket Barrage"] = {
+				["Stampede"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
+					["class"] = "HUNTER",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[69041] = true,
+						[201430] = true,
 					},
 				},
 				["Shield Wall"] = {
@@ -7168,28 +7169,28 @@ NameplateCooldownsAceDB = {
 						[53271] = true,
 					},
 				},
-				["Netherwalk"] = {
+				["Freezing Arrow"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 180,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[196555] = true,
+						[209789] = true,
 					},
 				},
-				["Dragon's Breath"] = {
+				["Mortal Coil"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 18,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[31661] = true,
+						[6789] = true,
 					},
 				},
-				["Invoke Xuen, the White Tiger"] = {
+				["Rocket Barrage"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
+					["class"] = "MISC",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[123904] = true,
+						[69041] = true,
 					},
 				},
 				["Cold Snap"] = {
@@ -7200,12 +7201,12 @@ NameplateCooldownsAceDB = {
 						[235219] = true,
 					},
 				},
-				["Incarnation: Guardian of Ursoc"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[102558] = true,
+						[196555] = true,
 					},
 				},
 				["Demonic Circle: Teleport"] = {
@@ -7224,12 +7225,12 @@ NameplateCooldownsAceDB = {
 						[205369] = true,
 					},
 				},
-				["Disrupt"] = {
+				["Blur"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
-					["cooldown"] = 15,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[183752] = true,
+						[198589] = true,
 					},
 				},
 				["Spirit Link Totem"] = {
@@ -7240,28 +7241,12 @@ NameplateCooldownsAceDB = {
 						[98008] = true,
 					},
 				},
-				["Dark Simulacrum"] = {
+				["Invisibility"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 20,
+					["class"] = "MAGE",
+					["cooldown"] = 300,
 					["spellIDs"] = {
-						[77606] = true,
-					},
-				},
-				["Will to Survive"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[59752] = true,
-					},
-				},
-				["Crusade"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[231895] = true,
+						[66] = true,
 					},
 				},
 				["Blessing of Sanctuary"] = {
@@ -7272,28 +7257,28 @@ NameplateCooldownsAceDB = {
 						[210256] = true,
 					},
 				},
+				["Crusade"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[231895] = true,
+					},
+				},
+				["Will to Survive"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[59752] = true,
+					},
+				},
 				["Wind Rush Totem"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
 					["cooldown"] = 120,
 					["spellIDs"] = {
 						[192077] = true,
-					},
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-				},
-				["Colossus Smash"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[167105] = true,
 					},
 				},
 				["Barkskin"] = {
@@ -7304,28 +7289,28 @@ NameplateCooldownsAceDB = {
 						[22812] = true,
 					},
 				},
-				["Survival Instincts"] = {
+				["Colossus Smash"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 180,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[61336] = true,
+						[167105] = true,
 					},
 				},
-				["Stoneform"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
+					["class"] = "DEATHKNIGHT",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[20594] = true,
+						[48743] = true,
 					},
 				},
-				["Exhilaration"] = {
+				["Heroic Leap"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[109304] = true,
+						[6544] = true,
 					},
 				},
 				["Demonic Trample"] = {
@@ -7336,12 +7321,28 @@ NameplateCooldownsAceDB = {
 						[205629] = true,
 					},
 				},
-				["Heroic Leap"] = {
+				["Exhilaration"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 30,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
 					["spellIDs"] = {
-						[6544] = true,
+						[109304] = true,
+					},
+				},
+				["Stoneform"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[20594] = true,
+					},
+				},
+				["Survival Instincts"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[61336] = true,
 					},
 				},
 				["Blessing of Freedom"] = {
@@ -7360,20 +7361,20 @@ NameplateCooldownsAceDB = {
 						[78675] = true,
 					},
 				},
-				["Invisibility"] = {
+				["Dark Simulacrum"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 300,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[66] = true,
+						[77606] = true,
 					},
 				},
-				["Blur"] = {
+				["Disrupt"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[198589] = true,
+						[183752] = true,
 					},
 				},
 				["Vanish"] = {
@@ -7384,68 +7385,68 @@ NameplateCooldownsAceDB = {
 						[1856] = true,
 					},
 				},
-				["Mortal Coil"] = {
+				["Dragon's Breath"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
+					["class"] = "MAGE",
+					["cooldown"] = 18,
 					["spellIDs"] = {
-						[6789] = true,
+						[31661] = true,
 					},
 				},
-				["Freezing Arrow"] = {
+				["Incarnation: Guardian of Ursoc"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[209789] = true,
+						[102558] = true,
 					},
 				},
-				["Stampede"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[201430] = true,
-					},
-				},
-				["Diffuse Magic"] = {
+				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
 					["class"] = "MONK",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[122783] = true,
+						[123904] = true,
 					},
 				},
-				["Flare"] = {
+				["Die by the Sword"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[1543] = true,
-					},
-				},
-				["Dampen Harm"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
+					["class"] = "WARRIOR",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[122278] = true,
+						[118038] = true,
 					},
 				},
-				["Muzzle"] = {
+				["Pummel"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
+					["class"] = "WARRIOR",
 					["cooldown"] = 15,
 					["spellIDs"] = {
-						[187707] = true,
+						[6552] = true,
 					},
 				},
-				["Anti-Magic Shell"] = {
+				["Blink"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 40,
+					["class"] = "MAGE",
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[48707] = true,
+						[1953] = true,
+					},
+				},
+				["Crimson Vial"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[185311] = true,
+					},
+				},
+				["Last Stand"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 36,
+					["spellIDs"] = {
+						[12975] = true,
 					},
 				},
 				["Tracker's Net"] = {
@@ -7472,44 +7473,44 @@ NameplateCooldownsAceDB = {
 						[15487] = true,
 					},
 				},
-				["Guardian of the Forgotten Queen"] = {
+				["Zen Meditation"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
+					["class"] = "MONK",
+					["cooldown"] = 75,
 					["spellIDs"] = {
-						[228049] = true,
+						[115176] = true,
 					},
 				},
-				["Greater Fade"] = {
+				["Touch of Karma"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 45,
+					["class"] = "MONK",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[213602] = true,
+						[122470] = true,
 					},
 				},
-				["Vendetta"] = {
+				["Incapacitating Roar"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[99] = true,
+					},
+				},
+				["Shadow Dance"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
-					["cooldown"] = 120,
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[79140] = true,
+						[185313] = true,
 					},
 				},
-				["Power Infusion"] = {
+				["Harpoon"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[10060] = true,
-					},
-				},
-				["Evasion"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[5277] = true,
+						[190925] = true,
 					},
 				},
 				["Shambling Rush"] = {
@@ -7528,12 +7529,12 @@ NameplateCooldownsAceDB = {
 						[233759] = true,
 					},
 				},
-				["Blessing of Protection"] = {
+				["Sharpen Blade"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 225,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[1022] = true,
+						[198817] = true,
 					},
 				},
 				["Combustion"] = {
@@ -7544,68 +7545,68 @@ NameplateCooldownsAceDB = {
 						[190319] = true,
 					},
 				},
-				["Holy Ward"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[213610] = true,
-					},
-				},
-				["Enraged Regeneration"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[184364] = true,
-					},
-				},
-				["Ironbark"] = {
+				["Rebirth"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
+					["cooldown"] = 600,
+					["spellIDs"] = {
+						[20484] = true,
+					},
+				},
+				["Blessing of Sacrifice"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 72,
+					["spellIDs"] = {
+						[6940] = true,
+					},
+				},
+				["Paralysis"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[115078] = true,
+					},
+				},
+				["Recklessness"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[102342] = true,
+						[1719] = true,
 					},
 				},
-				["Berserking"] = {
+				["Asphyxiate"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[26297] = true,
-					},
-				},
-				["Call Felhunter"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[212619] = true,
-					},
-				},
-				["Feral Spirit"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[51533] = true,
-					},
-				},
-				["Binding Shot"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
+					["class"] = "DEATHKNIGHT",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[109248] = true,
+						[108194] = true,
 					},
 				},
-				["Reverse Magic"] = {
+				["Metamorphosis"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
+					["cooldown"] = 75,
 					["spellIDs"] = {
-						[205604] = true,
+						[187827] = true,
+					},
+				},
+				["Axe Toss"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[89766] = true,
+					},
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[96231] = true,
 					},
 				},
 				["Ardent Defender"] = {
@@ -7632,20 +7633,20 @@ NameplateCooldownsAceDB = {
 						[202914] = true,
 					},
 				},
-				["Astral Shift"] = {
+				["Shadowfury"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[108271] = true,
+						[30283] = true,
 					},
 				},
-				["Intimidating Shout"] = {
+				["Transcendence: Transfer"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
+					["class"] = "MONK",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[5246] = true,
+						[119996] = true,
 					},
 				},
 				["Tranquility"] = {
@@ -7664,12 +7665,12 @@ NameplateCooldownsAceDB = {
 						[344867] = true,
 					},
 				},
-				["Escape Artist"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[20589] = true,
+						[13750] = true,
 					},
 				},
 				["Touch of Death"] = {
@@ -7688,12 +7689,12 @@ NameplateCooldownsAceDB = {
 						[51690] = true,
 					},
 				},
-				["Dismantle"] = {
+				["Celestial Alignment"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 45,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[207777] = true,
+						[194223] = true,
 					},
 				},
 				["Sigil of Chains"] = {
@@ -7704,12 +7705,12 @@ NameplateCooldownsAceDB = {
 						[202138] = true,
 					},
 				},
-				["Healing Tide Totem"] = {
+				["Spiritwalker's Grace"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 180,
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[108280] = true,
+						[79206] = true,
 					},
 				},
 				["Temporal Shield"] = {
@@ -7720,36 +7721,36 @@ NameplateCooldownsAceDB = {
 						[198111] = true,
 					},
 				},
-				["Illidan's Grasp"] = {
+				["Blood Fury"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[33697] = true,
+					},
+				},
+				["Ursol's Vortex"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
 					["cooldown"] = 60,
 					["spellIDs"] = {
-						[205630] = true,
+						[102793] = true,
 					},
 				},
-				["Sigil of Silence"] = {
+				["Thunderstorm"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
+					["class"] = "SHAMAN",
 					["cooldown"] = 30,
 					["spellIDs"] = {
-						[202137] = true,
+						[51490] = true,
 					},
 				},
-				["Frost Nova"] = {
+				["Summon Infernal"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 30,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[122] = true,
-					},
-				},
-				["Dispersion"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[47585] = true,
+						[1122] = true,
 					},
 				},
 				["Disengage"] = {
@@ -7760,12 +7761,12 @@ NameplateCooldownsAceDB = {
 						[781] = true,
 					},
 				},
-				["Faerie Swarm"] = {
+				["Incarnation: King of the Jungle"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 30,
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[209749] = true,
+						[102543] = true,
 					},
 				},
 				["Gift of the Naaru"] = {
@@ -7776,12 +7777,12 @@ NameplateCooldownsAceDB = {
 						[59543] = true,
 					},
 				},
-				["Dark Pact"] = {
+				["Rocket Jump"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
+					["class"] = "MISC",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[108416] = true,
+						[69070] = true,
 					},
 				},
 				["Eye of Leotheras"] = {
@@ -7816,12 +7817,12 @@ NameplateCooldownsAceDB = {
 						[2825] = true,
 					},
 				},
-				["Typhoon"] = {
+				["Renewal"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 30,
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[132469] = true,
+						[108238] = true,
 					},
 				},
 				["Leap of Faith"] = {
@@ -7832,20 +7833,20 @@ NameplateCooldownsAceDB = {
 						[73325] = true,
 					},
 				},
-				["Wind Shear"] = {
+				["Mighty Bash"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 9,
+					["class"] = "DRUID",
+					["cooldown"] = 54,
 					["spellIDs"] = {
-						[57994] = true,
+						[5211] = true,
 					},
 				},
-				["Shimmer"] = {
+				["Aura Mastery"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 25,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[212653] = true,
+						[31821] = true,
 					},
 				},
 				["Dash"] = {
@@ -7864,24 +7865,23 @@ NameplateCooldownsAceDB = {
 						[114052] = true,
 					},
 				},
-				["Spell Lock"] = {
+				["Incarnation: Tree of Life"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[19647] = true,
+						[33891] = true,
 					},
 				},
-				["Supernova"] = {
+				["Apocalypse"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 25,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[157980] = true,
+						[275699] = true,
 					},
 				},
 			},
-			["DBVersion"] = 11,
 			["MigrationVersion"] = 6,
 			["TimerTextSize"] = 13,
 		},
@@ -8419,7 +8419,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[202370] = {
+				[107574] = {
 					["enabled"] = true,
 				},
 				[202138] = {
@@ -8437,7 +8437,7 @@ NameplateCooldownsAceDB = {
 				[198817] = {
 					["enabled"] = true,
 				},
-				[315443] = {
+				[5246] = {
 					["enabled"] = true,
 				},
 				[32182] = {
@@ -8449,7 +8449,7 @@ NameplateCooldownsAceDB = {
 				[64843] = {
 					["enabled"] = true,
 				},
-				[48743] = {
+				[47528] = {
 					["enabled"] = true,
 				},
 				[307443] = {
@@ -8467,7 +8467,7 @@ NameplateCooldownsAceDB = {
 				[31224] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[119996] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -8479,7 +8479,7 @@ NameplateCooldownsAceDB = {
 				[108416] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[319454] = {
@@ -8494,10 +8494,10 @@ NameplateCooldownsAceDB = {
 				[233759] = {
 					["enabled"] = true,
 				},
-				[121471] = {
+				[184662] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[199483] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -8506,19 +8506,19 @@ NameplateCooldownsAceDB = {
 				[97462] = {
 					["enabled"] = true,
 				},
-				[327104] = {
+				[113858] = {
 					["enabled"] = true,
 				},
-				[310454] = {
+				[853] = {
 					["enabled"] = true,
 				},
-				[213602] = {
+				[19577] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[19647] = {
+				[115176] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -8527,37 +8527,37 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[89766] = {
+				[20484] = {
 					["enabled"] = true,
 				},
-				[122278] = {
-					["enabled"] = true,
-				},
-				[116849] = {
-					["enabled"] = true,
-				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[1719] = {
+				[19647] = {
 					["enabled"] = true,
 				},
 				[122470] = {
 					["enabled"] = true,
 				},
+				[187707] = {
+					["enabled"] = true,
+				},
 				[328530] = {
 					["enabled"] = true,
 				},
-				[109248] = {
+				[323547] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[212619] = {
+					["enabled"] = true,
+				},
+				[89766] = {
+					["enabled"] = true,
+				},
+				[108194] = {
+					["enabled"] = true,
+				},
+				[1719] = {
+					["enabled"] = true,
+				},
+				[23920] = {
 					["enabled"] = true,
 				},
 				[206649] = {
@@ -8569,7 +8569,7 @@ NameplateCooldownsAceDB = {
 				[221562] = {
 					["enabled"] = true,
 				},
-				[102342] = {
+				[344867] = {
 					["enabled"] = true,
 				},
 				[80483] = {
@@ -8578,19 +8578,19 @@ NameplateCooldownsAceDB = {
 				[329554] = {
 					["enabled"] = true,
 				},
-				[102793] = {
+				[33702] = {
 					["enabled"] = true,
 				},
-				[33891] = {
+				[114052] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[317009] = {
 					["enabled"] = true,
 				},
 				[102359] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[179057] = {
 					["enabled"] = true,
 				},
 				[58984] = {
@@ -8608,55 +8608,55 @@ NameplateCooldownsAceDB = {
 				[323546] = {
 					["enabled"] = true,
 				},
-				[132469] = {
+				[3411] = {
 					["enabled"] = true,
 				},
 				[108238] = {
 					["enabled"] = true,
 				},
-				[212459] = {
+				[191634] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[62618] = {
 					["enabled"] = true,
 				},
 				[36554] = {
 					["enabled"] = true,
 				},
-				[12975] = {
+				[20594] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[53271] = {
 					["enabled"] = true,
 				},
 				[196555] = {
 					["enabled"] = true,
 				},
+				[498] = {
+					["enabled"] = true,
+				},
 				[236320] = {
 					["enabled"] = true,
 				},
-				[498] = {
+				[307865] = {
 					["enabled"] = true,
 				},
 				[325216] = {
 					["enabled"] = true,
 				},
-				[740] = {
-					["enabled"] = true,
-				},
 				[102543] = {
-					["enabled"] = true,
-				},
-				[98008] = {
 					["enabled"] = true,
 				},
 				[202914] = {
 					["enabled"] = true,
 				},
-				[195676] = {
+				[98008] = {
 					["enabled"] = true,
 				},
-				[22570] = {
+				[327661] = {
+					["enabled"] = true,
+				},
+				[781] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -8668,13 +8668,13 @@ NameplateCooldownsAceDB = {
 				[69041] = {
 					["enabled"] = true,
 				},
-				[328923] = {
+				[22570] = {
+					["enabled"] = true,
+				},
+				[323654] = {
 					["enabled"] = true,
 				},
 				[106951] = {
-					["enabled"] = true,
-				},
-				[6940] = {
 					["enabled"] = true,
 				},
 				[283167] = {
@@ -8683,16 +8683,16 @@ NameplateCooldownsAceDB = {
 				[871] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[304971] = {
+				[316262] = {
 					["enabled"] = true,
 				},
-				[343142] = {
+				[185313] = {
 					["enabled"] = true,
 				},
 				[122] = {
@@ -8707,31 +8707,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[343142] = {
 					["enabled"] = true,
 				},
-				[316262] = {
+				[304971] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[6940] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[328923] = {
 					["enabled"] = true,
 				},
-				[327661] = {
+				[195676] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[307865] = {
+				[740] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -8740,25 +8740,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[53271] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[20594] = {
+				[12975] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[31821] = {
 					["enabled"] = true,
 				},
-				[191634] = {
+				[212459] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[132469] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -8767,34 +8767,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[194223] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[102560] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[33891] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[102793] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[344867] = {
+				[102342] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[212619] = {
+				[109248] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -8803,31 +8803,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[20484] = {
+				[116849] = {
 					["enabled"] = true,
 				},
-				[115176] = {
+				[122278] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[213602] = {
 					["enabled"] = true,
 				},
-				[853] = {
+				[310454] = {
 					["enabled"] = true,
 				},
-				[113858] = {
+				[327104] = {
 					["enabled"] = true,
 				},
-				[199483] = {
+				[326860] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[121471] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -8839,10 +8839,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[47528] = {
+				[48743] = {
 					["enabled"] = true,
 				},
-				[5246] = {
+				[315443] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -8851,7 +8851,7 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[107574] = {
+				[202370] = {
 					["enabled"] = true,
 				},
 			},
@@ -9397,7 +9397,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[325640] = {
+				[51485] = {
 					["enabled"] = true,
 				},
 				[315443] = {
@@ -9412,16 +9412,16 @@ NameplateCooldownsAceDB = {
 				[115176] = {
 					["enabled"] = true,
 				},
-				[327104] = {
+				[47476] = {
 					["enabled"] = true,
 				},
 				[198817] = {
 					["enabled"] = true,
 				},
-				[32182] = {
+				[5211] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[32182] = {
 					["enabled"] = true,
 				},
 				[212295] = {
@@ -9442,13 +9442,13 @@ NameplateCooldownsAceDB = {
 				[205191] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[198013] = {
 					["enabled"] = true,
 				},
 				[853] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -9460,7 +9460,7 @@ NameplateCooldownsAceDB = {
 				[108416] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[319454] = {
@@ -9469,16 +9469,16 @@ NameplateCooldownsAceDB = {
 				[55342] = {
 					["enabled"] = true,
 				},
-				[408] = {
+				[196555] = {
 					["enabled"] = true,
 				},
 				[233759] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[31224] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[31821] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -9487,19 +9487,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[317009] = {
 					["enabled"] = true,
 				},
-				[48265] = {
+				[307865] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[33697] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[113858] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -9508,31 +9508,31 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[323546] = {
-					["enabled"] = true,
-				},
 				[19647] = {
 					["enabled"] = true,
 				},
-				[122470] = {
-					["enabled"] = true,
-				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[108199] = {
+				[323546] = {
 					["enabled"] = true,
 				},
 				[89766] = {
 					["enabled"] = true,
 				},
-				[328530] = {
+				[187707] = {
+					["enabled"] = true,
+				},
+				[194223] = {
+					["enabled"] = true,
+				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[23920] = {
+					["enabled"] = true,
+				},
+				[122470] = {
+					["enabled"] = true,
+				},
+				[108194] = {
 					["enabled"] = true,
 				},
 				[1719] = {
@@ -9541,7 +9541,7 @@ NameplateCooldownsAceDB = {
 				[113860] = {
 					["enabled"] = true,
 				},
-				[227847] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[210256] = {
@@ -9553,22 +9553,22 @@ NameplateCooldownsAceDB = {
 				[3411] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[116849] = {
 					["enabled"] = true,
 				},
 				[329554] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[115750] = {
 					["enabled"] = true,
 				},
-				[269352] = {
+				[114052] = {
 					["enabled"] = true,
 				},
 				[77130] = {
 					["enabled"] = true,
 				},
-				[191634] = {
+				[46968] = {
 					["enabled"] = true,
 				},
 				[211004] = {
@@ -9586,25 +9586,25 @@ NameplateCooldownsAceDB = {
 				[59543] = {
 					["enabled"] = true,
 				},
-				[324724] = {
+				[206649] = {
 					["enabled"] = true,
 				},
 				[527] = {
 					["enabled"] = true,
 				},
-				[304971] = {
+				[109248] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[102560] = {
 					["enabled"] = true,
 				},
 				[69179] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[2094] = {
 					["enabled"] = true,
 				},
-				[5384] = {
+				[53271] = {
 					["enabled"] = true,
 				},
 				[33702] = {
@@ -9613,31 +9613,31 @@ NameplateCooldownsAceDB = {
 				[185313] = {
 					["enabled"] = true,
 				},
-				[202370] = {
+				[266779] = {
 					["enabled"] = true,
 				},
 				[498] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[325216] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[740] = {
 					["enabled"] = true,
 				},
 				[102543] = {
 					["enabled"] = true,
 				},
+				[781] = {
+					["enabled"] = true,
+				},
 				[202914] = {
 					["enabled"] = true,
 				},
-				[98008] = {
+				[212638] = {
 					["enabled"] = true,
 				},
-				[50613] = {
-					["enabled"] = true,
-				},
-				[328923] = {
+				[122] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -9649,28 +9649,28 @@ NameplateCooldownsAceDB = {
 				[69041] = {
 					["enabled"] = true,
 				},
-				[22570] = {
-					["enabled"] = true,
-				},
-				[6940] = {
+				[328923] = {
 					["enabled"] = true,
 				},
 				[106951] = {
 					["enabled"] = true,
 				},
-				[195676] = {
+				[6940] = {
+					["enabled"] = true,
+				},
+				[108280] = {
 					["enabled"] = true,
 				},
 				[871] = {
 					["enabled"] = true,
 				},
-				[122278] = {
+				[236320] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[212619] = {
+				[305483] = {
 					["enabled"] = true,
 				},
 				[283167] = {
@@ -9688,31 +9688,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[212619] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[122278] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[195676] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[22570] = {
 					["enabled"] = true,
 				},
-				[212638] = {
+				[50613] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[98008] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[266779] = {
+				[202370] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -9721,25 +9721,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[53271] = {
+				[5384] = {
 					["enabled"] = true,
 				},
-				[2094] = {
+				[62618] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[184662] = {
 					["enabled"] = true,
 				},
-				[109248] = {
+				[304971] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[206649] = {
+				[324724] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -9748,34 +9748,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[46968] = {
+				[191634] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[269352] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[320674] = {
 					["enabled"] = true,
 				},
-				[116849] = {
+				[97462] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[227847] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[328530] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -9784,31 +9784,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[113858] = {
+				[323639] = {
 					["enabled"] = true,
 				},
-				[33697] = {
+				[179057] = {
 					["enabled"] = true,
 				},
-				[307865] = {
+				[48265] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[119996] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[31224] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[408] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[19577] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -9820,10 +9820,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[5211] = {
+				[326860] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[327104] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -9832,7 +9832,7 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[51485] = {
+				[325640] = {
 					["enabled"] = true,
 				},
 			},
@@ -10370,7 +10370,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[113860] = {
+				[51485] = {
 					["enabled"] = true,
 				},
 				[202138] = {
@@ -10388,10 +10388,10 @@ NameplateCooldownsAceDB = {
 				[198817] = {
 					["enabled"] = true,
 				},
-				[32182] = {
+				[33697] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[32182] = {
 					["enabled"] = true,
 				},
 				[212295] = {
@@ -10400,7 +10400,7 @@ NameplateCooldownsAceDB = {
 				[64843] = {
 					["enabled"] = true,
 				},
-				[327104] = {
+				[283167] = {
 					["enabled"] = true,
 				},
 				[307443] = {
@@ -10418,7 +10418,7 @@ NameplateCooldownsAceDB = {
 				[31224] = {
 					["enabled"] = true,
 				},
-				[55342] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -10436,7 +10436,7 @@ NameplateCooldownsAceDB = {
 				[319454] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[55342] = {
 					["enabled"] = true,
 				},
 				[408] = {
@@ -10445,10 +10445,10 @@ NameplateCooldownsAceDB = {
 				[233759] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[205191] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[853] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -10457,19 +10457,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[31821] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[19577] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[323639] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -10478,37 +10478,37 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
+				[89766] = {
+					["enabled"] = true,
+				},
 				[323546] = {
-					["enabled"] = true,
-				},
-				[122278] = {
-					["enabled"] = true,
-				},
-				[116849] = {
-					["enabled"] = true,
-				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[108194] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[109248] = {
 					["enabled"] = true,
 				},
 				[122470] = {
 					["enabled"] = true,
 				},
+				[187707] = {
+					["enabled"] = true,
+				},
 				[328530] = {
 					["enabled"] = true,
 				},
-				[1719] = {
+				[323547] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[194223] = {
+					["enabled"] = true,
+				},
+				[116849] = {
+					["enabled"] = true,
+				},
+				[108194] = {
+					["enabled"] = true,
+				},
+				[109248] = {
+					["enabled"] = true,
+				},
+				[23920] = {
 					["enabled"] = true,
 				},
 				[325640] = {
@@ -10520,7 +10520,7 @@ NameplateCooldownsAceDB = {
 				[221562] = {
 					["enabled"] = true,
 				},
-				[227847] = {
+				[122] = {
 					["enabled"] = true,
 				},
 				[307865] = {
@@ -10529,19 +10529,19 @@ NameplateCooldownsAceDB = {
 				[329554] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[115750] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[114052] = {
 					["enabled"] = true,
 				},
-				[269352] = {
+				[47476] = {
 					["enabled"] = true,
 				},
 				[77130] = {
 					["enabled"] = true,
 				},
-				[191634] = {
+				[206649] = {
 					["enabled"] = true,
 				},
 				[58984] = {
@@ -10559,25 +10559,25 @@ NameplateCooldownsAceDB = {
 				[2094] = {
 					["enabled"] = true,
 				},
-				[327661] = {
+				[324724] = {
 					["enabled"] = true,
 				},
 				[202370] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[1022] = {
 					["enabled"] = true,
 				},
-				[304971] = {
+				[62618] = {
 					["enabled"] = true,
 				},
 				[185313] = {
 					["enabled"] = true,
 				},
-				[19647] = {
+				[781] = {
 					["enabled"] = true,
 				},
-				[69179] = {
+				[266779] = {
 					["enabled"] = true,
 				},
 				[212638] = {
@@ -10589,7 +10589,7 @@ NameplateCooldownsAceDB = {
 				[498] = {
 					["enabled"] = true,
 				},
-				[113858] = {
+				[325216] = {
 					["enabled"] = true,
 				},
 				[740] = {
@@ -10598,16 +10598,16 @@ NameplateCooldownsAceDB = {
 				[102543] = {
 					["enabled"] = true,
 				},
-				[98008] = {
-					["enabled"] = true,
-				},
 				[202914] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[98008] = {
 					["enabled"] = true,
 				},
-				[328923] = {
+				[196555] = {
+					["enabled"] = true,
+				},
+				[108280] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -10619,10 +10619,10 @@ NameplateCooldownsAceDB = {
 				[69041] = {
 					["enabled"] = true,
 				},
-				[22570] = {
+				[328923] = {
 					["enabled"] = true,
 				},
-				[195676] = {
+				[106951] = {
 					["enabled"] = true,
 				},
 				[6940] = {
@@ -10634,16 +10634,16 @@ NameplateCooldownsAceDB = {
 				[871] = {
 					["enabled"] = true,
 				},
-				[231895] = {
+				[236320] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[212619] = {
+				[305483] = {
 					["enabled"] = true,
 				},
-				[344867] = {
+				[217832] = {
 					["enabled"] = true,
 				},
 				[115781] = {
@@ -10658,31 +10658,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[217832] = {
+				[344867] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[212619] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[231895] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[106951] = {
+				[195676] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[22570] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[119996] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[113858] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -10691,25 +10691,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[266779] = {
+				[69179] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[19647] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[304971] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[527] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[324724] = {
+				[327661] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -10718,34 +10718,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[206649] = {
+				[191634] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[269352] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[320674] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[97462] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[227847] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[1719] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -10754,31 +10754,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[89766] = {
+				[122278] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[198013] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[317009] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[179057] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[102560] = {
 					["enabled"] = true,
 				},
-				[853] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[205191] = {
+				[323654] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[3411] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -10790,10 +10790,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[283167] = {
+				[327104] = {
 					["enabled"] = true,
 				},
-				[33697] = {
+				[326860] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -10802,7 +10802,7 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[51485] = {
+				[113860] = {
 					["enabled"] = true,
 				},
 			},
@@ -11342,7 +11342,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[113860] = {
+				[344867] = {
 					["enabled"] = true,
 				},
 				[202138] = {
@@ -11360,10 +11360,10 @@ NameplateCooldownsAceDB = {
 				[198817] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[283167] = {
 					["enabled"] = true,
 				},
-				[32182] = {
+				[326860] = {
 					["enabled"] = true,
 				},
 				[212295] = {
@@ -11372,7 +11372,7 @@ NameplateCooldownsAceDB = {
 				[64843] = {
 					["enabled"] = true,
 				},
-				[327104] = {
+				[33697] = {
 					["enabled"] = true,
 				},
 				[307443] = {
@@ -11390,7 +11390,7 @@ NameplateCooldownsAceDB = {
 				[31224] = {
 					["enabled"] = true,
 				},
-				[31821] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -11417,10 +11417,10 @@ NameplateCooldownsAceDB = {
 				[233759] = {
 					["enabled"] = true,
 				},
-				[408] = {
+				[198529] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[184662] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -11429,19 +11429,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[1022] = {
 					["enabled"] = true,
 				},
-				[206649] = {
+				[198013] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[19577] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[323639] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -11450,37 +11450,37 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
+				[325640] = {
+					["enabled"] = true,
+				},
 				[122278] = {
-					["enabled"] = true,
-				},
-				[323546] = {
-					["enabled"] = true,
-				},
-				[89766] = {
-					["enabled"] = true,
-				},
-				[187707] = {
 					["enabled"] = true,
 				},
 				[116849] = {
 					["enabled"] = true,
 				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[1719] = {
+				[187707] = {
 					["enabled"] = true,
 				},
 				[122470] = {
 					["enabled"] = true,
 				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[194223] = {
+					["enabled"] = true,
+				},
+				[89766] = {
+					["enabled"] = true,
+				},
 				[328530] = {
 					["enabled"] = true,
 				},
-				[109248] = {
+				[1719] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[23920] = {
 					["enabled"] = true,
 				},
 				[853] = {
@@ -11492,7 +11492,7 @@ NameplateCooldownsAceDB = {
 				[221562] = {
 					["enabled"] = true,
 				},
-				[227847] = {
+				[307865] = {
 					["enabled"] = true,
 				},
 				[47476] = {
@@ -11501,19 +11501,19 @@ NameplateCooldownsAceDB = {
 				[329554] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[115750] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[114052] = {
 					["enabled"] = true,
 				},
-				[269352] = {
+				[77130] = {
 					["enabled"] = true,
 				},
 				[122] = {
 					["enabled"] = true,
 				},
-				[191634] = {
+				[211004] = {
 					["enabled"] = true,
 				},
 				[58984] = {
@@ -11531,25 +11531,25 @@ NameplateCooldownsAceDB = {
 				[119996] = {
 					["enabled"] = true,
 				},
-				[327661] = {
+				[324724] = {
 					["enabled"] = true,
 				},
 				[5211] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[102560] = {
 					["enabled"] = true,
 				},
-				[108194] = {
+				[304971] = {
 					["enabled"] = true,
 				},
 				[2094] = {
 					["enabled"] = true,
 				},
-				[102359] = {
+				[185313] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[19647] = {
 					["enabled"] = true,
 				},
 				[46968] = {
@@ -11561,25 +11561,25 @@ NameplateCooldownsAceDB = {
 				[498] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[266779] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[325216] = {
 					["enabled"] = true,
 				},
 				[102543] = {
 					["enabled"] = true,
 				},
-				[202914] = {
-					["enabled"] = true,
-				},
 				[98008] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[202914] = {
 					["enabled"] = true,
 				},
-				[22570] = {
+				[781] = {
+					["enabled"] = true,
+				},
+				[196555] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -11591,10 +11591,10 @@ NameplateCooldownsAceDB = {
 				[69041] = {
 					["enabled"] = true,
 				},
-				[328923] = {
+				[22570] = {
 					["enabled"] = true,
 				},
-				[202370] = {
+				[106951] = {
 					["enabled"] = true,
 				},
 				[6940] = {
@@ -11606,16 +11606,16 @@ NameplateCooldownsAceDB = {
 				[871] = {
 					["enabled"] = true,
 				},
-				[50613] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[212619] = {
+				[113858] = {
 					["enabled"] = true,
 				},
-				[49039] = {
+				[236320] = {
 					["enabled"] = true,
 				},
 				[217832] = {
@@ -11630,31 +11630,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[49039] = {
 					["enabled"] = true,
 				},
-				[113858] = {
+				[212619] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[50613] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[106951] = {
+				[202370] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[328923] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[33702] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[266779] = {
+				[740] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -11663,25 +11663,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[19647] = {
+				[62618] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[102359] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[304971] = {
+				[108194] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[527] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[324724] = {
+				[327661] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -11690,34 +11690,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[211004] = {
+				[191634] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[77130] = {
+				[269352] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[320674] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[97462] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[307865] = {
+				[227847] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[109248] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -11726,31 +11726,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[325640] = {
+				[323546] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[317009] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[179057] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[206649] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[408] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[31821] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -11762,10 +11762,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[33697] = {
+				[327104] = {
 					["enabled"] = true,
 				},
-				[283167] = {
+				[32182] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -11774,7 +11774,7 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[344867] = {
+				[113860] = {
 					["enabled"] = true,
 				},
 			},
@@ -12322,7 +12322,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[190319] = {
+				[5384] = {
 					["enabled"] = true,
 				},
 				[113860] = {
@@ -12337,13 +12337,13 @@ NameplateCooldownsAceDB = {
 				[315443] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[51485] = {
 					["enabled"] = true,
 				},
 				[198817] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[32182] = {
 					["enabled"] = true,
 				},
 				[326860] = {
@@ -12367,13 +12367,13 @@ NameplateCooldownsAceDB = {
 				[323764] = {
 					["enabled"] = true,
 				},
-				[212552] = {
+				[283167] = {
 					["enabled"] = true,
 				},
 				[31224] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[55342] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -12385,25 +12385,25 @@ NameplateCooldownsAceDB = {
 				[108416] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[212552] = {
 					["enabled"] = true,
 				},
 				[319454] = {
 					["enabled"] = true,
 				},
-				[55342] = {
+				[3411] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[408] = {
 					["enabled"] = true,
 				},
 				[233759] = {
 					["enabled"] = true,
 				},
-				[212459] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[328305] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -12412,19 +12412,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[102560] = {
 					["enabled"] = true,
 				},
-				[205191] = {
+				[179057] = {
 					["enabled"] = true,
 				},
-				[231895] = {
+				[317009] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[198013] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -12433,40 +12433,40 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[122278] = {
-					["enabled"] = true,
-				},
 				[323546] = {
 					["enabled"] = true,
 				},
-				[89766] = {
-					["enabled"] = true,
-				},
-				[187707] = {
-					["enabled"] = true,
-				},
-				[109248] = {
-					["enabled"] = true,
-				},
-				[323547] = {
-					["enabled"] = true,
-				},
-				[23920] = {
+				[122278] = {
 					["enabled"] = true,
 				},
 				[116849] = {
 					["enabled"] = true,
 				},
+				[187707] = {
+					["enabled"] = true,
+				},
+				[122470] = {
+					["enabled"] = true,
+				},
+				[323547] = {
+					["enabled"] = true,
+				},
+				[108199] = {
+					["enabled"] = true,
+				},
+				[89766] = {
+					["enabled"] = true,
+				},
 				[108194] = {
 					["enabled"] = true,
 				},
-				[1719] = {
+				[109248] = {
 					["enabled"] = true,
 				},
 				[328530] = {
 					["enabled"] = true,
 				},
-				[853] = {
+				[325640] = {
 					["enabled"] = true,
 				},
 				[210256] = {
@@ -12478,22 +12478,22 @@ NameplateCooldownsAceDB = {
 				[227847] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[307865] = {
 					["enabled"] = true,
 				},
 				[329554] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[97462] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[320674] = {
 					["enabled"] = true,
 				},
 				[269352] = {
 					["enabled"] = true,
 				},
-				[206649] = {
+				[77130] = {
 					["enabled"] = true,
 				},
 				[191634] = {
@@ -12511,25 +12511,25 @@ NameplateCooldownsAceDB = {
 				[59543] = {
 					["enabled"] = true,
 				},
-				[19577] = {
+				[2094] = {
 					["enabled"] = true,
 				},
 				[327661] = {
 					["enabled"] = true,
 				},
-				[46968] = {
+				[324724] = {
 					["enabled"] = true,
 				},
-				[202370] = {
+				[527] = {
 					["enabled"] = true,
 				},
 				[304971] = {
 					["enabled"] = true,
 				},
-				[185313] = {
+				[102359] = {
 					["enabled"] = true,
 				},
-				[69179] = {
+				[62618] = {
 					["enabled"] = true,
 				},
 				[19647] = {
@@ -12538,31 +12538,31 @@ NameplateCooldownsAceDB = {
 				[113858] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[266779] = {
 					["enabled"] = true,
 				},
 				[498] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[740] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[325216] = {
 					["enabled"] = true,
 				},
 				[102543] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[98008] = {
 					["enabled"] = true,
 				},
 				[202914] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[33702] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[328923] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -12577,25 +12577,25 @@ NameplateCooldownsAceDB = {
 				[22570] = {
 					["enabled"] = true,
 				},
-				[6940] = {
-					["enabled"] = true,
-				},
 				[106951] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[6940] = {
+					["enabled"] = true,
+				},
+				[195676] = {
 					["enabled"] = true,
 				},
 				[871] = {
 					["enabled"] = true,
 				},
-				[217832] = {
+				[50613] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[102793] = {
+				[1022] = {
 					["enabled"] = true,
 				},
 				[212619] = {
@@ -12613,31 +12613,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[102793] = {
 					["enabled"] = true,
 				},
-				[50613] = {
+				[217832] = {
 					["enabled"] = true,
 				},
-				[195676] = {
+				[305483] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[328923] = {
+				[119996] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[236320] = {
 					["enabled"] = true,
 				},
-				[98008] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[266779] = {
+				[781] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -12646,25 +12646,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[69179] = {
 					["enabled"] = true,
 				},
-				[102359] = {
+				[185313] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[202370] = {
 					["enabled"] = true,
 				},
-				[324724] = {
+				[46968] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[2094] = {
+				[19577] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -12673,34 +12673,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[77130] = {
+				[206649] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[194223] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[114052] = {
 					["enabled"] = true,
 				},
-				[307865] = {
+				[115750] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[325640] = {
+				[853] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[23920] = {
 					["enabled"] = true,
 				},
-				[122470] = {
+				[1719] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -12709,31 +12709,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[323639] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[231895] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[205191] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[184662] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[198529] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[212459] = {
 					["enabled"] = true,
 				},
-				[408] = {
+				[196555] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[283167] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -12745,10 +12745,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[32182] = {
+				[47476] = {
 					["enabled"] = true,
 				},
-				[51485] = {
+				[122] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -12757,14 +12757,13 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[5384] = {
+				[190319] = {
 					["enabled"] = true,
 				},
 			},
 		},
 		["Emmortal - Draenor"] = {
 			["DBVersion"] = 11,
-			["MigrationVersion"] = 7,
 			["SpellCDs"] = {
 				[47585] = {
 					["enabled"] = true,
@@ -13303,7 +13302,7 @@ NameplateCooldownsAceDB = {
 				[47788] = {
 					["enabled"] = true,
 				},
-				[5384] = {
+				[102793] = {
 					["enabled"] = true,
 				},
 				[113860] = {
@@ -13318,13 +13317,13 @@ NameplateCooldownsAceDB = {
 				[315443] = {
 					["enabled"] = true,
 				},
-				[1022] = {
+				[33697] = {
 					["enabled"] = true,
 				},
 				[198817] = {
 					["enabled"] = true,
 				},
-				[327104] = {
+				[326860] = {
 					["enabled"] = true,
 				},
 				[32182] = {
@@ -13348,13 +13347,13 @@ NameplateCooldownsAceDB = {
 				[206649] = {
 					["enabled"] = true,
 				},
-				[205191] = {
+				[5277] = {
 					["enabled"] = true,
 				},
 				[31224] = {
 					["enabled"] = true,
 				},
-				[3411] = {
+				[55342] = {
 					["enabled"] = true,
 				},
 				[88423] = {
@@ -13372,19 +13371,19 @@ NameplateCooldownsAceDB = {
 				[319454] = {
 					["enabled"] = true,
 				},
-				[55342] = {
+				[3411] = {
 					["enabled"] = true,
 				},
-				[408] = {
+				[198529] = {
 					["enabled"] = true,
 				},
 				[233759] = {
 					["enabled"] = true,
 				},
-				[323654] = {
+				[231895] = {
 					["enabled"] = true,
 				},
-				[328305] = {
+				[204331] = {
 					["enabled"] = true,
 				},
 				[20589] = {
@@ -13393,19 +13392,19 @@ NameplateCooldownsAceDB = {
 				[316262] = {
 					["enabled"] = true,
 				},
-				[10060] = {
+				[184662] = {
 					["enabled"] = true,
 				},
-				[179057] = {
+				[853] = {
 					["enabled"] = true,
 				},
-				[317009] = {
+				[323639] = {
 					["enabled"] = true,
 				},
 				[329038] = {
 					["enabled"] = true,
 				},
-				[198013] = {
+				[86659] = {
 					["enabled"] = true,
 				},
 				[323673] = {
@@ -13414,10 +13413,10 @@ NameplateCooldownsAceDB = {
 				[69070] = {
 					["enabled"] = true,
 				},
-				[122278] = {
+				[323546] = {
 					["enabled"] = true,
 				},
-				[323546] = {
+				[122278] = {
 					["enabled"] = true,
 				},
 				[113858] = {
@@ -13426,16 +13425,16 @@ NameplateCooldownsAceDB = {
 				[187707] = {
 					["enabled"] = true,
 				},
-				[89766] = {
+				[194223] = {
 					["enabled"] = true,
 				},
 				[323547] = {
 					["enabled"] = true,
 				},
-				[108199] = {
+				[23920] = {
 					["enabled"] = true,
 				},
-				[122470] = {
+				[89766] = {
 					["enabled"] = true,
 				},
 				[108194] = {
@@ -13447,7 +13446,7 @@ NameplateCooldownsAceDB = {
 				[328530] = {
 					["enabled"] = true,
 				},
-				[227847] = {
+				[116849] = {
 					["enabled"] = true,
 				},
 				[210256] = {
@@ -13459,22 +13458,22 @@ NameplateCooldownsAceDB = {
 				[307865] = {
 					["enabled"] = true,
 				},
-				[97462] = {
+				[114052] = {
 					["enabled"] = true,
 				},
 				[329554] = {
 					["enabled"] = true,
 				},
-				[320674] = {
+				[47476] = {
 					["enabled"] = true,
 				},
-				[269352] = {
+				[115750] = {
 					["enabled"] = true,
 				},
 				[77130] = {
 					["enabled"] = true,
 				},
-				[191634] = {
+				[119996] = {
 					["enabled"] = true,
 				},
 				[211004] = {
@@ -13492,25 +13491,25 @@ NameplateCooldownsAceDB = {
 				[59543] = {
 					["enabled"] = true,
 				},
-				[327661] = {
+				[102560] = {
 					["enabled"] = true,
 				},
 				[324724] = {
 					["enabled"] = true,
 				},
-				[527] = {
+				[202370] = {
 					["enabled"] = true,
 				},
-				[46968] = {
+				[2094] = {
 					["enabled"] = true,
 				},
 				[304971] = {
 					["enabled"] = true,
 				},
-				[102359] = {
+				[781] = {
 					["enabled"] = true,
 				},
-				[62618] = {
+				[122] = {
 					["enabled"] = true,
 				},
 				[19647] = {
@@ -13519,31 +13518,31 @@ NameplateCooldownsAceDB = {
 				[69179] = {
 					["enabled"] = true,
 				},
-				[325640] = {
+				[266779] = {
 					["enabled"] = true,
 				},
 				[498] = {
 					["enabled"] = true,
 				},
-				[740] = {
+				[325216] = {
 					["enabled"] = true,
 				},
-				[325216] = {
+				[740] = {
 					["enabled"] = true,
 				},
 				[102543] = {
 					["enabled"] = true,
 				},
-				[33702] = {
+				[236320] = {
 					["enabled"] = true,
 				},
 				[98008] = {
 					["enabled"] = true,
 				},
-				[109248] = {
+				[305483] = {
 					["enabled"] = true,
 				},
-				[328923] = {
+				[217832] = {
 					["enabled"] = true,
 				},
 				[209749] = {
@@ -13555,28 +13554,28 @@ NameplateCooldownsAceDB = {
 				[69041] = {
 					["enabled"] = true,
 				},
-				[22570] = {
-					["enabled"] = true,
-				},
-				[6940] = {
+				[328923] = {
 					["enabled"] = true,
 				},
 				[106951] = {
 					["enabled"] = true,
 				},
-				[108280] = {
+				[6940] = {
+					["enabled"] = true,
+				},
+				[283167] = {
 					["enabled"] = true,
 				},
 				[871] = {
 					["enabled"] = true,
 				},
-				[50613] = {
+				[202914] = {
 					["enabled"] = true,
 				},
 				[30283] = {
 					["enabled"] = true,
 				},
-				[196555] = {
+				[33206] = {
 					["enabled"] = true,
 				},
 				[212619] = {
@@ -13594,31 +13593,31 @@ NameplateCooldownsAceDB = {
 				[32375] = {
 					["enabled"] = true,
 				},
-				[33206] = {
+				[196555] = {
 					["enabled"] = true,
 				},
-				[202914] = {
+				[50613] = {
 					["enabled"] = true,
 				},
-				[283167] = {
+				[108280] = {
 					["enabled"] = true,
 				},
 				[192058] = {
 					["enabled"] = true,
 				},
-				[217832] = {
+				[22570] = {
 					["enabled"] = true,
 				},
-				[305483] = {
+				[109248] = {
 					["enabled"] = true,
 				},
-				[236320] = {
+				[33702] = {
 					["enabled"] = true,
 				},
 				[216331] = {
 					["enabled"] = true,
 				},
-				[266779] = {
+				[325640] = {
 					["enabled"] = true,
 				},
 				[2983] = {
@@ -13627,25 +13626,25 @@ NameplateCooldownsAceDB = {
 				[59752] = {
 					["enabled"] = true,
 				},
-				[122] = {
+				[62618] = {
 					["enabled"] = true,
 				},
-				[781] = {
+				[102359] = {
 					["enabled"] = true,
 				},
 				[47536] = {
 					["enabled"] = true,
 				},
-				[2094] = {
+				[46968] = {
 					["enabled"] = true,
 				},
-				[202370] = {
+				[527] = {
 					["enabled"] = true,
 				},
 				[328547] = {
 					["enabled"] = true,
 				},
-				[102560] = {
+				[327661] = {
 					["enabled"] = true,
 				},
 				[306830] = {
@@ -13654,34 +13653,34 @@ NameplateCooldownsAceDB = {
 				[308491] = {
 					["enabled"] = true,
 				},
-				[119996] = {
+				[191634] = {
 					["enabled"] = true,
 				},
 				[22842] = {
 					["enabled"] = true,
 				},
-				[115750] = {
+				[269352] = {
 					["enabled"] = true,
 				},
-				[47476] = {
+				[320674] = {
 					["enabled"] = true,
 				},
-				[114052] = {
+				[97462] = {
 					["enabled"] = true,
 				},
 				[113724] = {
 					["enabled"] = true,
 				},
-				[116849] = {
+				[227847] = {
 					["enabled"] = true,
 				},
 				[42650] = {
 					["enabled"] = true,
 				},
-				[23920] = {
+				[108199] = {
 					["enabled"] = true,
 				},
-				[194223] = {
+				[122470] = {
 					["enabled"] = true,
 				},
 				[212182] = {
@@ -13690,31 +13689,31 @@ NameplateCooldownsAceDB = {
 				[190784] = {
 					["enabled"] = true,
 				},
-				[86659] = {
+				[198013] = {
 					["enabled"] = true,
 				},
-				[323639] = {
+				[317009] = {
 					["enabled"] = true,
 				},
-				[853] = {
+				[179057] = {
 					["enabled"] = true,
 				},
-				[184662] = {
+				[10060] = {
 					["enabled"] = true,
 				},
-				[204331] = {
+				[328305] = {
 					["enabled"] = true,
 				},
-				[231895] = {
+				[323654] = {
 					["enabled"] = true,
 				},
-				[198529] = {
+				[408] = {
 					["enabled"] = true,
 				},
 				[205604] = {
 					["enabled"] = true,
 				},
-				[5277] = {
+				[205191] = {
 					["enabled"] = true,
 				},
 				[25046] = {
@@ -13726,10 +13725,10 @@ NameplateCooldownsAceDB = {
 				[1766] = {
 					["enabled"] = true,
 				},
-				[326860] = {
+				[327104] = {
 					["enabled"] = true,
 				},
-				[33697] = {
+				[1022] = {
 					["enabled"] = true,
 				},
 				[198898] = {
@@ -13738,13 +13737,13 @@ NameplateCooldownsAceDB = {
 				[115450] = {
 					["enabled"] = true,
 				},
-				[102793] = {
+				[5384] = {
 					["enabled"] = true,
 				},
 			},
+			["MigrationVersion"] = 7,
 		},
 		["Hæmorrhoid - Draenor"] = {
-			["DBVersion"] = 11,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -13818,12 +13817,12 @@ NameplateCooldownsAceDB = {
 						[113724] = true,
 					},
 				},
-				["Supernova"] = {
+				["Apocalypse"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 25,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[157980] = true,
+						[275699] = true,
 					},
 				},
 				["Blind"] = {
@@ -13834,12 +13833,12 @@ NameplateCooldownsAceDB = {
 						[2094] = true,
 					},
 				},
-				["Spell Lock"] = {
+				["Incarnation: Tree of Life"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[19647] = true,
+						[33891] = true,
 					},
 				},
 				["Counter Shot"] = {
@@ -13874,12 +13873,12 @@ NameplateCooldownsAceDB = {
 						[212459] = true,
 					},
 				},
-				["Death Grip"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 20,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[49576] = true,
+						[51485] = true,
 					},
 				},
 				["Mighty Ox Kick"] = {
@@ -13922,20 +13921,20 @@ NameplateCooldownsAceDB = {
 						[316262] = true,
 					},
 				},
-				["Shimmer"] = {
+				["Aura Mastery"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 25,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[212653] = true,
+						[31821] = true,
 					},
 				},
-				["Earthgrab Totem"] = {
+				["Death Grip"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[51485] = true,
+						[49576] = true,
 					},
 				},
 				["Summon Gargoyle"] = {
@@ -13986,12 +13985,12 @@ NameplateCooldownsAceDB = {
 						[108978] = true,
 					},
 				},
-				["Wind Shear"] = {
+				["Mighty Bash"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 9,
+					["class"] = "DRUID",
+					["cooldown"] = 54,
 					["spellIDs"] = {
-						[57994] = true,
+						[5211] = true,
 					},
 				},
 				["Frozen Orb"] = {
@@ -14018,12 +14017,12 @@ NameplateCooldownsAceDB = {
 						[209584] = true,
 					},
 				},
-				["Typhoon"] = {
+				["Renewal"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 30,
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[132469] = true,
+						[108238] = true,
 					},
 				},
 				["Rain from Above"] = {
@@ -14178,12 +14177,12 @@ NameplateCooldownsAceDB = {
 						[19577] = true,
 					},
 				},
-				["Dark Pact"] = {
+				["Rocket Jump"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
+					["class"] = "MISC",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[108416] = true,
+						[69070] = true,
 					},
 				},
 				["Divine Steed"] = {
@@ -14234,28 +14233,12 @@ NameplateCooldownsAceDB = {
 						[33206] = true,
 					},
 				},
-				["Faerie Swarm"] = {
+				["Incarnation: King of the Jungle"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 30,
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[209749] = true,
-					},
-				},
-				["Power Word: Barrier"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[62618] = true,
-					},
-				},
-				["Dispersion"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[47585] = true,
+						[102543] = true,
 					},
 				},
 				["Dancing Rune Weapon"] = {
@@ -14266,6 +14249,22 @@ NameplateCooldownsAceDB = {
 						[49028] = true,
 					},
 				},
+				["Summon Infernal"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[1122] = true,
+					},
+				},
+				["Power Word: Barrier"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[62618] = true,
+					},
+				},
 				["Gorefiend's Grasp"] = {
 					["enabled"] = true,
 					["class"] = "DEATHKNIGHT",
@@ -14274,12 +14273,12 @@ NameplateCooldownsAceDB = {
 						[108199] = true,
 					},
 				},
-				["Frost Nova"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 30,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[122] = true,
+						[336126] = true,
 					},
 				},
 				["Thunderstorm"] = {
@@ -14290,20 +14289,20 @@ NameplateCooldownsAceDB = {
 						[51490] = true,
 					},
 				},
-				["Sigil of Silence"] = {
+				["Ursol's Vortex"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[202137] = true,
-					},
-				},
-				["Illidan's Grasp"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
+					["class"] = "DRUID",
 					["cooldown"] = 60,
 					["spellIDs"] = {
-						[205630] = true,
+						[102793] = true,
+					},
+				},
+				["Blood Fury"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[33697] = true,
 					},
 				},
 				["Shockwave"] = {
@@ -14314,12 +14313,12 @@ NameplateCooldownsAceDB = {
 						[46968] = true,
 					},
 				},
-				["Healing Tide Totem"] = {
+				["Spiritwalker's Grace"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 180,
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[108280] = true,
+						[79206] = true,
 					},
 				},
 				["Storm Bolt"] = {
@@ -14330,12 +14329,12 @@ NameplateCooldownsAceDB = {
 						[107570] = true,
 					},
 				},
-				["Dismantle"] = {
+				["Celestial Alignment"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 45,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[207777] = true,
+						[194223] = true,
 					},
 				},
 				["Shadow Blades"] = {
@@ -14362,28 +14361,12 @@ NameplateCooldownsAceDB = {
 						[107574] = true,
 					},
 				},
-				["Escape Artist"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[20589] = true,
-					},
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60.3,
-					["spellIDs"] = {
-						[46924] = true,
-					},
-				},
-				["Lay on Hands"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[633] = true,
+						[13750] = true,
 					},
 				},
 				["Transcendence: Transfer"] = {
@@ -14394,28 +14377,12 @@ NameplateCooldownsAceDB = {
 						[119996] = true,
 					},
 				},
-				["Arcane Torrent"] = {
+				["Lay on Hands"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
+					["class"] = "PALADIN",
+					["cooldown"] = 300,
 					["spellIDs"] = {
-						[80483] = true,
-					},
-				},
-				["Tremor Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
-					["spellIDs"] = {
-						[8143] = true,
-					},
-				},
-				["Astral Shift"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[108271] = true,
+						[633] = true,
 					},
 				},
 				["Plunder Armor"] = {
@@ -14426,28 +14393,36 @@ NameplateCooldownsAceDB = {
 						[198529] = true,
 					},
 				},
-				["Divine Shield"] = {
+				["Arcane Torrent"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
+					["class"] = "MISC",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[642] = true,
+						[80483] = true,
 					},
 				},
-				["Intimidating Shout"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[5246] = true,
-					},
-				},
-				["Grounding Totem"] = {
+				["Sundering"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 30,
+					["cooldown"] = 40,
 					["spellIDs"] = {
-						[204336] = true,
+						[197214] = true,
+					},
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60.3,
+					["spellIDs"] = {
+						[46924] = true,
 					},
 				},
 				["Sprint"] = {
@@ -14466,6 +14441,30 @@ NameplateCooldownsAceDB = {
 						[31230] = true,
 					},
 				},
+				["Grounding Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[204336] = true,
+					},
+				},
+				["Divine Shield"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[642] = true,
+					},
+				},
+				["Tremor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[8143] = true,
+					},
+				},
 				["Darkflight"] = {
 					["enabled"] = true,
 					["class"] = "MISC",
@@ -14482,12 +14481,12 @@ NameplateCooldownsAceDB = {
 						[207684] = true,
 					},
 				},
-				["Reverse Magic"] = {
+				["Rebuke"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
+					["class"] = "PALADIN",
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[205604] = true,
+						[96231] = true,
 					},
 				},
 				["Ancestral Protection Totem"] = {
@@ -14498,6 +14497,14 @@ NameplateCooldownsAceDB = {
 						[207399] = true,
 					},
 				},
+				["Axe Toss"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[89766] = true,
+					},
+				},
 				["Duel"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
@@ -14506,20 +14513,12 @@ NameplateCooldownsAceDB = {
 						[236273] = true,
 					},
 				},
-				["Binding Shot"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 45,
+					["class"] = "ROGUE",
+					["cooldown"] = 22,
 					["spellIDs"] = {
-						[109248] = true,
-					},
-				},
-				["Icebound Fortitude"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 165,
-					["spellIDs"] = {
-						[48792] = true,
+						[36554] = true,
 					},
 				},
 				["Metamorphosis"] = {
@@ -14530,28 +14529,28 @@ NameplateCooldownsAceDB = {
 						[187827] = true,
 					},
 				},
-				["Desperate Prayer"] = {
+				["Paralysis"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
+					["class"] = "MONK",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[19236] = true,
+						[115078] = true,
 					},
 				},
-				["Enraged Regeneration"] = {
+				["Call Felhunter"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 120,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
 					["spellIDs"] = {
-						[184364] = true,
+						[212619] = true,
 					},
 				},
-				["Feral Spirit"] = {
+				["Icebound Fortitude"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 165,
 					["spellIDs"] = {
-						[51533] = true,
+						[48792] = true,
 					},
 				},
 				["Grappling Hook"] = {
@@ -14562,12 +14561,12 @@ NameplateCooldownsAceDB = {
 						[195457] = true,
 					},
 				},
-				["Kick"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 15,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[1766] = true,
+						[58984] = true,
 					},
 				},
 				["Imprison"] = {
@@ -14578,12 +14577,12 @@ NameplateCooldownsAceDB = {
 						[217832] = true,
 					},
 				},
-				["Recklessness"] = {
+				["Desperate Prayer"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
+					["class"] = "PRIEST",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[1719] = true,
+						[19236] = true,
 					},
 				},
 				["Lichborne"] = {
@@ -14594,12 +14593,12 @@ NameplateCooldownsAceDB = {
 						[49039] = true,
 					},
 				},
-				["Guardian Spirit"] = {
+				["Sharpen Blade"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[47788] = true,
+						[198817] = true,
 					},
 				},
 				["Blinding Sleet"] = {
@@ -14610,68 +14609,12 @@ NameplateCooldownsAceDB = {
 						[207167] = true,
 					},
 				},
-				["Holy Ward"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[213610] = true,
-					},
-				},
-				["Ironbark"] = {
+				["Rebirth"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 90,
+					["cooldown"] = 600,
 					["spellIDs"] = {
-						[102342] = true,
-					},
-				},
-				["Blessing of Protection"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 225,
-					["spellIDs"] = {
-						[1022] = true,
-					},
-				},
-				["Smoke Bomb"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[212182] = true,
-					},
-				},
-				["Harpoon"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[190925] = true,
-					},
-				},
-				["Blessing of Spellwarding"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 108,
-					["spellIDs"] = {
-						[204018] = true,
-					},
-				},
-				["Divine Hymn"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[64843] = true,
-					},
-				},
-				["Berserking"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[26297] = true,
+						[20484] = true,
 					},
 				},
 				["Asphyxiate"] = {
@@ -14680,6 +14623,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["spellIDs"] = {
 						[108194] = true,
+					},
+				},
+				["Blessing of Sacrifice"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 72,
+					["spellIDs"] = {
+						[6940] = true,
 					},
 				},
 				["Song of Chi-Ji"] = {
@@ -14698,6 +14649,54 @@ NameplateCooldownsAceDB = {
 						[10060] = true,
 					},
 				},
+				["Blessing of Spellwarding"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 108,
+					["spellIDs"] = {
+						[204018] = true,
+					},
+				},
+				["Divine Hymn"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[64843] = true,
+					},
+				},
+				["Enraged Regeneration"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[184364] = true,
+					},
+				},
+				["Kick"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1766] = true,
+					},
+				},
+				["Smoke Bomb"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[212182] = true,
+					},
+				},
+				["Charge"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[100] = true,
+					},
+				},
 				["Displacement"] = {
 					["enabled"] = true,
 					["class"] = "MAGE",
@@ -14706,44 +14705,44 @@ NameplateCooldownsAceDB = {
 						[195676] = true,
 					},
 				},
-				["Avenging Wrath"] = {
+				["Leg Sweep"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-				},
-				["Evasion"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[5277] = true,
-					},
-				},
-				["Vendetta"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[79140] = true,
-					},
-				},
-				["Greater Fade"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
+					["class"] = "MONK",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[213602] = true,
+						[119381] = true,
 					},
 				},
-				["Incarnation: Chosen of Elune"] = {
+				["Harpoon"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[190925] = true,
+					},
+				},
+				["Incapacitating Roar"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[102560] = true,
+						[99] = true,
+					},
+				},
+				["Capacitor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[192058] = true,
+					},
+				},
+				["Guardian of the Forgotten Queen"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[228049] = true,
 					},
 				},
 				["Mind Freeze"] = {
@@ -14778,68 +14777,12 @@ NameplateCooldownsAceDB = {
 						[185313] = true,
 					},
 				},
-				["Last Stand"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 36,
-					["spellIDs"] = {
-						[12975] = true,
-					},
-				},
-				["Divine Protection"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[498] = true,
-					},
-				},
-				["Touch of Karma"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[122470] = true,
-					},
-				},
-				["Coordinated Assault"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
-					["spellIDs"] = {
-						[266779] = true,
-					},
-				},
-				["Army of the Dead"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 240,
-					["spellIDs"] = {
-						[42650] = true,
-					},
-				},
-				["Zen Meditation"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[115176] = true,
-					},
-				},
 				["Shadowy Duel"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
 					["cooldown"] = 120,
 					["spellIDs"] = {
 						[207736] = true,
-					},
-				},
-				["Muzzle"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[187707] = true,
 					},
 				},
 				["Spectral Sight"] = {
@@ -14850,12 +14793,68 @@ NameplateCooldownsAceDB = {
 						[188501] = true,
 					},
 				},
-				["Nether Ward"] = {
+				["Touch of Karma"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
+					["class"] = "MONK",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[212295] = true,
+						[122470] = true,
+					},
+				},
+				["PvP Trinket"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[283167] = true,
+					},
+				},
+				["Army of the Dead"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 240,
+					["spellIDs"] = {
+						[42650] = true,
+					},
+				},
+				["Incarnation: Chosen of Elune"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102560] = true,
+					},
+				},
+				["Psychic Scream"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[8122] = true,
+					},
+				},
+				["Crimson Vial"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[185311] = true,
+					},
+				},
+				["Divine Protection"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[498] = true,
+					},
+				},
+				["Dampen Harm"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[122278] = true,
 					},
 				},
 				["Warbreaker"] = {
@@ -14874,12 +14873,12 @@ NameplateCooldownsAceDB = {
 						[152173] = true,
 					},
 				},
-				["Bestial Wrath"] = {
+				["Void Shift"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 76.5,
+					["class"] = "PRIEST",
+					["cooldown"] = 300,
 					["spellIDs"] = {
-						[19574] = true,
+						[108968] = true,
 					},
 				},
 				["Overrun"] = {
@@ -14890,36 +14889,36 @@ NameplateCooldownsAceDB = {
 						[202246] = true,
 					},
 				},
-				["PvP Trinket"] = {
+				["Coordinated Assault"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
 					["spellIDs"] = {
-						[283167] = true,
+						[266779] = true,
 					},
 				},
-				["Anti-Magic Shell"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 40,
-					["spellIDs"] = {
-						[48707] = true,
-					},
-				},
-				["Blink"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[1953] = true,
-					},
-				},
-				["Disarm"] = {
+				["Last Stand"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
+					["cooldown"] = 36,
+					["spellIDs"] = {
+						[12975] = true,
+					},
+				},
+				["Nether Ward"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[236077] = true,
+						[212295] = true,
+					},
+				},
+				["Avenging Crusader"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[216331] = true,
 					},
 				},
 				["Pummel"] = {
@@ -14954,12 +14953,12 @@ NameplateCooldownsAceDB = {
 						[187650] = true,
 					},
 				},
-				["Ethereal Form"] = {
+				["Rocket Barrage"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 45,
+					["class"] = "MISC",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[210918] = true,
+						[69041] = true,
 					},
 				},
 				["Shield Wall"] = {
@@ -14978,12 +14977,12 @@ NameplateCooldownsAceDB = {
 						[7744] = true,
 					},
 				},
-				["Flare"] = {
+				["Bestial Wrath"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
-					["cooldown"] = 20,
+					["cooldown"] = 76.5,
 					["spellIDs"] = {
-						[1543] = true,
+						[19574] = true,
 					},
 				},
 				["Casting Circle"] = {
@@ -14994,20 +14993,20 @@ NameplateCooldownsAceDB = {
 						[221703] = true,
 					},
 				},
-				["Diffuse Magic"] = {
+				["Disarm"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 90,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[122783] = true,
+						[236077] = true,
 					},
 				},
-				["Stampede"] = {
+				["Ethereal Form"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 120,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[201430] = true,
+						[210918] = true,
 					},
 				},
 				["Master's Call"] = {
@@ -15018,20 +15017,20 @@ NameplateCooldownsAceDB = {
 						[53271] = true,
 					},
 				},
-				["Freezing Arrow"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[209789] = true,
+						[196555] = true,
 					},
 				},
-				["Mortal Coil"] = {
+				["Dragon's Breath"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
+					["class"] = "MAGE",
+					["cooldown"] = 18,
 					["spellIDs"] = {
-						[6789] = true,
+						[31661] = true,
 					},
 				},
 				["Invoke Xuen, the White Tiger"] = {
@@ -15074,12 +15073,12 @@ NameplateCooldownsAceDB = {
 						[205369] = true,
 					},
 				},
-				["Blur"] = {
+				["Disrupt"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[198589] = true,
+						[183752] = true,
 					},
 				},
 				["Spirit Link Totem"] = {
@@ -15090,28 +15089,12 @@ NameplateCooldownsAceDB = {
 						[98008] = true,
 					},
 				},
-				["Invisibility"] = {
+				["Dark Simulacrum"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 300,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[66] = true,
-					},
-				},
-				["Blessing of Sanctuary"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[210256] = true,
-					},
-				},
-				["Crusade"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[231895] = true,
+						[77606] = true,
 					},
 				},
 				["Will to Survive"] = {
@@ -15122,28 +15105,28 @@ NameplateCooldownsAceDB = {
 						[59752] = true,
 					},
 				},
+				["Crusade"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[231895] = true,
+					},
+				},
+				["Blessing of Sanctuary"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[210256] = true,
+					},
+				},
 				["Wind Rush Totem"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
 					["cooldown"] = 120,
 					["spellIDs"] = {
 						[192077] = true,
-					},
-				},
-				["Barkskin"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 34.2,
-					["spellIDs"] = {
-						[22812] = true,
-					},
-				},
-				["Colossus Smash"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[167105] = true,
 					},
 				},
 				["Death Pact"] = {
@@ -15154,28 +15137,28 @@ NameplateCooldownsAceDB = {
 						[48743] = true,
 					},
 				},
-				["Heroic Leap"] = {
+				["Colossus Smash"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
-					["cooldown"] = 30,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[6544] = true,
+						[167105] = true,
 					},
 				},
-				["Demonic Trample"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 20,
+					["class"] = "DRUID",
+					["cooldown"] = 34.2,
 					["spellIDs"] = {
-						[205629] = true,
+						[22812] = true,
 					},
 				},
-				["Exhilaration"] = {
+				["Survival Instincts"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
+					["class"] = "DRUID",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[109304] = true,
+						[61336] = true,
 					},
 				},
 				["Stoneform"] = {
@@ -15186,12 +15169,28 @@ NameplateCooldownsAceDB = {
 						[20594] = true,
 					},
 				},
-				["Survival Instincts"] = {
+				["Exhilaration"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 180,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
 					["spellIDs"] = {
-						[61336] = true,
+						[109304] = true,
+					},
+				},
+				["Demonic Trample"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[205629] = true,
+					},
+				},
+				["Heroic Leap"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[6544] = true,
 					},
 				},
 				["Blessing of Freedom"] = {
@@ -15210,20 +15209,20 @@ NameplateCooldownsAceDB = {
 						[78675] = true,
 					},
 				},
-				["Dark Simulacrum"] = {
+				["Invisibility"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 20,
+					["class"] = "MAGE",
+					["cooldown"] = 300,
 					["spellIDs"] = {
-						[77606] = true,
+						[66] = true,
 					},
 				},
-				["Disrupt"] = {
+				["Blur"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
-					["cooldown"] = 15,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[183752] = true,
+						[198589] = true,
 					},
 				},
 				["Vanish"] = {
@@ -15234,68 +15233,68 @@ NameplateCooldownsAceDB = {
 						[1856] = true,
 					},
 				},
-				["Dragon's Breath"] = {
+				["Mortal Coil"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 18,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[31661] = true,
+						[6789] = true,
 					},
 				},
-				["Netherwalk"] = {
+				["Freezing Arrow"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[196555] = true,
-					},
-				},
-				["Rocket Barrage"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[69041] = true,
-					},
-				},
-				["Avenging Crusader"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[216331] = true,
-					},
-				},
-				["Void Shift"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[108968] = true,
-					},
-				},
-				["Dampen Harm"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[122278] = true,
-					},
-				},
-				["Crimson Vial"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[185311] = true,
-					},
-				},
-				["Psychic Scream"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
+					["class"] = "HUNTER",
 					["cooldown"] = 30,
 					["spellIDs"] = {
-						[8122] = true,
+						[209789] = true,
+					},
+				},
+				["Stampede"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[201430] = true,
+					},
+				},
+				["Diffuse Magic"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[122783] = true,
+					},
+				},
+				["Flare"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[1543] = true,
+					},
+				},
+				["Blink"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1953] = true,
+					},
+				},
+				["Muzzle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[187707] = true,
+					},
+				},
+				["Anti-Magic Shell"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[48707] = true,
 					},
 				},
 				["Tracker's Net"] = {
@@ -15322,44 +15321,44 @@ NameplateCooldownsAceDB = {
 						[15487] = true,
 					},
 				},
-				["Guardian of the Forgotten Queen"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[228049] = true,
-					},
-				},
-				["Capacitor Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
-					["spellIDs"] = {
-						[192058] = true,
-					},
-				},
-				["Incapacitating Roar"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[99] = true,
-					},
-				},
-				["Leg Sweep"] = {
+				["Zen Meditation"] = {
 					["enabled"] = true,
 					["class"] = "MONK",
-					["cooldown"] = 45,
+					["cooldown"] = 75,
 					["spellIDs"] = {
-						[119381] = true,
+						[115176] = true,
 					},
 				},
-				["Charge"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 20,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[100] = true,
+						[213602] = true,
+					},
+				},
+				["Vendetta"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[79140] = true,
+					},
+				},
+				["Evasion"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[5277] = true,
+					},
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31884] = true,
 					},
 				},
 				["Shambling Rush"] = {
@@ -15378,12 +15377,12 @@ NameplateCooldownsAceDB = {
 						[233759] = true,
 					},
 				},
-				["Blessing of Sacrifice"] = {
+				["Blessing of Protection"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 72,
+					["cooldown"] = 225,
 					["spellIDs"] = {
-						[6940] = true,
+						[1022] = true,
 					},
 				},
 				["Combustion"] = {
@@ -15394,68 +15393,68 @@ NameplateCooldownsAceDB = {
 						[190319] = true,
 					},
 				},
-				["Rebirth"] = {
+				["Holy Ward"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 600,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[20484] = true,
+						[213610] = true,
 					},
 				},
-				["Sharpen Blade"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[198817] = true,
-					},
-				},
-				["Shadowmeld"] = {
+				["Berserking"] = {
 					["enabled"] = true,
 					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[26297] = true,
+					},
+				},
+				["Ironbark"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[102342] = true,
+					},
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[58984] = true,
+						[47788] = true,
 					},
 				},
-				["Call Felhunter"] = {
+				["Recklessness"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[212619] = true,
+						[1719] = true,
 					},
 				},
-				["Paralysis"] = {
+				["Feral Spirit"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 30,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[115078] = true,
+						[51533] = true,
 					},
 				},
-				["Shadowstep"] = {
+				["Binding Shot"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 22,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[36554] = true,
+						[109248] = true,
 					},
 				},
-				["Axe Toss"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 30,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[89766] = true,
-					},
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[96231] = true,
+						[205604] = true,
 					},
 				},
 				["Ardent Defender"] = {
@@ -15482,20 +15481,20 @@ NameplateCooldownsAceDB = {
 						[202914] = true,
 					},
 				},
-				["Shadowfury"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[30283] = true,
-					},
-				},
-				["Sundering"] = {
+				["Astral Shift"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 40,
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[197214] = true,
+						[108271] = true,
+					},
+				},
+				["Intimidating Shout"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[5246] = true,
 					},
 				},
 				["Tranquility"] = {
@@ -15514,12 +15513,12 @@ NameplateCooldownsAceDB = {
 						[344867] = true,
 					},
 				},
-				["Adrenaline Rush"] = {
+				["Escape Artist"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
+					["class"] = "MISC",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[13750] = true,
+						[20589] = true,
 					},
 				},
 				["Touch of Death"] = {
@@ -15538,12 +15537,12 @@ NameplateCooldownsAceDB = {
 						[51690] = true,
 					},
 				},
-				["Celestial Alignment"] = {
+				["Dismantle"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "ROGUE",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[194223] = true,
+						[207777] = true,
 					},
 				},
 				["Sigil of Chains"] = {
@@ -15554,12 +15553,12 @@ NameplateCooldownsAceDB = {
 						[202138] = true,
 					},
 				},
-				["Spiritwalker's Grace"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 60,
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[79206] = true,
+						[108280] = true,
 					},
 				},
 				["Temporal Shield"] = {
@@ -15570,36 +15569,36 @@ NameplateCooldownsAceDB = {
 						[198111] = true,
 					},
 				},
-				["Blood Fury"] = {
+				["Illidan's Grasp"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[33697] = true,
-					},
-				},
-				["Ursol's Vortex"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
+					["class"] = "DEMONHUNTER",
 					["cooldown"] = 60,
 					["spellIDs"] = {
-						[102793] = true,
+						[205630] = true,
 					},
 				},
-				["Gladiator's Medallion"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[336126] = true,
+						[202137] = true,
 					},
 				},
-				["Summon Infernal"] = {
+				["Frost Nova"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[1122] = true,
+						[122] = true,
+					},
+				},
+				["Dispersion"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[47585] = true,
 					},
 				},
 				["Disengage"] = {
@@ -15610,12 +15609,12 @@ NameplateCooldownsAceDB = {
 						[781] = true,
 					},
 				},
-				["Incarnation: King of the Jungle"] = {
+				["Faerie Swarm"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[102543] = true,
+						[209749] = true,
 					},
 				},
 				["Gift of the Naaru"] = {
@@ -15626,12 +15625,12 @@ NameplateCooldownsAceDB = {
 						[59543] = true,
 					},
 				},
-				["Rocket Jump"] = {
+				["Dark Pact"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[69070] = true,
+						[108416] = true,
 					},
 				},
 				["Eye of Leotheras"] = {
@@ -15666,12 +15665,12 @@ NameplateCooldownsAceDB = {
 						[2825] = true,
 					},
 				},
-				["Renewal"] = {
+				["Typhoon"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
-					["cooldown"] = 90,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[108238] = true,
+						[132469] = true,
 					},
 				},
 				["Leap of Faith"] = {
@@ -15682,20 +15681,20 @@ NameplateCooldownsAceDB = {
 						[73325] = true,
 					},
 				},
-				["Mighty Bash"] = {
+				["Wind Shear"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 54,
+					["class"] = "SHAMAN",
+					["cooldown"] = 9,
 					["spellIDs"] = {
-						[5211] = true,
+						[57994] = true,
 					},
 				},
-				["Aura Mastery"] = {
+				["Shimmer"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[31821] = true,
+						[212653] = true,
 					},
 				},
 				["Dash"] = {
@@ -15714,23 +15713,24 @@ NameplateCooldownsAceDB = {
 						[114052] = true,
 					},
 				},
-				["Incarnation: Tree of Life"] = {
+				["Spell Lock"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
 					["spellIDs"] = {
-						[33891] = true,
+						[19647] = true,
 					},
 				},
-				["Apocalypse"] = {
+				["Supernova"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 30,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[275699] = true,
+						[157980] = true,
 					},
 				},
 			},
+			["DBVersion"] = 11,
 			["MigrationVersion"] = 6,
 			["TimerTextSize"] = 13,
 		},

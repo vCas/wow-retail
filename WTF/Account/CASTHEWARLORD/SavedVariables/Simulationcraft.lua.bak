@@ -4,8 +4,8 @@ SimulationCraftDB = {
 		["Kureq - Draenor"] = "Kureq - Draenor",
 		["Classfantasy - Draenor"] = "Classfantasy - Draenor",
 		["Stiphy - Draenor"] = "Stiphy - Draenor",
-		["Abusedtampax - Draenor"] = "Abusedtampax - Draenor",
 		["Muhreq - Draenor"] = "Muhreq - Draenor",
+		["Abusedtampax - Draenor"] = "Abusedtampax - Draenor",
 		["Reuseddurex - Draenor"] = "Reuseddurex - Draenor",
 		["Priestboost - Draenor"] = "Priestboost - Draenor",
 		["Moistmist - Draenor"] = "Moistmist - Draenor",
@@ -25,9 +25,9 @@ SimulationCraftDB = {
 		},
 		["Stiphy - Draenor"] = {
 		},
-		["Abusedtampax - Draenor"] = {
-		},
 		["Muhreq - Draenor"] = {
+		},
+		["Abusedtampax - Draenor"] = {
 		},
 		["Reuseddurex - Draenor"] = {
 		},

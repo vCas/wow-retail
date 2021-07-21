@@ -1,12 +1,12 @@
 
 BattleGroundEnemiesDB = {
 	["profileKeys"] = {
-		["Stiphy - Draenor"] = "Default",
 		["Kureq - Draenor"] = "Default",
+		["Stiphy - Draenor"] = "Default",
 		["Reuseddurex - Draenor"] = "Default",
+		["Crawgwa - Draenor"] = "Default",
 		["Abusedtampax - Draenor"] = "Default",
 		["Muhreq - Draenor"] = "Default",
-		["Crawgwa - Draenor"] = "Default",
 		["Recursion - Runetotem"] = "Default",
 		["Priestboost - Draenor"] = "Default",
 		["Moistmist - Draenor"] = "Default",
@@ -28,6 +28,7 @@ BattleGroundEnemiesDB = {
 			},
 			["Locked"] = true,
 			["lastReadVersion"] = "9.0.5.6",
+			["DisableArenaFrames"] = true,
 			["Enemies"] = {
 				["40"] = {
 					["Position_Y"] = 562.5067219759076,
@@ -43,7 +44,6 @@ BattleGroundEnemiesDB = {
 					["Position_X"] = 1045.866695373057,
 				},
 			},
-			["DisableArenaFrames"] = true,
 		},
 	},
 }

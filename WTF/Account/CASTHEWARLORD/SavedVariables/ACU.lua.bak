@@ -1,14 +1,14 @@
 
 AddonCpuUsageDB = {
 	["profileKeys"] = {
-		["Muhreq - Draenor"] = "Default",
-		["Kureq - Draenor"] = "Default",
+		["Crawgwa - Draenor"] = "Default",
 		["Stiphy - Draenor"] = "Default",
 		["Kureq - Runetotem"] = "Default",
+		["Kureq - Draenor"] = "Default",
 		["Reuseddurex - Draenor"] = "Default",
 		["Dryspell - Draenor"] = "Default",
 		["Emmortal - Draenor"] = "Default",
-		["Crawgwa - Draenor"] = "Default",
+		["Muhreq - Draenor"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
